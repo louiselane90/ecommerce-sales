@@ -30,30 +30,56 @@ MERCARI (Coming Soon)<br />
 AMAZON (Coming Soon)<br />
 
 ### Load Data
+
+*All Files (complete one time)*
 1. Open SSMS.
 2. Connect to applicable server.
 3. Right-click on 'Databases' under 'Object Explorer.'
 4. Select 'New Database.'
-5. Fill in 'Database name' to eC (recommended: eCommerceSalesData).
+5. Fill in 'Database name' to eCommerceSalesData.
 6. Select 'Ok.'
-7. Expand 'Databases' list.
-8. Right-click on the database you just created.
-9. Select 'Tasks' > 'Import Data.'
-10. The Import/Export Wizard welcome screen will appear, select 'Next.'
-11. From the 'Data source' drop down, select 'Microsoft Excel.'
-12. Select 'Browse...'
-13. Locate the file then select 'Next.'
-14. From the 'Destination' drop down, select "SQL Server Native Client 11.0.'
-15. From the 'Server name' drop down, select the applicable server.
-16. Select the applicable 'Authenticaton' radio button.
-17. From the 'Database' drop down, ensure the correct database is selected (created in step 5).
-18. Select the radio button, "Copy data from..." then select 'Next.'
-19. Under the 'Destination' column, edit the text to rename your table as follows:
-19a. Rename Poshmark Sales Report download to PoshmarkSales
-19b. Rename Personal Excel File(s) to MySales[year]
-20. Check the box 'Run immediately' and leave 'Save SSIS Package' unchecked, then select 'Finish,' then 'Finish' again.
-21. Resolve any errors identified or select 'Close.'
-22. Repeat steps 7-21 until all files are imported.
+
+
+*Excel Files*
+1. Expand 'Databases' list.
+2. Right-click on the database you just created.
+3. Select 'Tasks' > 'Import Data.'
+4. The Import/Export Wizard welcome screen will appear, select 'Next.'
+5. From the 'Data source' drop down, select 'Microsoft Excel.'
+6. Select 'Browse...'
+7. Locate the file then select 'Next.'
+8. From the 'Destination' drop down, select "SQL Server Native Client 11.0.'
+9. From the 'Server name' drop down, select the applicable server.
+10. Select the applicable 'Authenticaton' radio button.
+11. From the 'Database' drop down, ensure the correct database is selected (created in step 5).
+12. Select the radio button, "Copy data from..." then select 'Next.'
+13. Under the 'Destination' column, edit the text to rename your table as follows:
+13a. Rename Poshmark Sales Report download to PoshmarkSales
+13b. Rename Personal Excel File(s) to MySales[year]
+14. Check the box 'Run immediately' and leave 'Save SSIS Package' unchecked, then select 'Finish,' then 'Finish' again.
+15. Resolve any errors identified or select 'Close.'
+16. Repeat steps until all files are imported.
+
+
+*CSV Files*
+1. Expand 'Databases' list.
+2. Right-click on the database you just created.
+3. Select 'Tasks' > 'Import Flat File.'
+4. The Import Flat File Wizard welcome screen will appear, select 'Next.'
+5. Select 'Browse...'
+6. Locate the file.
+7. Under 'New table name' enter your table name as follows:
+7a. Rename Poshmark Sales Report download to PoshmarkSales
+7b. Rename Personal Excel File(s) to MySales[year(s)]
+8. Select 'Next.'
+9. On the 'Preview data' screen, do not make any changes. Select 'Next.'
+10. On the 'Modify Columns' screen:
+10a. Check the box in the column 'Allow Nulls' for all rows.
+10b. Change 'Data Type' for 'Column Name' "Item" to 'varchar(MAX).
+11. Select 'Next.'
+12. Resolve any errors identified or select 'Close.'
+13. Repeat steps until all files are imported.
+
 
 ### Clean Raw Data
 1. 
