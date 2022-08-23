@@ -82,9 +82,10 @@ AMAZON (Coming Soon)<br />
 
 
 ### Clean Raw Data
-1. 
-2. 
-3. 
+1. Open SSMS.
+2. Connect to applicable server.
+3. Select 'New Query' from the ribbon.
+4. Copy/Paste code from repository.
 
 ### Import to Tableau & Create New Dashboard
 1. 
