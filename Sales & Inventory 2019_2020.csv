@@ -1,0 +1,1318 @@
+Source,Item,SKU,Base Price,COGS,Date Listed,Year Month Listed,Platform Sold,Gross Sales,Platform Fee,Shipping,Gross Profit,Net Profit,Date Sold,Year Month Sold,Age of Listing
+Closet,Ann Taylor Red Geometric Tank,A0001,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$5.00 ,$2.95 ,$0.00 ,$2.05 ,$2.05 ,12/8/2019,201912,82
+Closet,H&M Printed Sleeveless Blouse,A0002,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$11.00 ,$2.20 ,$0.00 ,$8.80 ,$8.80 ,3/1/2020,20203,166
+Closet,Who What Wear Floral High-Low Blouse,A0003,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$6.67 ,4/23/2020,20204,219
+Closet,Who What Wear Striped High-Low Blouse,A0004,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,1/12/2020,20201,117
+Closet,EXPRESS Zip Back Crew Neck Gramercy Tee Navy,A0005,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$12.00 ,$2.40 ,$0.90 ,$8.70 ,$8.70 ,9/18/2019,20199,1
+Closet,EXPRESS Zip Back Crew Neck Gramercy Tee Blush,A0006,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$12.00 ,$2.40 ,$0.90 ,$8.70 ,$8.70 ,9/18/2019,20199,1
+Closet,Ann Taylor Floral Peplum Cap Sleeve Blouse,A0007,$0.00 ,$0.00 ,9/17/2019,20199,,,,,,,,,1071
+Closet,Cream/White Knit Sweater,A0008,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$16.00 ,$3.75 ,$0.53 ,$11.72 ,$11.72 ,4/3/2020,20204,199
+Closet,Dana Buchman Metallic Cream 3/4 Sleeve Sweater,A0009,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,12/27/2019,201912,101
+Closet,a.n.a. Red Knit Sweater,A0010,$0.00 ,$0.00 ,9/17/2019,20199,ThredUp,$24.99 ,$20.61 ,$0.00 ,$4.38 ,$4.38 ,9/22/2020,20209,371
+Closet,Mudd High Low Knit Sweater,A0011,$0.00 ,$0.00 ,9/17/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,404
+Closet,Michael Kors Crossbody,A0012,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$50.00 ,$10.00 ,$0.00 ,$40.00 ,$40.00 ,2/12/2019,20192,11
+Closet,American Eagle Strappy floral tank,A0013,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$5.05 ,2/18/2019,20192,17
+Closet,Short sleeve cardigan,A0014,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$6.00 ,$2.95 ,$0.00 ,$3.05 ,$3.05 ,4/8/2019,20194,66
+Closet,Puma Leggings,A0015,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$6.05 ,8/30/2019,20198,210
+Closet,Columbia Winter Coat,A0016,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$20.00 ,9/10/2019,20199,221
+Garage Sale,American Rag I Cie teal boho scrunch dress,A0017,$2.00 ,$2.00 ,9/14/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.00 ,9/15/2019,20199,1
+Closet,Express blouse,A0018,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$11.05 ,9/17/2019,20199,228
+Closet,White Lace Shorts Elastic Waist,A0019,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$14.00 ,$2.80 ,$0.00 ,$11.20 ,$11.20 ,1/5/2020,20201,109
+Closet,Under Armour Heat Gear Compression Cropped Legging,A0020,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$11.00 ,$2.20 ,$0.90 ,$7.90 ,$7.90 ,9/29/2019,20199,11
+Closet,Under Armour NWOT Compression Heat Gear Leggings,A0021,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$17.00 ,$3.40 ,$0.00 ,$13.60 ,$13.60 ,11/12/2019,201911,55
+Closet,Nike dri-fit blue striped strappy workout tank top,A0022,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$12.80 ,1/4/2020,20201,108
+Closet,Nike Dri-Fit Running tee,A0023,$0.00 ,$0.00 ,9/18/2019,20199,ThredUp,$42.99 ,$31.59 ,$0.00 ,$11.40 ,$11.40 ,8/28/2020,20208,345
+Closet,Universal Thread Mid Rise Jegging Short Size 2/26,A0024,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,11/12/2019,201911,55
+Closet,C&E Floral Gray Cold Shoulder Top Blouse,A0025,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,5/14/2020,20205,239
+Closet,H&M Floral Lace Cap Sleeve Blouse Top,A0026,$0.00 ,$0.00 ,9/18/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,468
+Closet,The Limited Long Sleeve Navy Blouse Brown Dot,A0027,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,1/18/2020,20201,122
+Closet,LOFT Multi-Colored Faux Tweed “Mod” Skirt,A0028,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$15.00 ,$3.30 ,$0.00 ,$11.70 ,$11.70 ,12/18/2019,201912,91
+Closet,Simply Vera Wang Grey Pencil Skirt Stretch,A0029,$0.00 ,$0.00 ,9/18/2019,20199,Poshmark,$19.00 ,$3.30 ,$0.00 ,$15.70 ,$15.70 ,12/18/2019,201912,91
+Closet,Forever 21 Black/Green Print Elastic Waist Skirt,A0030,$0.00 ,$0.00 ,9/18/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,468
+Garage Sale,Polo Ralph Lauren Gold Cable Knit Sweater,A0031,$2.00 ,$2.00 ,9/14/2019,20199,Poshmark,$20.00 ,$4.00 ,$1.80 ,$14.20 ,$12.20 ,9/19/2019,20199,5
+Closet,Betsey Johnson Tan/Black Bow Quilted Purse,A0032,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$28.00 ,$5.60 ,$0.00 ,$22.40 ,$22.40 ,10/2/2019,201910,13
+Closet,Express Distressed Mid-Rise Skinny Jeggings,A0033,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$16.00 ,11/13/2019,201911,55
+Closet,UnderArmour Heat Gear Compression Cropped Leggings,A0034,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$11.00 ,$2.20 ,$0.90 ,$7.90 ,$7.90 ,9/29/2019,20199,10
+Closet,Under Armour Cold Gear Compression Legging,A0035,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$13.00 ,$2.95 ,$1.80 ,$8.25 ,$8.25 ,10/2/2019,201910,13
+Closet,Reserved Red White Blue Vertical Stripe Shorts,A0036,$0.00 ,$0.00 ,9/19/2019,20199,ThredUp,$4.99 ,$4.80 ,$0.00 ,$0.19 ,$0.19 ,12/27/2020,202012,465
+Closet,Old Navy Pixie Chino Tan Shorts,A0037,$0.00 ,$0.00 ,9/19/2019,20199,,,,,,,,,1069
+Closet,Old Navy Pixie Chino White Shorts,A0038,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$4.00 ,2/11/2020,20202,145
+Closet,Aerie NWOT Black Halter Bralette,A0039,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,12/23/2019,201912,95
+Closet,Aerie NWOT Navy Halter Bralette,A0040,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$10.05 ,5/18/2020,20205,242
+Closet,Michael Kors Jet Set Large Travel Tote Purse,A0041,$0.00 ,$0.00 ,9/19/2019,20199,Mercari,$64.00 ,$6.40 ,$8.34 ,$49.26 ,$49.26 ,11/23/2019,201911,65
+Closet,Xhilaration Leather Knee High Boots Black,A0042,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,12/3/2019,201912,75
+Closet,Coral infinity scarf,A0043,$0.00 ,$0.00 ,1/20/2020,20201,,,,,,,,,946
+Closet,Navy floral infinity scarf,A0044,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.50 ,$0.92 ,$0.00 ,$3.58 ,$3.58 ,12/25/2019,201912,97
+Closet,Maroon Infinity Scarf,A0045,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.00 ,$2.95 ,$0.00 ,$1.05 ,$1.05 ,9/29/2019,20199,10
+Closet,Black lightweight infinity scarf,A0046,$0.00 ,$0.00 ,1/20/2020,20201,,,,,,,,,946
+Closet,Light pink and grey knit scarf,A0047,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.50 ,$0.92 ,$0.00 ,$3.58 ,$3.58 ,12/25/2019,201912,97
+Closet,Grey patterned infinity scarf,A0048,$0.00 ,$0.00 ,1/21/2020,20201,,,,,,,,,945
+Closet,Red knit scarf,A0049,$0.00 ,$0.00 ,1/21/2020,20201,,,,,,,,,945
+Closet,Tan and cream patterned knit scarf,A0050,$0.00 ,$0.00 ,1/21/2020,20201,Poshmark,$6.67 ,$1.33 ,$0.00 ,$5.33 ,$5.33 ,4/25/2020,20204,95
+Closet,Pink and white polka dot scarf,A0051,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.50 ,$0.92 ,$0.00 ,$3.58 ,$3.58 ,12/25/2019,201912,97
+Closet,Black knit scarf,A0052,$0.00 ,$0.00 ,1/21/2020,20201,Poshmark,$5.00 ,$2.95 ,$0.00 ,$2.05 ,$2.05 ,5/19/2020,20205,119
+Closet,Purple knit scarf,A0053,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.50 ,$0.92 ,$0.00 ,$3.58 ,$3.58 ,12/25/2019,201912,97
+Closet,Mint Green Scarf,A0054,$0.00 ,$0.00 ,1/20/2020,20201,Poshmark,$6.67 ,$1.33 ,$0.00 ,$5.33 ,$5.33 ,4/25/2020,20204,96
+Closet,Purple & gray scarf,A0055,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$7.00 ,$2.95 ,$0.00 ,$4.05 ,$4.05 ,1/6/2020,20201,109
+Closet,Green & white scarf,A0056,$0.00 ,$0.00 ,1/20/2020,20201,,,,,,,,,946
+Closet,Black & white infinity scarf,A0057,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$4.50 ,$0.92 ,$0.00 ,$3.58 ,$3.58 ,12/25/2019,201912,97
+Closet,Francesca's Miami Floral Blouse,A0058,$0.00 ,$0.00 ,2/1/2019,20192,,,,,,,,,1299
+Closet,Express Low Rise Barely Boot Columnist Pants,A0059,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$22.50 ,$4.50 ,$0.00 ,$18.00 ,$18.00 ,9/21/2019,20199,232
+Closet,Express Gray Barely Boot Editor Pants,A0060,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$22.50 ,$4.50 ,$0.00 ,$18.00 ,$18.00 ,9/21/2019,20199,232
+Closet,Express Black Barely Boot Editor Pants,A0061,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$22.50 ,$4.50 ,$0.00 ,$18.00 ,$18.00 ,9/21/2019,20199,232
+Closet,Express Black Barely Boot Editor Pants,A0062,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$17.60 ,2/5/2020,20202,1
+Garage Sale,Green knit tank top,A0063,$0.10 ,$0.10 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.10),10/25/2020,202010,407
+Closet,Victoria's Secret Crop Pants Black Grey Yoga S,A0064,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$11.05 ,4/3/2020,20204,59
+Closet,Banana Republic Martin Black Dress Pants NWT 4S,A0065,$0.00 ,$0.00 ,2/4/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,329
+Closet,Lucky Brand Sweet Crop White,A0066,$0.00 ,$0.00 ,9/17/2019,20199,Poshmark,$19.00 ,$3.80 ,$0.00 ,$15.20 ,$15.20 ,1/26/2020,20201,131
+Closet,Hot & Delicious Dolman Sleeve Abstract Print Dress ,A0067,$0.00 ,$0.00 ,1/29/2020,20201,Poshmark,$16.00 ,$3.20 ,$1.80 ,$11.00 ,$11.00 ,2/1/2020,20202,3
+Closet,Old Navy Bird Floral Print Graphic Sundress M,A0068,$0.00 ,$0.00 ,1/28/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,336
+Closet,Banana Republic Dress,A0069,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$20.00 ,$3.30 ,$0.00 ,$16.70 ,$16.70 ,12/18/2019,201912,90
+Closet,Banana Republic Dress,A0070,$0.00 ,$0.00 ,9/19/2019,20199,,,,,,,,,1069
+Closet,Black dress with white textured design,A0071,$0.00 ,$0.00 ,9/19/2019,20199,Poshmark,$19.00 ,$3.80 ,$0.00 ,$15.20 ,$15.20 ,1/17/2020,20201,120
+Garage Sale,Chambray Dress - Cato,A0072,$2.00 ,$2.00 ,9/14/2019,20199,Poshmark,$9.00 ,$2.95 ,$2.12 ,$3.93 ,$1.93 ,7/7/2020,20207,297
+Closet,Angvns Elegant Lace Cocktail Dress Navy,A0073,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$11.00 ,$2.95 ,$0.00 ,$8.05 ,$8.05 ,1/16/2020,20201,349
+Closet,Navy blue floral dress,A0074,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,3/13/2020,20203,406
+Texas Thrift Store,Tyche printed shorts,A0075,$0.99 ,$1.07 ,9/17/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.99),($1.07),12/31/2020,202012,471
+Closet,Express Button Front Shorts,A0076,$0.00 ,$0.00 ,9/17/2019,20199,,,,,,,,,1071
+Garage Sale,Express light purple v-neck sweater,A0077,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),8/14/2020,20208,335
+Garage Sale,"Ralph Lauren ""The Skinny Polo"" Charcoal",A0078,$2.00 ,$2.00 ,9/14/2019,20199,Poshmark,$9.00 ,$2.95 ,$2.12 ,$3.93 ,$1.93 ,7/7/2020,20207,297
+Garage Sale,Izod Argyle Sweater,A0079,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$19.99 ,$17.59 ,$0.00 ,$2.40 ,$0.40 ,10/29/2020,202010,411
+Closet,Croft & Barrow Color Block Stripe Knit Sweater M,A0080,$0.00 ,$0.00 ,2/1/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,267
+Texas Thrift Store,A'reve boho lightweight sweater/tunic,A0081,$2.00 ,$2.17 ,9/17/2019,20199,Poshmark,$19.67 ,$3.93 ,$0.00 ,$15.73 ,$13.57 ,1/10/2020,20201,115
+Closet,Croft & Barrow Knit 3/4 Sleeve Crew Neck Sweater M,A0082,$0.00 ,$0.00 ,2/4/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,264
+Closet,Calvin Klein Chunky Pink Sweater Crew Neck M,A0083,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$16.00 ,11/5/2020,202011,275
+Closet,NYDJ's Pintuck Pleat Back Blouse,A0084,$0.00 ,$0.00 ,9/17/2019,20199,,,,,,,,,1071
+Closet,H&M Oversize Striped Scoop Neck Long Sleeve Top S,A0085,$0.00 ,$0.00 ,2/3/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,330
+Closet,Tailored Navy/White Blouse,A0086,$0.00 ,$0.00 ,9/17/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,404
+Closet,Haute Monde cream floral blouse cold shoulder,A0087,$0.00 ,$0.00 ,9/17/2019,20199,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$5.66 ,8/28/2020,20208,346
+Garage Sale,Navy chiffon tunic cold shoulder sleeves,A0088,$2.50 ,$2.50 ,9/14/2019,20199,,,,,,,,,1074
+Garage Sale,Navy printed tunic,A0089,$2.50 ,$2.50 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.50),12/29/2020,202012,472
+Garage Sale,Umgee Boho Pink cold shoulder blouse,A0090,$2.50 ,$2.50 ,9/14/2019,20199,,,,,,,,,1074
+Texas Thrift Store,Chelsea & Violet boho peasant cold shoulder top,A0091,$2.00 ,$2.17 ,9/29/2019,20199,,,,,,,,,1059
+Texas Thrift Store,Pink Button up tunic with 3/4 tab sleeves,A0092,$1.00 ,$1.08 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,($1.00),($1.08),12/6/2020,202012,434
+Texas Thrift Store,Divided by H&M Floral orange and white button up dress,A0093,$1.00 ,$1.08 ,11/13/2019,201911,ThredUp,$9.99 ,$9.35 ,$0.00 ,$0.64 ,($0.44),10/18/2020,202010,340
+Texas Thrift Store,Boho Navy Embroidered Tank,A0094,$2.09 ,$2.26 ,9/29/2019,20199,,,,,,,,,1059
+Texas Thrift Store,Athleta Navy & White Chevron Breezy Swing Tank,A0095,$1.39 ,$1.50 ,9/29/2019,20199,Poshmark,$12.50 ,$2.50 ,$0.00 ,$10.00 ,$8.50 ,3/8/2020,20203,161
+Closet,Banana Republic White w/Navy Stripe Pants,A0096,$0.00 ,$0.00 ,11/20/2019,201911,ThredUp,$39.99 ,$29.99 ,$0.00 ,$10.00 ,$10.00 ,9/15/2020,20209,300
+Texas Thrift Store,American Eagle Purple Patterned Tank,A0097,$1.39 ,$1.50 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.50),10/25/2020,202010,392
+Texas Thrift Store,Altar'd State grey chrocheted tank,A0098,$0.50 ,$0.54 ,9/29/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.46 ,4/8/2020,20204,192
+Texas Thrift Store,Thankful and Blessed Red Gold tank high low,A0099,$1.49 ,$1.61 ,9/29/2019,20199,ThredUp,$6.99 ,$6.69 ,$0.00 ,$0.30 ,($1.31),10/3/2020,202010,370
+Texas Thrift Store,Old Navy tan button up safari tank,A0100,$1.99 ,$2.15 ,9/29/2019,20199,Poshmark,$7.00 ,$2.95 ,$0.00 ,$4.05 ,$1.90 ,1/12/2020,20201,105
+Texas Thrift Store,Boho Faux Poncho with tassels,A0101,$2.49 ,$2.70 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.70),12/29/2020,202012,457
+Texas Thrift Store,a'reve boho tan tank with tulle hem,A0102,$2.98 ,$3.23 ,9/29/2019,20199,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$9.57 ,12/27/2019,201912,89
+Texas Thrift Store,American Rag | Cie purple & teal boho tank,A0103,$1.98 ,$2.14 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.14),12/29/2020,202012,457
+Texas Thrift Store,Vintage chambray button up dress,A0104,$1.98 ,$2.14 ,9/29/2019,20199,,,,,,,,,1059
+Texas Thrift Store,postage stamp by Anthropologie black white lace top,A0105,$3.98 ,$4.31 ,9/28/2019,20199,Poshmark,$24.00 ,$4.80 ,$0.00 ,$19.20 ,$14.89 ,7/22/2020,20207,298
+Closet,Banana Republic Chino Red Shorts Button Detail,A0106,$0.00 ,$0.00 ,9/28/2019,20199,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$4.00 ,2/11/2020,20202,136
+Closet,Black stretch Blazer 3/4 sleeve white pinstripe,A0107,$0.00 ,$0.00 ,9/28/2019,20199,Poshmark,$12.00 ,$2.95 ,$1.80 ,$7.25 ,$7.25 ,11/29/2019,201911,62
+Closet,Chaus New York Maroon Blazer 3/4 ruched sleeves,A0108,$0.00 ,$0.00 ,9/28/2019,20199,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,4/23/2020,20204,208
+Closet,Vera Moda Cream High Low Keyhole Top,A0109,$0.00 ,$0.00 ,9/29/2019,20199,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$4.08 ,8/22/2020,20208,328
+Closet,Banana Republic Gold Ruffle Top,A0110,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$12.00 ,$3.30 ,$0.00 ,$8.70 ,$8.70 ,12/18/2019,201912,80
+Closet,Express black knit top 3/4 sleeves,A0111,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$5.50 ,$1.00 ,$0.00 ,$4.50 ,$4.50 ,12/25/2019,201912,87
+Closet,Adidas neon green Climalite racer back tank,A0112,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$15.00 ,$3.00 ,$1.06 ,$10.94 ,$10.94 ,5/22/2020,20205,236
+Closet,Cynthia Rowley Navy & White Printed Racer back Top,A0113,$0.00 ,$0.00 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,457
+Closet,Nike Classic racer back tank white with orange,A0114,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,4/16/2020,20204,200
+Closet,Banana Republic Light Brown Oversized Sweater,A0115,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$16.00 ,$3.20 ,$1.80 ,$11.00 ,$11.00 ,11/14/2019,201911,46
+Closet,Banana Republic Black Camisole,A0116,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,4/5/2020,20204,189
+Closet,H&M Navy and White Striped Swim Cover up,A0117,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$12.28 ,6/8/2020,20206,253
+Texas Thrift Store,Abercrombie & Fitch Plaid Flannel,A0118,$1.00 ,$1.08 ,11/20/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.08),12/29/2020,202012,405
+Texas Thrift Store,Lush High Low Navy Blouse,A0119,$1.00 ,$1.08 ,9/30/2019,20199,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.97 ,3/10/2020,20203,162
+Texas Thrift Store,Faith and Joy Striped Blouse 3/4 Sleeves,A0120,$1.00 ,$1.08 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.08),12/29/2020,202012,404
+Texas Thrift Store,GAP Fitted Boyfriend Long Sleeve Button Down Up,A0121,$2.49 ,$2.70 ,11/20/2019,201911,,,,,,,,,1007
+Texas Thrift Store,J. Crew The Perfect Shirt Pastel Plaid Button Down,A0122,$1.99 ,$2.15 ,9/30/2019,20199,ThredUp,,,,,,,,1058
+Texas Thrift Store,Poetry white blouse with black cross design,A0123,$1.49 ,$1.61 ,11/13/2019,201911,,,,,,,,,1014
+Texas Thrift Store,The Impeccible Pig Cream and black Pattern blouse,A0124,$1.49 ,$1.61 ,9/30/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.61),12/29/2020,202012,456
+Texas Thrift Store,Lush High Low Green Blouse,A0125,$1.99 ,$2.15 ,9/30/2019,20199,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$3.51 ,12/2/2020,202012,429
+Texas Thrift Store,miami Francesca's purple plaid off the shoulder top,A0126,$1.99 ,$2.15 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.15),12/29/2020,202012,404
+Texas Thrift Store,MINE Cream and Orange stripe short sleeve button up tie front,A0127,$1.49 ,$1.61 ,12/20/2019,201912,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$6.39 ,7/4/2020,20207,197
+Texas Thrift Store,THML Navy top with cream embroidery,A0128,$2.49 ,$2.70 ,11/13/2019,201911,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.30 ,5/4/2020,20205,173
+Texas Thrift Store,Wallflower blue floral and lace tank,A0129,$1.39 ,$1.50 ,11/13/2019,201911,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$3.55 ,4/18/2020,20204,157
+Texas Thrift Store,Earthbound Trading Co. crop with tassels and wooden beads,A0130,$2.09 ,$2.26 ,9/30/2019,20199,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$1.74 ,2/13/2020,20202,136
+Texas Thrift Store,Hollister cold shoulder boho print flared sleeves,A0131,$1.39 ,$1.50 ,11/13/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.50),12/29/2020,202012,412
+Texas Thrift Store,love FIRE blue and orange floral button up tank,A0132,$2.09 ,$2.26 ,11/13/2019,201911,,,,,,,,,1014
+Texas Thrift Store,ZARA Trafaluc knit cream crop festival boho,A0133,$2.98 ,$3.23 ,12/5/2019,201912,Poshmark,$7.00 ,$2.95 ,$0.00 ,$4.05 ,$0.82 ,4/2/2020,20204,119
+Texas Thrift Store,BKE Grey long sleeve distressed top,A0134,$2.98 ,$3.23 ,,,,,,,,,,,
+Texas Thrift Store,Lucky Brand Pale Pink Embroidered Long Sleeve Top,A0135,$4.98 ,$5.39 ,9/30/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($5.39),12/29/2020,202012,456
+Texas Thrift Store,mine Anthropologie olive green tank with emroidered detailing,A0136,$1.98 ,$2.14 ,11/13/2019,201911,Poshmark,$14.00 ,$2.80 ,$0.00 ,$11.20 ,$9.06 ,1/5/2020,20201,53
+Texas Thrift Store,Black & Colorful Abstract Print New Directions,A0137,$0.99 ,$1.07 ,11/21/2019,201911,Poshmark,$7.00 ,$2.95 ,$0.00 ,$4.05 ,$2.98 ,11/29/2019,201911,8
+Texas Thrift Store,Banana Republic Green Silk Blouse,A0138,$0.99 ,$1.07 ,11/12/2019,201911,Poshmark,$8.00 ,$1.60 ,$0.00 ,$6.40 ,$5.33 ,4/24/2020,20204,164
+Texas Thrift Store,Altar'd State Tan/Cream Knit Top/Tunic Boho,A0139,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,,,,,,,,1006
+Texas Thrift Store,Joie Silk Acacia Dolman Top Striped Neon,A0140,$0.99 ,$1.07 ,11/12/2019,201911,,,,,,,,,1015
+Texas Thrift Store,Decree Oversized High Low Teal Blouse,A0141,$0.99 ,$1.07 ,11/12/2019,201911,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$2.93 ,2/13/2020,20202,93
+Texas Thrift Store,Annalee + Hope Striped Printed Top,A0142,$0.99 ,$1.07 ,11/12/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/25/2020,202010,348
+Texas Thrift Store,Aeropostale Plaid Embroidered Peplum Top,A0143,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),8/14/2020,20208,267
+Texas Thrift Store,Nicole Miller Black/Green Print Blouse,A0144,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/25/2020,202010,339
+Texas Thrift Store,Abercrombie & Fitch floral peplum peasant top,A0145,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$3.01 ,8/20/2020,20208,273
+Texas Thrift Store,J. Crew Chambray denim short sleeved dress,A0146,$0.99 ,$1.07 ,11/21/2019,201911,,,,,,,,,1006
+Texas Thrift Store,Flying Tomato off the shoulder tunic dress,A0147,$0.99 ,$1.07 ,11/21/2019,201911,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$11.73 ,2/2/2020,20202,73
+Texas Thrift Store,Jealous Tomato Cape Style Navy Embroidered Blouse,A0148,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,404
+Texas Thrift Store,St. John's Bay Peasant Chambray Top,A0149,$0.99 ,$1.07 ,11/21/2019,201911,Poshmark,$14.00 ,$2.80 ,$0.00 ,$11.20 ,$10.13 ,1/5/2020,20201,45
+Texas Thrift Store,J. Crew Grey V-Neck Cardigan,A0150,$0.99 ,$1.07 ,11/21/2019,201911,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.93 ,12/27/2019,201912,36
+Texas Thrift Store,Band of Gypsies Sheer Plaid Shirt Boho,A0151,$0.99 ,$1.07 ,11/21/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.99),($1.07),12/6/2020,202012,381
+Texas Thrift Store,J. Crew Elbow Sleeve Drapey tee Stripe,A0152,$0.99 ,$1.07 ,11/20/2019,201911,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.98 ,4/21/2020,20204,153
+Texas Thrift Store,Rare Eric Bompard horse/rabbit Printed Tee,A0153,$2.50 ,$2.71 ,11/20/2019,201911,,,,,,,,,1007
+Texas Thrift Store,Urban Outfitters X Alternative Apparel Graphic Tee Donkey,A0154,$0.99 ,$1.07 ,11/20/2019,201911,,,,,,,,,1007
+Texas Thrift Store,UO Coincidence & Chance black & cream sweater NWT,A0155,$3.50 ,$3.79 ,11/12/2019,201911,Poshmark,$26.00 ,$5.20 ,$0.00 ,$20.80 ,$17.01 ,11/14/2019,201911,2
+Closet,Lucky Brand Orange Navy Cream Print Long Sleeve Top,A0156,$0.00 ,$0.00 ,2/1/2019,20192,,,,,,,,,1299
+Closet,H&M Green and White Print Tank,A0157,$0.00 ,$0.00 ,2/1/2019,20192,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$2.70 ,9/23/2020,20209,600
+Closet,A'gaci Striped Top,A0158,$0.00 ,$0.00 ,9/15/2019,20199,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$4.00 ,2/11/2020,20202,149
+Garage Sale,Worthington Turtleneck Sweater,A0159,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),8/14/2020,20208,335
+Garage Sale,Old Navy Floral tunic,A0160,$0.10 ,$0.10 ,9/14/2019,20199,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.95 ,3/24/2020,20203,192
+Garage Sale,A'gaci soft gold tee with tie front,A0161,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),8/14/2020,20208,335
+Garage Sale,Hollister Semi Cropped Blouse,A0162,$2.00 ,$2.00 ,9/14/2019,20199,,,,,,,,,1074
+Garage Sale,Haute Monde Gold Floral ruffle long sleeved top,A0163,$2.00 ,$2.00 ,9/14/2019,20199,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$3.05 ,1/13/2020,20201,121
+Garage Sale,Black Rose ruffle blouse,A0164,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),8/14/2020,20208,335
+Garage Sale,Marisol | Blush Pink Heart Print Top,A0165,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$21.99 ,$18.47 ,$0.00 ,$3.52 ,$1.52 ,8/28/2020,20208,349
+Garage Sale,Tailored Sleeveless black and white print blouse,A0166,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$0.70 ,8/19/2020,20208,340
+Garage Sale,Green & Black Striped Cold-Shoulder Crop Top,A0167,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),8/14/2020,20208,335
+Texas Thrift Store,New York & Company geometric print tank,A0168,$1.00 ,$1.08 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.08),12/29/2020,202012,472
+Closet,LOFT Linen Tank,A0169,$0.00 ,$0.00 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,457
+Closet,Maroon Floral Tunic,A0170,$0.00 ,$0.00 ,9/29/2019,20199,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$2.70 ,8/22/2020,20208,328
+Closet,GAP Color Block Knit Top,A0171,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$15.00 ,$3.00 ,$1.06 ,$10.94 ,$10.94 ,5/12/2020,20205,226
+Closet,Express Cream Lace Blouse,A0172,$0.00 ,$0.00 ,9/29/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,457
+Closet,American Eagle Strappy Sueded Tank,A0173,$0.00 ,$0.00 ,9/29/2019,20199,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.93 ,5/17/2020,20205,231
+Closet,PIKO 1988 Black Bodycon Long Sleeve Dress,A0174,$0.00 ,$0.00 ,11/13/2019,201911,,,,,,,,,1014
+Closet,Olivia Rae Coral Swing Dress NWOT,A0175,$0.00 ,$0.00 ,11/13/2019,201911,Poshmark,$14.50 ,$2.90 ,$0.00 ,$11.60 ,$11.60 ,3/19/2020,20203,127
+Closet,Rampage Black Bodycon Strappy Cocktail Dress,A0176,$0.00 ,$0.00 ,11/13/2019,201911,,,,,,,,,1014
+Closet,Banana Republic Navy & Red Striped Sweater,A0177,$0.00 ,$0.00 ,11/13/2019,201911,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$20.00 ,1/7/2020,20201,55
+Closet,a new day black & white striped sweater,A0178,$0.00 ,$0.00 ,11/13/2019,201911,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$6.05 ,12/8/2019,201912,25
+Closet,a new day White Cable Knit Pull Over Sweater,A0179,$0.00 ,$0.00 ,11/13/2019,201911,,,,,,,,,1014
+Closet,ONLY tan knit high low sweater,A0180,$0.00 ,$0.00 ,11/13/2019,201911,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$6.67 ,4/23/2020,20204,162
+Texas Thrift Store,Apt 9 Bootcut Jeans Size 2,A0181,$0.99 ,$1.07 ,11/15/2019,201911,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,410
+Texas Thrift Store,American Eagle Ankle Distressed Jeans,A0182,$0.99 ,$1.07 ,11/15/2019,201911,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.93 ,11/18/2019,201911,3
+Texas Thrift Store,7 for all Mankind Dark Wash Bootcut Jeans,A0183,$0.99 ,$1.07 ,11/15/2019,201911,,,,,,,,,1012
+Texas Thrift Store,Fossil Brand Jeans 'Vintage' Style,A0184,$0.99 ,$1.07 ,11/15/2019,201911,,,,,,,,,1012
+Texas Thrift Store,American Eagle 77 Flare Jeans,A0185,$0.99 ,$1.07 ,11/15/2019,201911,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$16.53 ,2/12/2020,20202,89
+Closet,Floral Tank with Bow Back,A0186,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,11/15/2019,201911,287
+Closet,Poetry Aztec Top,A0187,$0.00 ,$0.00 ,9/14/2019,20199,,,,,,,,,1074
+Garage Sale,Papaya Navy Scoop Neck Tee,A0188,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),10/25/2020,202010,407
+Texas Thrift Store,âœ¨HPâœ¨NWOT: Urban Outfitters Mayfair surplice wrap,A0189,$1.00 ,$1.08 ,9/14/2019,20199,Poshmark,$11.00 ,$2.95 ,$0.00 ,$8.05 ,$6.97 ,11/19/2019,201911,66
+Garage Sale,Lauren Conrad Peachy Pink Polka Dot Blouse,A0190,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$4.99 ,$4.84 ,$0.00 ,$0.15 ,($1.85),10/10/2020,202010,392
+Garage Sale,LC Lauren Conrad Floral Ruffle Tank,A0191,$2.00 ,$2.00 ,9/14/2019,20199,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.00),10/25/2020,202010,407
+Texas Thrift Store,Francesca's Miami Navy Floral Kimono,A0192,$2.00 ,$2.17 ,9/14/2019,20199,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$7.72 ,5/14/2020,20205,243
+Garage Sale,Andrea Jovine NWT Chambray sleevless high/low top,A0193,$2.00 ,$2.00 ,9/14/2019,20199,,,,,,,,,1074
+Closet,Love Tree Quilted Red Vest with Faux Fur Trim Hood,A0194,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$19.67 ,$3.93 ,$0.00 ,$15.73 ,$15.73 ,1/10/2020,20201,343
+Closet,Express Black Jacket,A0195,$0.00 ,$0.00 ,2/1/2019,20192,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$11.05 ,11/21/2019,201911,293
+Closet,Pink Lily Staccato Pin Stripe Romper Wrap V-Neck L,A0196,$0.00 ,$0.00 ,1/28/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$16.00 ,3/24/2020,20203,56
+Closet,Mossimo Ribbed Layering Tank Scoop Neck Gold L,A0197,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$5.00 ,$1.47 ,$0.00 ,$3.53 ,$3.53 ,2/28/2020,20202,24
+Closet,Mossimo Aztec Layering Tank Scoop Neck Maroon L,A0198,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$8.00 ,7/4/2020,20207,151
+Closet,Mossimo Ribbed Layering Tank Scoop Neck Grey L,A0199,$0.00 ,$0.00 ,2/4/2020,20202,Poshmark,$5.00 ,$1.48 ,$0.00 ,$3.53 ,$3.53 ,2/28/2020,20202,24
+Closet,Colloseum Aztec Tribal Cardigan Sweater M,A0200,$0.00 ,$0.00 ,2/1/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,12/29/2020,202012,332
+Closet,Pink Lily High Neck Halter Tie Floral Blouse L,A0201,$0.00 ,$0.00 ,2/3/2020,20202,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$14.40 ,2/12/2020,20202,9
+Closet,CATO Floral Abstract Print Lace Tank S,A0202,$0.00 ,$0.00 ,2/1/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,267
+Closet,Olive & Oak Abstract Graphic Floral Tank Top M,A0203,$0.00 ,$0.00 ,1/28/2020,20201,Poshmark,$16.50 ,$3.30 ,$0.90 ,$12.30 ,$12.30 ,1/31/2020,20201,3
+Closet,Atmosphere Striped Dolman Short Sleeve Top Size 8,A0204,$0.00 ,$0.00 ,1/28/2020,20201,Poshmark,$11.00 ,$2.20 ,$0.00 ,$8.80 ,$8.80 ,3/1/2020,20203,33
+Closet,Merona Paisley Striped Cardigan V-Neck Boho M,A0205,$0.00 ,$0.00 ,2/3/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,265
+Closet,mine Striped Top Elbow Patch Suede Long Sleeve L,A0206,$0.00 ,$0.00 ,2/3/2020,20202,Poshmark,$13.33 ,$3.33 ,$0.00 ,$10.00 ,$10.00 ,6/24/2020,20206,142
+Closet,New York & Company Stretch Trouser Pants,A0207,$0.00 ,$0.00 ,11/20/2019,201911,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$6.05 ,12/19/2019,201912,29
+Closet,Express Editor Barely Boot Low Rise Stretch Maroon Pants,A0208,$0.00 ,$0.00 ,11/20/2019,201911,Mercari,$20.00 ,$2.00 ,$4.47 ,$13.53 ,$13.53 ,11/20/2019,201911,0
+Closet,Express Editor Barely Boot Low Rise Stretch Grey Pants,A0209,$0.00 ,$0.00 ,11/20/2019,201911,Mercari,$20.00 ,$2.00 ,$4.47 ,$13.53 ,$13.53 ,11/20/2019,201911,0
+Closet,Express Editor Barely Boot Low Rise Stretch Black Pants,A0210,$0.00 ,$0.00 ,11/20/2019,201911,Mercari,$20.00 ,$2.00 ,$4.47 ,$13.53 ,$13.53 ,11/20/2019,201911,0
+Closet,Express Editor Black Pants,A0211,$0.00 ,$0.00 ,11/20/2019,201911,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$16.00 ,12/2/2019,201912,12
+Closet,Merona Blue Chino Chambray Cotton Shorts,A0212,$0.00 ,$0.00 ,11/20/2019,201911,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,6/29/2020,20206,222
+Closet,American Eagle Artist Flare Stretch Jeans,A0213,$0.00 ,$0.00 ,11/26/2019,201911,Poshmark,$14.00 ,$2.80 ,$0.00 ,$11.20 ,$11.20 ,1/5/2020,20201,40
+Closet,Universal Thread Mid Rise Skinny Dark Wash Jean 4/27S,A0214,$0.00 ,$0.00 ,11/26/2019,201911,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,2/17/2020,20202,83
+Closet,Universal Thread Mid Rise Skinny Jegging 4/27S,A0215,$0.00 ,$0.00 ,11/26/2019,201911,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,12/25/2019,201912,29
+Garage Sale,Michael Kors White Drawstring Purse,A0216,$20.00 ,$20.00 ,9/15/2019,20199,Poshmark,$59.00 ,$11.80 ,$7.11 ,$40.09 ,$20.09 ,4/21/2020,20204,219
+Closet,Express Jegging Stella Low-Rise Medium Wash Jeans,A0217,$0.00 ,$0.00 ,11/26/2019,201911,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,12/9/2019,201912,13
+Texas Thrift Store,Lucky Brand by Jean Montesano Jeans Regular Inseam,A0218,$3.50 ,$3.79 ,11/23/2019,201911,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$16.49 ,5/27/2020,20205,186
+Texas Thrift Store,Ann Taylor Loft Curvy Boot Jeans,A0219,$2.50 ,$2.71 ,11/23/2019,201911,,,,,,,,,1004
+Texas Thrift Store,Hollister Skinny Jeans,A0220,$3.50 ,$3.79 ,11/23/2019,201911,Poshmark,$19.33 ,$3.87 ,$0.00 ,$15.47 ,$11.68 ,2/12/2020,20202,81
+Texas Thrift Store,GAP Curvy Flare Jeans,A0221,$2.50 ,$2.71 ,11/23/2019,201911,,,,,,,,,1004
+Closet,American Eagle Artist Flare Stretch Jeans,A0222,$0.00 ,$0.00 ,11/23/2019,201911,Poshmark,$14.00 ,$2.80 ,$0.00 ,$11.20 ,$11.20 ,1/5/2020,20201,43
+Thrift City Outlet,Meraki Anthropologie Charcoal Grey Tunic Dress,A0223,$2.00 ,$2.17 ,12/4/2019,201912,Poshmark,$19.50 ,$3.90 ,$1.06 ,$14.54 ,$12.38 ,2/17/2020,20202,75
+Thrift City Outlet,Forgotten Grace Boho Cream Ivory Crochet Lace Top,A0224,$2.00 ,$2.17 ,12/4/2019,201912,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.84 ,3/20/2020,20203,107
+Thrift City Outlet,Charter Club Crochet Cardigan White Petite,A0225,$2.00 ,$2.17 ,12/20/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.17),10/25/2020,202010,310
+Thrift City Outlet,american eagle wrap blouse with bell sleeves,A0226,$2.00 ,$2.17 ,WEARING,,,,,,,,,,
+Thrift City Outlet,Charter Club Shirt Shop Button Up/Down Navy White Plaid,A0227,$2.00 ,$2.17 ,12/4/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.17),10/25/2020,202010,326
+Thrift City Outlet,The Limited Sweater Dress Navy Grey Short Sleeve,A0228,$2.00 ,$2.17 ,12/5/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.17),12/29/2020,202012,390
+Thrift City Outlet,Sweet Wanderer Mint Green Boho Lace Top,A0229,$2.00 ,$2.17 ,12/4/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.17),12/29/2020,202012,391
+Thrift City Outlet,Columbia Omni-Shade Sun Plaid Button Up/Down,A0230,$2.00 ,$2.17 ,12/4/2019,201912,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.84 ,1/10/2020,20201,37
+Thrift City Outlet,Lucky Brand Floral Boho Peasant Top Cream Blue Floral,A0231,$2.00 ,$2.17 ,12/4/2019,201912,,,,,,,,,993
+Thrift City Outlet,American Eagle Floral Ruffle Strappy Tank Pink Grey,A0232,$2.00 ,$2.17 ,12/4/2019,201912,,,,,,,,,993
+Thrift City Outlet,Lily White Red Blue Floral Top,A0233,$2.00 ,$2.17 ,12/4/2019,201912,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.84 ,6/11/2020,20206,190
+Thrift City Outlet,BKE Crochet Tunic Top White Ivory Short Sleeve,A0234,$2.00 ,$2.17 ,12/20/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.17),12/29/2020,202012,375
+Thrift City Outlet,Ralph Lauren Sport Pink White Strip Crew Tee,A0235,$2.00 ,$2.17 ,12/4/2019,201912,,,,,,,,,993
+Thrift City Outlet,Columbia Omni Women's Grey Hiking Pants Size 10,A0236,$2.00 ,$2.17 ,12/8/2019,201912,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$15.44 ,3/7/2020,20203,90
+Texas Thrift Store,LOFT Ann Taylor Striped colorful top,A0237,$0.99 ,$1.07 ,12/20/2019,201912,,,,,,,,,977
+Thrift City Outlet,Oilily Velvet Green embroidered Skirt Size 40,A0237,$2.00 ,$2.17 ,11/23/2019,201911,Poshmark,$35.00 ,$7.00 ,$2.12 ,$25.88 ,$23.72 ,9/21/2020,20209,303
+Thrift City Outlet,H&M Crop Faux Tie Floral Print T-Shirt S,A0238,$2.00 ,$2.17 ,1/29/2020,20201,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$3.89 ,4/24/2020,20204,86
+Texas Thrift Store,Betsey Johnson Evening Dress Cream Black Strapless Flower Tulle,A0239,$0.99 ,$1.07 ,11/23/2019,201911,Poshmark,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/5/2020,202010,317
+Thrift City Outlet,American Eagle Favorite Boyfriend Stretch Jeans,A0239,$2.00 ,$2.17 ,12/5/2019,201912,,,,,,,,,992
+Thrift City Outlet,Seven7 Boot Cut Jeans,A0240,$2.00 ,$2.17 ,12/5/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,($2.00),($2.17),12/31/2020,202012,392
+Thrift City Outlet,Kate Spade Saturday Two Toned Skinny Jeans,A0241,$2.00 ,$2.17 ,12/5/2019,201912,,,,,,,,,992
+Texas Thrift Store,Marc by Marc Jacobs black knit top,A0242,$2.50 ,$2.71 ,12/4/2019,201912,,,,,,,,,993
+Texas Thrift Store,7FAM Dojo Mercer Lattice Patent Pocket Dark Wash,A0243,$3.00 ,$3.25 ,12/5/2019,201912,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$24.75 ,11/23/2020,202011,354
+Texas Thrift Store,Pebble and Stone Anthropologie Heather Grey Sweater Wide Sleeves,A0244,$4.00 ,$4.33 ,12/4/2019,201912,,,,,,,,,993
+Texas Thrift Store,J. Crew Pink Purple Floral Sweatshirt,A0245,$4.00 ,$4.33 ,12/4/2019,201912,,,,,,,,,993
+Texas Thrift Store,Ann Taylor Loft Original Boot,A0246,$0.99 ,$1.07 ,12/5/2019,201912,,,,,,,,,992
+Texas Thrift Store,Ann Taylor Loft Original Boot,A0247,$0.99 ,$1.07 ,12/5/2019,201912,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$18.93 ,10/18/2020,202010,318
+Texas Thrift Store,Levi's Too Superlow 524 Jeans,A0248,$0.99 ,$1.07 ,12/5/2019,201912,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$18.93 ,12/29/2019,201912,24
+Texas Thrift Store,Lauren Conrad Jeans Dark Wash,A0249,$0.99 ,$1.07 ,12/5/2019,201912,,,,,,,,,992
+Texas Thrift Store,7FAM A Pocket Flare Jeans 27,A0250,$0.99 ,$1.07 ,12/5/2019,201912,,,,,,,,,992
+Texas Thrift Store,Rock & Republic Midrise Skinny Jeans Floral Design,A0251,$0.99 ,$1.07 ,12/5/2019,201912,,,,,,,,,992
+Texas Thrift Store,G.H. Bass & Co. Plaid High Low Hem Tunic,A0252,$0.99 ,$1.07 ,12/4/2019,201912,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$6.93 ,9/28/2020,20209,299
+Texas Thrift Store,GAP Fitted Boyfriend Long Sleeve Button Down Up Pinstripe,A0253,$0.99 ,$1.07 ,1/11/2020,20201,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.98 ,5/1/2020,20205,111
+Texas Thrift Store,J. Crew white teal navy print top long sleeve,A0254,$0.99 ,$1.07 ,12/4/2019,201912,,,,,,,,,993
+Texas Thrift Store,Grace + Emma grey white stripe short sleeve top,A0255,$0.99 ,$1.07 ,12/4/2019,201912,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.93 ,3/29/2020,20203,116
+Texas Thrift Store,American Rag Cie brown floral sheer dress,A0256,$0.99 ,$1.07 ,12/4/2019,201912,,,,,,,,,993
+Garage Sale,Dooney and Bourke Purse and Wallet,A0257,$5.00 ,$5.00 ,9/14/2019,20199,Poshmark,$35.00 ,$7.00 ,$1.80 ,$26.20 ,$21.20 ,10/1/2019,201910,17
+Closet,Justin Western Boots Pointed Toe 6.5B L2559,A0260,$0.00 ,$0.00 ,12/5/2019,201912,Poshmark,$60.00 ,$12.00 ,$0.00 ,$48.00 ,$48.00 ,1/28/2020,20201,54
+Texas Thrift Store,American Eagle Favorite Boyfriend Stretch Jeans,A0261,$0.99 ,$1.07 ,12/8/2019,201912,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.93 ,7/11/2020,20207,216
+Texas Thrift Store,Vince Camuto Black Blue Foral Wrap Long Sleeved Top,A0262,$0.99 ,$1.07 ,12/8/2019,201912,ThredUp,,,,,,,,989
+Texas Thrift Store,GAP Button Up Blue White Pinstripe,A0263,$0.99 ,$1.07 ,12/9/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,386
+Closet,APA 6th Edition Manual (textbook),A0264,$0.00 ,$0.00 ,12/5/2019,201912,Ebay,$25.39 ,$1.11 ,$11.04 ,$13.24 ,$13.24 ,1/9/2020,20201,35
+Texas Thrift Store,MICHAEL Michael Kors Navy Black White Print Button Up,A0265,$0.99 ,$1.07 ,1/11/2020,20201,ThredUp,,,,,,,,955
+Texas Thrift Store,Eden & Olivia Pale Pink Button Up ,A0266,$0.99 ,$1.07 ,12/9/2019,201912,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$5.98 ,5/29/2020,20205,172
+Texas Thrift Store,Harley Davidson Long Sleeved Blue ,A0267,$0.99 ,$1.07 ,12/8/2019,201912,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$9.98 ,4/4/2020,20204,118
+Texas Thrift Store,Harley Davidson Long Sleeved Purple,A0268,$0.99 ,$1.07 ,12/8/2019,201912,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$4.98 ,10/13/2020,202010,310
+Texas Thrift Store,Express Editor Khaki Tan Dress Pants 0,A0269,$0.99 ,$1.07 ,1/11/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,353
+Texas Thrift Store,J. Crew Grey Navy Polka Dot Knit Sweater,A0270,$3.98 ,$4.31 ,12/9/2019,201912,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$9.57 ,8/7/2020,20208,242
+Texas Thrift Store,Umgee Paisley Red Tan Blue Blouse Boho,A0271,$3.98 ,$4.31 ,8/23/2020,20208,ThredUp,$0.00 ,$0.00 ,$0.00 ,($3.98),($4.31),12/6/2020,202012,105
+Texas Thrift Store,Flying Tomato Blue Gold Embroidered Tunic Boho,A0272,$2.98 ,$3.23 ,12/9/2019,201912,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$1.70 ,5/15/2020,20205,158
+Texas Thrift Store,Urban Outfitters Mustard Gold Aztec Tribal Sweater,A0273,$2.98 ,$3.23 ,12/9/2019,201912,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$16.77 ,1/14/2020,20201,36
+Texas Thrift Store,Ann Taylor LOFT Dark Grey Utility Jacket,A0274,$4.99 ,$5.40 ,12/8/2019,201912,,,,,,,,,989
+Texas Thrift Store,The Limited Red Knit Sweater V-Neck,A0275,$2.49 ,$2.70 ,12/9/2019,201912,ThredUp,$46.99 ,$33.59 ,$0.00 ,$13.40 ,$10.70 ,9/18/2020,20209,284
+Texas Thrift Store,Altar'd State Grey White Lace Knit Sweater,A0276,$1.99 ,$2.15 ,12/9/2019,201912,,,,,,,,,988
+Texas Thrift Store,Antonio Melani White 3/4 Sleeve Top,A0277,$2.49 ,$2.70 ,12/20/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.70),10/25/2020,202010,310
+Salvation Army,American Eagle Skinny Stretch Jeans,A0278,$3.50 ,$3.78 ,12/8/2019,201912,,,,,,,,,989
+Salvation Army,MINE Olive Green White Polka Dot Peplum Top,A0279,$2.00 ,$2.16 ,12/9/2019,201912,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$6.89 ,2/29/2020,20202,82
+Salvation Army,C'est La Vie Colorblock Sharkbite Top,A0280,$2.00 ,$2.16 ,12/9/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.16),10/25/2020,202010,321
+Salvation Army,The Limited Printed Blouse,A0281,$1.50 ,$1.62 ,12/9/2019,201912,,,,,,,,,988
+Salvation Army,Ann Taylor White Anchor Nautical Sweater ,A0282,$3.50 ,$3.78 ,12/9/2019,201912,,,,,,,,,988
+Thrift City Outlet,Bundle for Dani,A0283,$2.00 ,$2.17 ,12/22/2019,201912,Poshmark,$93.00 ,$18.60 ,$0.00 ,$74.40 ,$72.23 ,8/29/2020,20208,251
+Closet,Spreadsheet Decision Analysis Textbook,A0284,$0.00 ,$0.00 ,12/5/2019,201912,Ebay,$50.00 ,$1.84 ,$4.31 ,$43.85 ,$43.85 ,12/5/2019,201912,0
+Closet,LulaRoe Legging aztec boho tribal print one size,A0285,$0.00 ,$0.00 ,12/6/2019,201912,,,,,,,,,991
+Closet,LulaRoe Legging aztec boho tribal print one size,A0286,$0.00 ,$0.00 ,12/6/2019,201912,,,,,,,,,991
+Closet,LulaRoe Legging aztec boho tribal print one size,A0287,$0.00 ,$0.00 ,12/6/2019,201912,,,,,,,,,991
+Closet,LulaRoe Legging aztec boho tribal print one size,A0288,$0.00 ,$0.00 ,12/6/2019,201912,Poshmark,$19.67 ,$3.93 ,$0.00 ,$15.73 ,$15.73 ,1/10/2020,20201,35
+Closet,LulaRoe Legging aztec boho tribal print one size,A0289,$0.00 ,$0.00 ,12/6/2019,201912,,,,,,,,,991
+Thrift City Outlet,Vintage Silk Marguerite Li black paisley button down blouse,A0290,$2.00 ,$2.17 ,12/19/2019,201912,Poshmark,$19.00 ,$3.80 ,$0.00 ,$15.20 ,$13.04 ,11/5/2020,202011,322
+Thrift City Outlet,Gianni Bini dolman sleeve colorblock blouse,A0291,$2.00 ,$2.17 ,12/19/2019,201912,,,,,,,,,978
+Thrift City Outlet,Harley Davidson Long Sleeved Maroon,A0292,$2.00 ,$2.17 ,12/19/2019,201912,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$8.89 ,12/19/2019,201912,0
+Thrift City Outlet,Lucky Brand | Paisley Print Top Boho Hippie Gypsy S,A0293,$2.00 ,$2.17 ,12/19/2019,201912,,,,,,,,,978
+Thrift City Outlet,Lucky Brand | Paisley Print Top Boho Hippie Gypsy L,A0294,$2.00 ,$2.17 ,12/19/2019,201912,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.84 ,1/18/2020,20201,30
+Thrift City Outlet,Free People x Chaser Pink Floyd Long Sleeve T,A0295,$2.00 ,$2.17 ,12/22/2019,201912,Poshmark,$35.00 ,$7.00 ,$2.12 ,$25.88 ,$23.72 ,3/8/2020,20203,77
+Thrift City Outlet,Cloth & Stone Anthropologie button down soft denim,A0296,$2.00 ,$2.17 ,12/22/2019,201912,,,,,,,,,975
+Thrift City Outlet,Michael Michael Kors Animal Print Button Up,A0297,$2.00 ,$2.17 ,12/22/2019,201912,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$11.72 ,12/10/2020,202012,354
+Thrift City Outlet,Michael Michael Kors Lime Green Loose Fit Blouse,A0298,$2.00 ,$2.17 ,12/22/2019,201912,,,,,,,,,975
+Thrift City Outlet,Maeve by Anthropologie Pink & White Stripe Top,A0299,$2.00 ,$2.17 ,12/23/2019,201912,,,,,,,,,974
+Thrift City Outlet,STL Cardinals Nike T-Shirt V Neck Baseball Logo,A0300,$2.00 ,$2.17 ,12/23/2019,201912,,,,,,,,,974
+Thrift City Outlet,Horizontal Stripe Short Sleeve with tie loose fit,A0301,$2.00 ,$2.17 ,12/23/2019,201912,Poshmark,$16.00 ,$3.20 ,$1.06 ,$11.74 ,$9.58 ,4/12/2020,20204,111
+Thrift City Outlet,Lily White Tunic Stripe Short Sleeve Sheer Maroon,A0302,$2.00 ,$2.17 ,12/23/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,($2.00),($2.17),12/6/2020,202012,349
+Thrift City Outlet,Kaii Los Angeles Summer Tie Front Blouse,A0303,$2.00 ,$2.17 ,12/23/2019,201912,,,,,,,,,974
+Thrift City Outlet,MICHAEL Michael Kors Blouse Full Zip Roll Tab 3/4 Sleeves,A0304,$2.00 ,$2.17 ,12/26/2019,201912,ThredUp,$0.00 ,$0.00 ,$0.00 ,($2.00),($2.17),12/31/2020,202012,371
+Thrift City Outlet,Lucky Brand Placed Scarf Top Paisley Boho Shirt,A0305,$2.00 ,$2.17 ,12/26/2019,201912,Poshmark,$17.00 ,$3.00 ,$0.00 ,$14.00 ,$11.84 ,4/13/2020,20204,109
+Thrift City Outlet,Francesca's miami long sleeved keyhole scoop neck stripe,A0306,$2.00 ,$2.17 ,12/26/2019,201912,,,,,,,,,971
+Thrift City Outlet,Madewell Feather Boho Tassel Peasant Top,A0307,$2.00 ,$2.17 ,12/26/2019,201912,Poshmark,$21.00 ,$4.20 ,$2.12 ,$14.68 ,$12.52 ,9/5/2020,20209,254
+Thrift City Outlet,Maeve by Anthropologie Striped Crochet Swing Top,A0308,$2.00 ,$2.17 ,12/26/2019,201912,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$11.72 ,5/25/2020,20205,151
+Thrift City Outlet,Zara Faux Wrap Sweater Pullover Grey Plunge,A0309,$2.00 ,$2.17 ,12/26/2019,201912,,,,,,,,,971
+Thrift City Outlet,Eden & Olivia Anthropologie Vneck Ruffle Collar Stripe Tee,A0310,$2.00 ,$2.17 ,12/26/2019,201912,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$1.92 ,8/21/2020,20208,239
+Goodwill Austin Hwy,Lucky Brand Paisley Boho Hippie Gypsy Short Sleeve Tee,A0311,$4.79 ,$5.19 ,12/26/2019,201912,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$4.86 ,7/1/2020,20207,188
+Goodwill Austin Hwy,Rag & Bone Ramona Space-Dyed Short Sleeve Tee,A0312,$4.79 ,$5.19 ,12/26/2019,201912,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$15.09 ,8/20/2020,20208,238
+Goodwill Austin Hwy,Madewell Central Stripe Button Up in Lavender,A0313,$4.79 ,$5.19 ,12/26/2019,201912,Poshmark,$36.00 ,$7.20 ,$0.00 ,$28.80 ,$23.61 ,5/15/2020,20205,141
+Goodwill Austin Hwy,Lucky Brand Paisley Boho Hippie Gypsy Long Sleeve Top,A0314,$4.79 ,$5.19 ,12/26/2019,201912,,,,,,,,,971
+Thrift City,Toms Stella Wedge Black Canvas Cork Heel Size 7,A0315,$3.33 ,$3.60 ,1/6/2020,20201,Poshmark,$30.00 ,$6.00 ,$7.11 ,$16.89 ,$13.29 ,5/15/2020,20205,130
+Thrift City,BASS Congac Ankle Booties Slip On Heel Pointed Toe Absolute Leather,A0316,$7.57 ,$8.19 ,1/6/2020,20201,,,,,,,,,960
+Thrift City,Lauren Conrad Daisy Floral Knit Crocheted Top,A0317,$2.72 ,$2.94 ,1/5/2020,20201,,,,,,,,,961
+Thrift City,Madewell Stripe 3/4 Sleeve Top Green Black,A0318,$2.92 ,$3.16 ,1/5/2020,20201,,,,,,,,,961
+Thrift City,Lucky Brand Paisley Boho Hippie Gypsy V-neck 3/4 Sleeve,A0319,$3.73 ,$4.04 ,1/5/2020,20201,Poshmark,$17.00 ,$3.00 ,$0.00 ,$14.00 ,$9.96 ,4/13/2020,20204,99
+Thrift City,Lucky Brand Paisley Boho Hippie Gypsy V-neck Tassel,A0320,$4.94 ,$5.35 ,1/4/2020,20201,,,,,,,,,962
+Thrift City,Lucky Brand Sheer Paisley Boho Hippie Gypsy,A0321,$1.91 ,$2.07 ,1/4/2020,20201,Poshmark,$17.00 ,$3.00 ,$0.00 ,$14.00 ,$11.93 ,4/13/2020,20204,100
+Thrift City,Lucky Brand Faux Wrap Top Stripe,A0322,$3.33 ,$3.60 ,1/4/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$12.40 ,1/24/2020,20201,20
+Thrift City,Umgee NWT Boho Off the Shoulder Dress Crochet,A0323,$3.93 ,$4.25 ,1/3/2020,20201,,,,,,,,,963
+Thrift City,Maeve Anthropologie Yellow Floral Top Pintuck Pleat,A0324,$2.92 ,$3.16 ,1/3/2020,20201,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$10.72 ,5/18/2020,20205,136
+Thrift City,Maeve Anthropologie Conversationalist Cat Black Button Down,A0325,$0.99 ,$1.07 ,1/3/2020,20201,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$16.01 ,9/5/2020,20209,246
+Thrift City,J. Crew Polka Dot Ruffle Collar Blouse Keyhole Navy Red,A0326,$3.33 ,$3.60 ,1/5/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,($3.33),($3.60),12/6/2020,202012,336
+Thrift City,MLB Women's Chicago Cubs T-Shirt,A0327,$2.32 ,$2.51 ,1/7/2020,20201,Mercari,$14.00 ,$1.40 ,$3.31 ,$9.29 ,$6.78 ,7/25/2020,20207,200
+Thrift City,Anthropologie Maeve Linden Polka Dot Dolman Sleeve,A0328,$4.94 ,$5.35 ,1/7/2020,20201,,,,,,,,,959
+Thrift City,Anthropologie Postmark Duck Tee Top Red,A0329,$1.41 ,$1.53 ,1/7/2020,20201,Poshmark,$21.00 ,$4.20 ,$0.00 ,$16.80 ,$15.27 ,2/22/2020,20202,46
+Thrift City,Disney Mickey Mouse Sweatshirt NWOT,A0330,$3.93 ,$4.25 ,1/10/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$11.75 ,1/18/2020,20201,8
+Thrift City,Boho Hippie Patchwork Bell Sleeve Embroidered Top,A0331,$3.93 ,$4.25 ,1/10/2020,20201,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$15.75 ,2/6/2020,20202,27
+Thrift City,Free People Anna Burnout High Low Lavender Tee,A0332,$7.50 ,$8.12 ,1/8/2020,20201,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$11.88 ,10/5/2020,202010,271
+Goodwill Austin Hwy,Wild Fable Yellow Button Down Top Hawaiian,A0333,$2.40 ,$2.59 ,1/10/2020,20201,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$4.46 ,8/2/2020,20208,205
+Goodwill Austin Hwy,Lucky Brand 3/4 sleeve top tribal aztec,A0334,$4.79 ,$5.19 ,1/10/2020,20201,ThredUp,$31.99 ,$25.27 ,$0.00 ,$6.72 ,$1.53 ,8/19/2020,20208,222
+Goodwill Austin Hwy,Show Me Your Mumu Murray Waffle Knit Top Tee,A0335,$4.79 ,$5.19 ,1/7/2020,20201,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$8.69 ,5/14/2020,20205,128
+Goodwill Austin Hwy,Cabi Cross Zip Moto Sweater Jacket,A0336,$4.79 ,$5.19 ,1/8/2020,20201,,,,,,,,,958
+Goodwill Austin Hwy,Cabi Double Button Blazer Peacoat Sweater Jacket,A0337,$6.49 ,$7.03 ,1/8/2020,20201,,,,,,,,,958
+Texas Thrift Store,Charles Albert Tan Pointed Toe Cut Out Flats Size 6,A0338,$1.98 ,$2.14 ,1/6/2020,20201,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.86 ,2/29/2020,20202,54
+Texas Thrift Store,Call it Spring Boho Hippie Espadrilles NWOT Size 8.5,A0339,$2.49 ,$2.70 ,1/6/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.30 ,1/18/2020,20201,12
+Texas Thrift Store,T-Shirt & Jeans Boho Hippie Crossbody Purse,A0340,$5.98 ,$6.47 ,1/6/2020,20201,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$4.58 ,4/17/2020,20204,102
+Texas Thrift Store,Black Faux Leather Boho Aztec Hippie Crossbody Tassel Purse,A0341,$4.19 ,$4.53 ,1/6/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($4.53),12/29/2020,202012,358
+Thrift City Outlet,Seven7 Boot Cut Jeans Size 4,A0342,$2.00 ,$2.17 ,1/14/2020,20201,Poshmark,$19.33 ,$3.87 ,$0.00 ,$15.47 ,$13.30 ,2/12/2020,20202,29
+Thrift City Outlet,American Eagle Favorite Boyfriend Stretch Jeans Distressed Size 0 Reg,A0343,$2.00 ,$2.17 ,1/12/2020,20201,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.84 ,4/27/2020,20204,106
+Thrift City Outlet,7FAM A Pocket Flare Jeans 29,A0344,$2.00 ,$2.17 ,1/13/2020,20201,,,,,,,,,953
+Thrift City Outlet,7FAM A Pocket Flare Jeans 27,A0345,$2.00 ,$2.17 ,1/14/2020,20201,Poshmark,$26.00 ,$5.05 ,$0.53 ,$20.42 ,$18.26 ,5/20/2020,20205,127
+Thrift City Outlet,American Eagle Favorite Boyfriend Stretch Jeans Distressed Size 0 Regular,A0346,$2.00 ,$2.17 ,1/14/2020,20201,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.84 ,1/14/2020,20201,0
+Thrift City Outlet,Hollister Skinny Jeans Dark Wash Distressed Size 1S 25x30,A0347,$2.00 ,$2.17 ,1/14/2020,20201,,,,,,,,,952
+Texas Thrift Store,GAP Dolman Sleeve T Shirt Dress Rope Belt,A0348,$0.99 ,$1.07 ,1/15/2020,20201,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$5.59 ,4/23/2020,20204,99
+Texas Thrift Store,Joe's Provocateur Flare Jeans Dark Wash Size 27,A0351,$3.49 ,$3.78 ,1/12/2020,20201,,,,,,,,,954
+Texas Thrift Store,Paige Blue Heights Straight Leg Size 28,A0352,$3.49 ,$3.78 ,1/12/2020,20201,,,,,,,,,954
+Texas Thrift Store,Torrid Maroon & Black Lace Satin Blouse Size 00,A0353,$4.98 ,$5.39 ,1/10/2020,20201,,,,,,,,,956
+Texas Thrift Store,J. Jill Wearever Collection Red Waffle Tunic Dress Blouse,A0354,$5.98 ,$6.47 ,1/11/2020,20201,,,,,,,,,955
+Texas Thrift Store,Hype Acid Wash Burnout Shorts Elastic Waist Size XL,A0355,$0.99 ,$1.07 ,1/8/2020,20201,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$3.98 ,5/6/2020,20205,119
+Texas Thrift Store,Forever21 NWOT High Waist Button Up Distressed Cut Off Denim Shorts,A0356,$0.99 ,$1.07 ,1/9/2020,20201,Poshmark,$12.00 ,$2.95 ,$7.11 ,$1.94 ,$0.87 ,12/26/2020,202012,352
+Texas Thrift Store,Bullhead Denim Co Low Rise Distressed Cut Off Shorts Size 28,A0357,$0.99 ,$1.07 ,1/9/2020,20201,Poshmark,$9.00 ,$2.95 ,$2.12 ,$3.93 ,$2.86 ,7/8/2020,20207,181
+Texas Thrift Store,Hype Rolled Hem Denim Shorts Size 5,A0358,$0.99 ,$1.07 ,1/9/2020,20201,,,,,,,,,957
+Texas Thrift Store,PacSun High Rise Cut Off Distressed Light Wash Denim Shorts Size 29,A0359,$0.99 ,$1.07 ,1/9/2020,20201,Poshmark,$12.00 ,$2.95 ,$2.12 ,$6.93 ,$5.86 ,5/24/2020,20205,136
+Texas Thrift Store,Zara Trafaluc Premium Wash Collection High Waist Dark Wash Stretch Denim Shorts,A0360,$0.99 ,$1.07 ,1/9/2020,20201,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$13.33 ,6/29/2020,20206,172
+Texas Thrift Store,INC Denim Boyfriend Regular Fit Distressed Jeans Size 8,A0361,$0.99 ,$1.07 ,1/13/2020,20201,Poshmark,$12.00 ,$2.95 ,$2.12 ,$6.93 ,$5.86 ,5/23/2020,20205,131
+Texas Thrift Store,Express Jeans Stella Bootcut 2 Short,A0362,$0.99 ,$1.07 ,1/12/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,352
+Texas Thrift Store,American Eagle Skinny Stretch Jeans Size 00 Short,A0363,$0.99 ,$1.07 ,1/13/2020,20201,,,,,,,,,953
+Texas Thrift Store,bebe 5 pkt boot leg jeans size 28,A0364,$0.99 ,$1.07 ,1/13/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/25/2020,202010,286
+Texas Thrift Store,BKE Payton Dark Wash Capri Cropped denim Size 26,A0365,$0.99 ,$1.07 ,1/13/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),12/29/2020,202012,351
+Goodwill Bins N ATX,BCBGeneration Hans Leather Suede Split Boots Sz 8B,A0366,$0.84 ,$0.91 ,1/18/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.09 ,1/22/2020,20201,4
+Goodwill Bins N ATX,TOMS Desert Wedge Castlerock Grey Suede Bootie 7,A0367,$0.84 ,$0.91 ,1/18/2020,20201,Poshmark,$28.00 ,$5.60 ,$0.00 ,$22.40 ,$21.49 ,6/29/2020,20206,163
+Goodwill Bins N ATX,Tommy Hilfiger Paisley Wedge Open Toe Sandal Heel,A0368,$0.84 ,$0.91 ,1/19/2020,20201,Poshmark,$17.50 ,$3.50 ,$0.00 ,$14.00 ,$13.09 ,2/14/2020,20202,26
+Goodwill Bins N ATX,American Flag Scarf,A0369,$0.84 ,$0.91 ,1/18/2020,20201,,,,,,,,,948
+Goodwill Bins N ATX,Aimee Lynn Animal Leopard Print Scarf Fringe,A0370,$0.84 ,$0.91 ,1/19/2020,20201,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.14 ,2/5/2020,20202,17
+Goodwill Bins N ATX,Harley-Davidson Graphic Tee New Orleans Eagle Classic,A0372,$0.84 ,$0.91 ,1/19/2020,20201,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$16.69 ,1/21/2020,20201,2
+Goodwill Bins N ATX,Banana Republic Beaded V-Neck Collar Sheer Cotton Silk Blend,A0374,$0.84 ,$0.91 ,1/16/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.09 ,8/4/2020,20208,201
+Goodwill Bins N ATX,Topshop Bell Sleeve Ruffle Floral Navy Top 4,A0375,$0.84 ,$0.91 ,1/15/2020,20201,Poshmark,$21.67 ,$4.33 ,$2.37 ,$14.96 ,$14.05 ,8/13/2020,20208,211
+Goodwill Bins N ATX,Maeve Anthropologie Bloomsbury tie dress 4,A0376,$0.84 ,$0.91 ,1/15/2020,20201,,,,,,,,,951
+Goodwill Bins N ATX,Patagonia Sweatshirt Viva Los Funhogs Graphic M,A0377,$0.84 ,$0.91 ,1/15/2020,20201,Poshmark,$32.00 ,$6.40 ,$0.00 ,$25.60 ,$24.69 ,3/20/2020,20203,65
+Goodwill Bins N ATX,Lumiere White Lace Sleeveless Dress S,A0378,$0.84 ,$0.91 ,1/15/2020,20201,,,,,,,,,951
+Goodwill Bins N ATX,Madewell Off Shoulder Peasant Embroidered Top M,A0379,$0.84 ,$0.91 ,1/16/2020,20201,ThredUp,$34.99 ,$28.69 ,$0.00 ,$6.30 ,$5.39 ,11/29/2020,202011,318
+Goodwill Bins N ATX,Mossimo Boho Strappy Crocheted Tank,A0380,$0.84 ,$0.91 ,1/15/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.91),10/25/2020,202010,284
+Goodwill Bins N ATX,Vintage Striped Chunky Knit Grandpa Sweater L,A0381,$0.84 ,$0.91 ,1/15/2020,20201,,,,,,,,,951
+Goodwill Bins N ATX,Blu Pepper Floral Off Shoulder Tunic Dress S,A0382,$0.84 ,$0.91 ,1/15/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.91),10/25/2020,202010,284
+Goodwill Bins N ATX,The Limited Embellished T Shirt Sheer XS,A0383,$0.84 ,$0.91 ,1/15/2020,20201,,,,,,,,,951
+Goodwill Bins N ATX,Lucky Brand Boho Hippie Gypsy V Neck Peasant M,A0385,$0.84 ,$0.91 ,1/15/2020,20201,,,,,,,,,951
+Goodwill Bins N ATX,Knox Rose Boho Embroidered Tassel Floral Top S,A0386,$0.84 ,$0.91 ,1/15/2020,20201,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$1.79 ,9/5/2020,20209,234
+Goodwill Bins N ATX,River Ridge Purple Pleated Skirt Boho Hippie Gypsy,A0388,$0.84 ,$0.91 ,1/15/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.91),10/25/2020,202010,284
+Goodwill Bins N ATX,LOFT Cowl Neck Knit Sweater S,A0389,$0.84 ,$0.91 ,1/15/2020,20201,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$12.97 ,10/10/2020,202010,269
+Goodwill Bins N ATX,LuLaRoe Simply Comfortable Maxi Dress L,A0390,$0.84 ,$0.91 ,1/17/2020,20201,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.09 ,5/8/2020,20205,112
+Goodwill Bins N ATX,Banana Republic LBD Ruffle Sleeve Dress Black 4,A0391,$0.84 ,$0.91 ,1/17/2020,20201,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$27.09 ,2/18/2020,20202,32
+Goodwill Bins N ATX,Nine West Embroidered Peasant Top,A0392,$0.84 ,$0.91 ,1/16/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.91),10/25/2020,202010,283
+Goodwill Bins N ATX,Racerback Fox Yoga Graphic Tank Grey Orange,A0393,$0.84 ,$0.91 ,1/17/2020,20201,Poshmark,$12.60 ,$2.95 ,$0.00 ,$9.65 ,$8.74 ,2/22/2020,20202,36
+Goodwill Bins N ATX,Hippie Rose Floral Boho Tee Dolman Sleeve XL ,A0394,$0.84 ,$0.91 ,1/17/2020,20201,ThredUp,$13.99 ,$12.52 ,$0.00 ,$1.47 ,$0.56 ,9/9/2020,20209,236
+Goodwill Bins N ATX,BCBGeneration Paisley Wrap Tie Crop Festival Hippie Boho XXS,A0395,$0.84 ,$0.91 ,1/16/2020,20201,,,,,,,,,950
+Goodwill Bins N ATX,J. Crew Mint Green Tank Top Work 2,A0396,$0.84 ,$0.91 ,1/16/2020,20201,Poshmark,$8.00 ,$1.60 ,$0.00 ,$6.40 ,$5.49 ,4/24/2020,20204,99
+Goodwill Bins N ATX,Lucky Brand Spiritual Awakening Lotus Graphic T S,A0397,$0.84 ,$0.91 ,1/17/2020,20201,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.14 ,3/30/2020,20203,73
+Goodwill Bins N ATX,Athleta Racerback Tank Stripe Blue M,A0398,$0.84 ,$0.91 ,1/16/2020,20201,Poshmark,$12.50 ,$2.50 ,$0.00 ,$10.00 ,$9.09 ,3/8/2020,20203,52
+Closet,Nike Capri Dri Fit Printed Graphic Abstract Design L,A0399,$0.00 ,$0.00 ,1/18/2020,20201,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$24.00 ,2/19/2020,20202,32
+Goodwill Bins N ATX,Under Armour Heat Gear Shorts Pocket M,A0400,$0.84 ,$0.91 ,1/19/2020,20201,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.14 ,2/14/2020,20202,26
+Goodwill Bins N ATX,J. Crew Striped Tie Front T Shirt XXS,A0401,$0.84 ,$0.91 ,1/16/2020,20201,ThredUp,$25.99 ,$21.31 ,$0.00 ,$4.68 ,$3.77 ,8/20/2020,20208,217
+Goodwill Bins N ATX,Burberry Long Sleeve 100% Cotton T Logo Wrist S,A0402,$0.84 ,$0.91 ,1/16/2020,20201,Poshmark,$38.00 ,$7.60 ,$0.00 ,$30.40 ,$29.49 ,3/13/2020,20203,57
+Goodwill Bins N ATX,GAP Knit Sweater Print S,A0403,$0.84 ,$0.91 ,1/19/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.84),($0.91),12/6/2020,202012,322
+Goodwill Bins N ATX,Bob Timberlake Boho Long Multi Color Stripe Cardigan Sweater,A0404,$0.84 ,$0.91 ,1/18/2020,20201,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$23.09 ,11/21/2020,202011,308
+IKEA,Ikea BLARIPS King Duvet Cover w/2 Pillowcases Bed Set Striped Pink/White/Beige,A0405,$10.00 ,$10.83 ,1/15/2020,20201,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$13.18 ,2/23/2020,20202,39
+IKEA,Ikea BLARIPS King Duvet Cover w/2 Pillowcases Bed Set Striped Pink/White/Beige,A0405 A0406 A0407,$10.00 ,$10.83 ,1/15/2020,20201,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$17.18 ,2/24/2020,20202,40
+IKEA,Ikea BLARIPS King Duvet Cover w/2 Pillowcases Bed Set Striped Pink/White/Beige,A0405 A0406 A0407,$10.00 ,$10.83 ,1/15/2020,20201,eBay,$35.00 ,$4.89 ,$15.05 ,$15.06 ,$4.24 ,3/7/2020,20203,52
+IKEA,Ikea NATTJASMIN Full/Queen Duvet Cover and 2 Pillowcases set Striped Beige,A0408 A0409 A0410,$10.00 ,$10.83 ,1/15/2020,20201,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$17.18 ,2/16/2020,20202,32
+IKEA,Ikea NATTJASMIN Full/Queen Duvet Cover and 2 Pillowcases set Striped Beige,A0408 A0409 A0410,$10.00 ,$10.83 ,1/15/2020,20201,Poshmark,$36.40 ,$6.70 ,$0.00 ,$29.70 ,$18.88 ,2/22/2020,20202,38
+IKEA,Ikea NATTJASMIN Full/Queen Duvet Cover and 2 Pillowcases set Striped Beige,A0408 A0409 A0410,$10.00 ,$10.83 ,1/15/2020,20201,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$9.18 ,5/1/2020,20205,107
+Thrift City,Mark Cross Body Boho Hippie Brown Square Cut Out Purse,A0411,$2.00 ,$2.17 ,1/19/2020,20201,,,,,,,,,947
+Thrift City,Francesca's Miami Striped Knit Crop Sweater Small,A0412,$2.00 ,$2.17 ,1/22/2020,20201,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$10.12 ,4/17/2020,20204,86
+Thrift City,TCEC Floral Kimono Duster Tie Sleeveless Lace Semi-Sheer Large,A0413,$2.00 ,$2.17 ,1/20/2020,20201,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$8.89 ,4/26/2020,20204,97
+Thrift City,Umgee Floral Bell Sleeve Top Boho S,A0414,$2.00 ,$2.17 ,1/21/2020,20201,,,,,,,,,945
+Thrift City,Columbia Outerspaced Pullover Hoodie Pink/Purple S,A0415,$2.00 ,$2.17 ,1/21/2020,20201,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$2.89 ,11/1/2020,202011,285
+Thrift City,Wrangler Aztec Tribal Western Strappy Tank M,A0416,$2.00 ,$2.17 ,1/20/2020,20201,ThredUp,$21.99 ,$18.47 ,$0.00 ,$3.52 ,$1.36 ,9/5/2020,20209,229
+Thrift City,LuLaRoe Julia Aztec Dress XS NWT,A0417,$2.00 ,$2.17 ,1/21/2020,20201,,,,,,,,,945
+Thrift City,New Balance Amber Wrap Athletic Cardigan Yoga Wrap NWT XS,A0418,$2.00 ,$2.17 ,1/22/2020,20201,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$7.72 ,8/20/2020,20208,211
+Thrift City,PINK Victoria's Secret Pullover Hoodie Logo Blue M,A0419,$2.00 ,$2.17 ,1/22/2020,20201,Poshmark,$15.00 ,$3.00 ,$1.06 ,$10.94 ,$8.78 ,5/22/2020,20205,121
+Thrift City,PrAna Monique Purple Mountain Sweater Organic Sustainable XL NWT,A0420,$2.00 ,$2.17 ,1/20/2020,20201,,,,,,,,,946
+Thrift City,Nike Dri Fit Run Floral Logo Tank XL,A0421,$2.00 ,$2.17 ,1/21/2020,20201,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$7.89 ,3/16/2020,20203,55
+Goodwill Bins S ATX,Everly Sleeveless Printed Sun Dress Small,A0422,$0.91 ,$0.98 ,Wearing,,,,,,,,,,
+Goodwill Bins S ATX,Express Knit Scoop Neck Pullover Pleated Tulle Back XS,A0423,$0.91 ,$0.98 ,1/27/2020,20201,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$3.10 ,9/15/2020,20209,232
+Goodwill Bins S ATX,Altar'd State Floral Embroidered Boho Tank M,A0424,$0.91 ,$0.98 ,1/27/2020,20201,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$13.42 ,2/29/2020,20202,33
+Goodwill Bins S ATX,Disney Minnie Mouse Graphic Tee XL,A0425,$0.91 ,$0.98 ,1/27/2020,20201,ThredUp,$13.99 ,$12.81 ,$0.00 ,$1.18 ,$0.20 ,12/25/2020,202012,333
+Goodwill Bins S ATX,Lily White Blush Printed Top Pleated Sleeves XL,A0426,$0.91 ,$0.98 ,1/27/2020,20201,Poshmark,$17.50 ,$3.50 ,$0.00 ,$14.00 ,$13.02 ,6/13/2020,20206,138
+Goodwill Bins S ATX,Express Graphic Tank Champagne All Day S,A0427,$0.91 ,$0.98 ,1/27/2020,20201,Poshmark,$14.00 ,$2.95 ,$2.12 ,$8.93 ,$7.95 ,8/22/2020,20208,208
+Goodwill Bins S ATX,Maeve Anthropologie Multicolor Striped Skirt S,A0428,$0.91 ,$0.98 ,1/27/2020,20201,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$16.62 ,3/6/2020,20203,39
+Goodwill Bins S ATX,Maeve Anthropologie Paisley Silk Tunic Blouse M,A0429,$0.91 ,$0.98 ,1/27/2020,20201,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$5.69 ,4/26/2020,20204,90
+Goodwill Bins S ATX,Vanilla Bay Aztec Tribal Sun Dress S,A0430,$0.91 ,$0.98 ,1/29/2020,20201,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$3.95 ,7/7/2020,20207,160
+Closet,Forever 21 Floral Swing Dress M,A0431,$0.00 ,$0.00 ,1/29/2020,20201,ThredUp,$19.99 ,$16.99 ,$0.00 ,$3.00 ,$3.00 ,10/1/2020,202010,246
+Goodwill Bins S ATX,Calessa Boho Paisley Hippie Gypsy Maxi Dress S,A0432,$0.91 ,$0.98 ,1/29/2020,20201,,,,,,,,,937
+Goodwill Bins S ATX,Roxy Woodstock Sea Spray Kimono Cover Up Tassel Boho Fringe Hippie M,A0433,$0.91 ,$0.98 ,1/28/2020,20201,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$11.30 ,5/18/2020,20205,111
+Goodwill Bins S ATX,Merona Color Block Scoop Neck Pullover Knit Sweater M,A0434,$0.91 ,$0.98 ,1/28/2020,20201,,,,,,,,,938
+Goodwill Bins S ATX,Topshop Panther Cat Animal Graphic Muscle Tank 2,A0435,$0.91 ,$0.98 ,1/28/2020,20201,Poshmark,$5.00 ,$1.00 ,$0.00 ,$4.00 ,$3.02 ,2/13/2020,20202,16
+Goodwill Bins S ATX,Express Chiffon Halter Neck Tie Tank M,A0436,$0.91 ,$0.98 ,1/28/2020,20201,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.07 ,4/19/2020,20204,82
+Goodwill Bins S ATX,Pure Barre Military Patch High Neck Tank S,A0437,$0.91 ,$0.98 ,1/28/2020,20201,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$13.42 ,4/16/2020,20204,79
+Goodwill Bins S ATX,Express Aztec Tribal Sequin Multi Color Tank XS,A0438,$0.91 ,$0.98 ,1/28/2020,20201,,,,,,,,,938
+Goodwill Bins S ATX,Banana Republic NWOT Long Cardigan M,A0439,$0.91 ,$0.98 ,1/28/2020,20201,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$8.90 ,8/7/2020,20208,192
+Goodwill Bins S ATX,Pleione Chambray Peasant Tassel Top S,A0440,$0.91 ,$0.98 ,1/25/2020,20201,,,,,,,,,941
+Goodwill Bins S ATX,Michael Kors Shift Dress Toggle 3/4 Sleeve M,A0441,$0.91 ,$0.98 ,1/29/2020,20201,,,,,,,,,937
+Goodwill Bins S ATX,Francesca's miami Knit Cardigan Aztec M,A0442,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.71 ,$15.29 ,$14.31 ,12/9/2020,202012,318
+Goodwill Bins S ATX,Lucky Brand Camel Graphic Tee S,A0443,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.07 ,7/19/2020,20207,175
+Goodwill Bins S ATX,Coco & Main Crew Neck Striped Bodycon Ruched Dress M,A0444,$0.91 ,$0.98 ,1/30/2020,20201,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$13.42 ,3/29/2020,20203,59
+Goodwill Bins S ATX,LuLaRoe Julia Striped Dress S,A0445,$0.91 ,$0.98 ,1/30/2020,20201,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$13.42 ,9/30/2020,20209,244
+Goodwill Bins S ATX,LuLaRoe Orange Pocket Fit and Flare T Dress XXS,A0446,$0.91 ,$0.98 ,1/30/2020,20201,,,,,,,,,936
+Goodwill Bins S ATX,Cloth & Stone Chambray Halter Dress S,A0447,$0.91 ,$0.98 ,1/29/2020,20201,Poshmark,$32.00 ,$6.40 ,$0.00 ,$25.60 ,$24.62 ,6/17/2020,20206,140
+Goodwill Bins S ATX,Athleta Flare Pant Ankle Split LP,A0448,$0.91 ,$0.98 ,1/25/2020,20201,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$23.02 ,2/9/2020,20202,15
+Goodwill Bins S ATX,Flying Tomato Maxi Dress Aztec Tribal Boho Hippie M,A0449,$0.91 ,$0.98 ,1/30/2020,20201,Poshmark,$18.33 ,$3.67 ,$0.00 ,$14.67 ,$13.69 ,5/26/2020,20205,117
+Goodwill Bins S ATX,J. Crew Peter Pan Collar Pullover S,A0450,$0.91 ,$0.98 ,1/25/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.02 ,2/1/2020,20202,7
+Goodwill Bins S ATX,Taylor & Sage Lace Neck Tie Peasant Blouse Bell Sleeve S,A0451,$0.91 ,$0.98 ,1/25/2020,20201,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$7.02 ,7/4/2020,20207,161
+Goodwill Bins S ATX,Broke Down Clothing Cactus Graphic Print High Neck Tank M,A0452,$0.91 ,$0.98 ,1/25/2020,20201,Poshmark,$27.00 ,$5.40 ,$0.00 ,$21.60 ,$20.62 ,3/6/2020,20203,41
+Goodwill Bins S ATX,Chloe K Tank Apple Graphic Strappy M ,A0453,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$22.50 ,$4.50 ,$1.78 ,$16.22 ,$15.24 ,6/11/2020,20206,137
+Goodwill Bins S ATX,Do Everything in Love Kimono Fringe Shawl Boho OS,A0454,$0.91 ,$0.98 ,1/26/2020,20201,,,,,,,,,940
+Goodwill Bins S ATX,LuLaRoe High Low Classic Tee M,A0455,$0.91 ,$0.98 ,1/25/2020,20201,Poshmark,$16.50 ,$3.30 ,$0.90 ,$12.30 ,$11.32 ,1/31/2020,20201,6
+Goodwill Bins S ATX,One Clothing Racer Back Tank Aztec Floral Boho M,A0456,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$15.00 ,$3.75 ,$0.53 ,$10.72 ,$9.74 ,4/3/2020,20204,68
+Goodwill Bins S ATX,Vince Color Block Dolman Long Sleeve Mouline Tee XS,A0457,$0.91 ,$0.98 ,1/28/2020,20201,,,,,,,,,938
+Goodwill Bins S ATX,Patricia Wolf Western Aztec Tribal Long Sleeve Top S,A0458,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$36.00 ,$7.20 ,$2.12 ,$26.68 ,$25.70 ,10/15/2020,202010,263
+Goodwill Bins S ATX,Halogen Plus Size Double V Neck Black White Rope 1X,A0459,$0.91 ,$0.98 ,1/25/2020,20201,,,,,,,,,941
+Goodwill Bins S ATX,Nine West Plaid Pump Heel Pointed Toe 8M,A0460,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$11.30 ,5/20/2020,20205,117
+Goodwill Bins S ATX,Toms Silver Sparkly Glitter Slip On Flat 10,A0461,$0.91 ,$0.98 ,1/23/2020,20201,,,,,,,,,943
+Goodwill Bins S ATX,Kenneth Cole Kassie Slip On Sneakers Size 9M,A0462,$0.91 ,$0.98 ,1/24/2020,20201,,,,,,,,,942
+Goodwill Bins S ATX,American Eagle Brown Lase Cut Peep Toe Flats 6.5W,A0463,$0.91 ,$0.98 ,1/23/2020,20201,Poshmark,$19.33 ,$3.87 ,$0.00 ,$15.47 ,$14.49 ,2/12/2020,20202,20
+Goodwill Bins S ATX,Charming Charlie Cork Wedge Heel Sandal Braided 8,A0464,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$12.50 ,$2.50 ,$1.06 ,$8.94 ,$7.96 ,4/24/2020,20204,91
+Goodwill Bins S ATX,Antonio Melani Woven Ankle Strap Heel 7.5,A0465,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$5.07 ,7/31/2020,20207,189
+Goodwill Bins S ATX,Restricted Gladiator Sandal Zipper Low Heel 7.5,A0466,$0.91 ,$0.98 ,1/24/2020,20201,,,,,,,,,942
+Goodwill Bins S ATX,Aerosoles Plush Pillow Wedge Sandal 6.5,A0467,$0.91 ,$0.98 ,1/23/2020,20201,,,,,,,,,943
+Goodwill Bins S ATX,Toms Harper Black Platform Wedge Sandal 3.5,A0468,$0.91 ,$0.98 ,1/23/2020,20201,Poshmark,$19.50 ,$3.90 ,$1.06 ,$14.54 ,$13.56 ,2/17/2020,20202,25
+Goodwill Bins S ATX,Patagonia Maha Breathe Ballet Flat 7,A0469,$0.91 ,$0.98 ,1/23/2020,20201,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$19.02 ,2/24/2020,20202,32
+Goodwill Bins S ATX,Seychelles Corduroy Bow Kitten Heel 6,A0470,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$24.00 ,$4.80 ,$0.00 ,$19.20 ,$18.22 ,7/22/2020,20207,180
+Goodwill Bins S ATX,Vince Camuto Kemper Black Suede Wedge Bootie 7,A0471,$0.91 ,$0.98 ,1/23/2020,20201,Poshmark,$40.00 ,$8.00 ,$2.12 ,$29.88 ,$28.90 ,11/4/2020,202011,286
+Goodwill Bins S ATX,nicole Peep Toe Ankle Strap Wedge Heel 6.5M,A0472,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.02 ,6/13/2020,20206,141
+Goodwill Bins S ATX,Free People Reusable Cloth Bag,A0473,$0.91 ,$0.98 ,1/24/2020,20201,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.91),($0.98),12/31/2020,202012,342
+Goodwill Bins S ATX,Metropolitan Museum of Art 100% Silk Floral Scarf,A0474,$0.91 ,$0.98 ,1/24/2020,20201,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.02 ,2/29/2020,20202,36
+Goodwill Bins S ATX,3/$20 Black & White Tie Dye Print Fringe Tassel Scarf,A0475,$0.91 ,$0.98 ,1/24/2020,20201,,,,,,,,,942
+Goodwill Bins S ATX,3/$20 Light Pink Fringe Tassel 100% Cashmere Scarf,A0476,$0.91 ,$0.98 ,1/26/2020,20201,Poshmark,$6.67 ,$1.33 ,$0.00 ,$5.33 ,$4.35 ,4/25/2020,20204,90
+Goodwill Bins S ATX,3/$20 Navy Semi-Sheer Embroidered Scarf,A0477,$0.91 ,$0.98 ,1/26/2020,20201,,,,,,,,,940
+Clothes Mentor Selma,Altar'd State Floral Crochet Romper M,A0478,$1.50 ,$1.62 ,1/31/2020,20201,,,,,,,,,935
+Clothes Mentor Selma,Belinda Aztec Tribal Sundress M,A0479,$1.20 ,$1.30 ,1/31/2020,20201,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$8.58 ,5/14/2020,20205,104
+Clothes Mentor Selma,CAbi Sheer Dolman Ombre Fade Out Blouse XS,A0480,$1.20 ,$1.30 ,1/31/2020,20201,,,,,,,,,935
+Clothes Mentor Selma,Forever21 Abstract Geometric Print Skater Dress S,A0481,$1.00 ,$1.08 ,2/4/2020,20202,ThredUp,$4.99 ,$4.84 ,$0.00 ,$0.15 ,($0.93),12/31/2020,202012,331
+Clothes Mentor Selma,Love by Chelsey Boho Aztec Tunic M,A0482,$1.10 ,$1.19 ,1/31/2020,20201,,,,,,,,,
+Clothes Mentor Selma,Sweet Journey Sheer Embroidered Boho Blouse M,A0483,$0.80 ,$0.87 ,2/1/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.87),10/25/2020,202010,267
+Clothes Mentor Selma,Ann Taylor Leopard Cheetah Animal Print Dress 8,A0484,$1.40 ,$1.52 ,2/1/2020,20202,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$15.56 ,8/28/2020,20208,209
+Clothes Mentor Selma,Altar'd State Boho Lace Paisely Long Sleeve Top S,A0485,$1.00 ,$1.08 ,2/1/2020,20202,,,,,,,,,934
+Clothes Mentor Selma,ezra Aztec Tribal Maxi Dress M,A0486,$1.50 ,$1.62 ,2/1/2020,20202,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.38 ,2/2/2020,20202,1
+Clothes Mentor Selma,Blu Pepper Aztec Tribal Shorts S,A0487,$0.80 ,$0.87 ,2/7/2020,20202,Poshmark,$18.33 ,$3.67 ,$0.00 ,$14.67 ,$13.80 ,5/26/2020,20205,109
+Clothes Mentor Selma,Nike Dri Fit Skirt Skort Neon S,A0488,$1.20 ,$1.30 ,2/6/2020,20202,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.75 ,5/23/2020,20205,107
+Clothes Mentor Selma,Nike Dri Fit Racer Back Tank S,A0489,$1.10 ,$1.19 ,2/12/2020,20202,,,,,,,,,923
+Clothes Mentor Selma,Misia Paisley Crew Neck 3/4 Sleeve Tunic M,A0490,$1.60 ,$1.73 ,2/1/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.73),12/29/2020,202012,332
+Clothes Mentor Selma,Wishful Park Color Block Stripe Blouse M,A0491,$0.80 ,$0.87 ,2/5/2020,20202,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$10.18 ,2/22/2020,20202,17
+Clothes Mentor Selma,Ann Taylor LOFT Corduroy Blazer Jacket 8,A0492,$11.20 ,$12.12 ,2/4/2020,20202,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$7.88 ,2/6/2020,20202,2
+Goodwill Bins SAT,The Nike Tee Athletic Cut Racerback Tank M,A0493,$0.99 ,$1.07 ,2/6/2020,20202,,,,,,,,,929
+Goodwill Bins SAT,Madewell V-Neck Pocket Tee XS,A0494,$0.99 ,$1.07 ,2/4/2020,20202,ThredUp,$31.99 ,$25.27 ,$0.00 ,$6.72 ,$5.65 ,8/18/2020,20208,196
+Goodwill Bins SAT,Ralph Lauren Lauren Jeans Co. Striped Scoop Neck Tee XS,A0495,$0.99 ,$1.07 ,2/4/2020,20202,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.59 ,9/13/2020,20209,222
+Goodwill Bins SAT,Kimono Boho Aztec Print One Size Semi Sheer,A0496,$0.99 ,$1.07 ,2/4/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),8/14/2020,20208,192
+Goodwill Bins SAT,Vintage Caroline Wells Dress Short Sleeve Wrap Tie,A0497,$0.99 ,$1.07 ,2/4/2020,20202,,,,,,,,,931
+Goodwill Bins SAT,Perch by Blu Pepper Pleated Color Block Dress XL,A0498,$0.99 ,$1.07 ,2/4/2020,20202,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$3.86 ,5/17/2020,20205,103
+Goodwill Bins SAT,Maison Jules Long Sleeve Button Up Dress Pocket M,A0499,$0.99 ,$1.07 ,2/4/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/25/2020,202010,264
+Goodwill Bins SAT,Guns N Roses Graphic Band Tee Black Rock Roll XL,A0500,$0.99 ,$1.07 ,2/12/2020,20202,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$22.93 ,4/16/2020,20204,64
+Goodwill Bins SAT,3/$20 Scarf white with black print design semi-sheer,A0501,$0.99 ,$1.07 ,2/7/2020,20202,,,,,,,,,928
+Goodwill NW Loop 410,Lucky Brand Boho T Shirt Navy Size XL,A0502,$4.79 ,$5.19 ,2/21/2020,20202,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$9.21 ,4/2/2020,20204,41
+Goodwill Bins S ATX,3/$20 Paisley Printed Infinity Scarf,A0503,$0.99 ,$1.07 ,2/7/2020,20202,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$3.98 ,2/9/2020,20202,2
+Goodwill Bins S ATX,Charlotte Russe Studded Lace Up Heel Bootie NWOT 8,A0504,$0.99 ,$1.07 ,2/6/2020,20202,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$12.81 ,5/9/2020,20205,93
+Goodwill Bins S ATX,Call it Spring Crossbody Purse Tassel Vegan,A0505,$0.91 ,$0.99 ,2/10/2020,20202,,,,,,,,,925
+Goodwill Bins S ATX,Amanda Smith Crushed Velvet Floral Fleur Boot 7.5,A0506,$0.99 ,$1.07 ,2/6/2020,20202,,,,,,,,,929
+Goodwill Bins S ATX,Sam Edelman Lucca Buckle Heeled Bootie 8.5,A0507,$0.99 ,$1.07 ,2/6/2020,20202,,,,,,,,,929
+Goodwill Bins S ATX,DVF Black Suede Pointed Toe Heel 6.5,A0508,$0.99 ,$1.07 ,2/4/2020,20202,,,,,,,,,931
+Closet,Levi's Reversible Brown Black Belt Size L 38-40,A0509,$0.00 ,$0.00 ,2/7/2020,20202,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.93 ,7/19/2020,20207,163
+Goodwill NW Loop 410,Lucky Brand Boho T Shirt White Size XL,A0510,$4.79 ,$5.19 ,2/21/2020,20202,Poshmark,$19.00 ,$3.80 ,$0.00 ,$15.20 ,$10.01 ,2/24/2020,20202,3
+Goodwill Bins S ATX,Earthbound Leather Braided Boho Backpack,A0511,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$23.00 ,$4.60 ,$2.12 ,$16.28 ,$15.29 ,11/1/2020,202011,265
+Goodwill Bins S ATX,Vince Camuto Double Layer Lavender Sleeveless Blouse XS,A0512,$0.91 ,$0.99 ,2/15/2020,20202,Poshmark,$7.50 ,$1.50 ,$0.00 ,$6.00 ,$5.01 ,7/20/2020,20207,156
+Goodwill Bins S ATX,Philosophy Long Dolman Sleeve V-Neck Overside Top M,A0513,$0.91 ,$0.99 ,7/27/2020,20207,Mercari,$9.00 ,$0.80 ,$4.32 ,$3.88 ,$2.89 ,8/22/2020,20208,26
+Goodwill Bins S ATX,AEO Long Sleeve Purple Blouse S,A0514,$0.91 ,$0.99 ,2/15/2020,20202,Poshmark,$8.00 ,$1.60 ,$0.00 ,$6.40 ,$5.41 ,4/24/2020,20204,69
+Goodwill Bins S ATX,GAP Faux Wrap Tank Arrow Small,A0515,$0.91 ,$0.99 ,2/15/2020,20202,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$3.09 ,8/18/2020,20208,185
+Goodwill Bins S ATX,Chelsea & Violet Bell Bottom Boho Hippie Pants S,A0516,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.01 ,6/12/2020,20206,115
+Goodwill Bins S ATX,Show Me Your Mumu Classic Button Down V-Neck M,A0517,$0.91 ,$0.99 ,2/13/2020,20202,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$27.01 ,2/15/2020,20202,2
+Goodwill Bins S ATX,J. Jill Color Block Striped Dress L,A0518,$0.91 ,$0.99 ,2/14/2020,20202,Poshmark,$32.00 ,$6.40 ,$2.12 ,$23.48 ,$22.49 ,11/3/2020,202011,263
+Goodwill Bins S ATX,REI Racerback Tank Built in Bra L,A0519,$0.91 ,$0.99 ,2/14/2020,20202,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$10.06 ,4/5/2020,20204,51
+Goodwill Bins S ATX,UO High Neck Long Sleeve Flare Stripe Top S,A0520,$0.91 ,$0.99 ,2/14/2020,20202,ThredUp,$35.99 ,$27.71 ,$0.00 ,$8.28 ,$7.29 ,9/9/2020,20209,208
+Goodwill Bins S ATX,Lucky Brand Boho Hippie Gypsy Lace Tank S,A0521,$0.91 ,$0.99 ,2/13/2020,20202,,,,,,,,,922
+Goodwill Bins S ATX,Banana Republic Striped Tunic Tank Tie XS,A0522,$0.91 ,$0.99 ,2/15/2020,20202,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$3.94 ,5/15/2020,20205,90
+Goodwill Bins S ATX,Express Black Strapless Dress Stretch Pocket S,A0523,$0.91 ,$0.99 ,2/14/2020,20202,Mercari,$15.00 ,$1.50 ,$3.97 ,$9.53 ,$8.54 ,7/26/2020,20207,163
+Goodwill Bins S ATX,Baron Baptiste Racerback Yoga Tank S,A0524,$0.91 ,$0.99 ,2/14/2020,20202,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.01 ,2/14/2020,20202,0
+Goodwill Bins S ATX,Three Dots Cowl Neck Long Tank S,A0525,$0.91 ,$0.99 ,2/15/2020,20202,Poshmark,$14.50 ,$2.90 ,$0.00 ,$11.60 ,$10.61 ,3/19/2020,20203,33
+Goodwill Bins S ATX,Hollister Suede Button Up Skirt 1,A0526,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.01 ,3/2/2020,20203,13
+Goodwill NW Loop 410,Lucky Brand Floral Boho Long Sleeve Button Up M,A0527,$2.40 ,$2.59 ,2/24/2020,20202,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$17.41 ,3/12/2020,20203,17
+Goodwill Bins S ATX,J. Crew Linen Striped Pocket Tee M,A0528,$0.91 ,$0.99 ,2/17/2020,20202,,,,,,,,,918
+Goodwill Bins S ATX,Taurus 2 II Paisley Vintage Maxi Dress Shoulderpad 10,A0529,$0.91 ,$0.99 ,2/18/2020,20202,Mercari,$15.00 ,$1.50 ,$5.54 ,$7.96 ,$6.97 ,7/31/2020,20207,164
+Goodwill Bins S ATX,Wild Fable Striped Glitter Track Pant Jogger XXL,A0530,$0.91 ,$0.99 ,2/28/2020,20202,ThredUp,$19.99 ,$17.59 ,$0.00 ,$2.40 ,$1.41 ,10/13/2020,202010,228
+Goodwill Bins S ATX,BCBGMaxAzria Shelley Scarf Print Kaftan Poncho Top XS/S,A0531,$0.91 ,$0.99 ,2/17/2020,20202,,,,,,,,,918
+Goodwill Bins S ATX,Vintage Leather High Waist Pencil Skirt 7/8,A0532,$0.91 ,$0.99 ,2/28/2020,20202,,,,,,,,,907
+Goodwill Bins S ATX,Michael Stars V-Neck Tank Fitted Stretch OS,A0533,$0.91 ,$0.99 ,2/17/2020,20202,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$9.06 ,3/14/2020,20203,26
+Goodwill Bins S ATX,Boho Embellished V-Neck Floral Tunic M,A0534,$0.91 ,$0.99 ,2/18/2020,20202,ThredUp,$4.99 ,$4.84 ,$0.00 ,$0.15 ,($0.84),10/9/2020,202010,234
+Goodwill Bins S ATX,Club Monaco Black Crop Split Back Tank S,A0535,$0.91 ,$0.99 ,2/17/2020,20202,Poshmark,$25.00 ,$5.00 ,$2.12 ,$17.88 ,$16.89 ,7/24/2020,20207,158
+Goodwill Bins S ATX,prAna Sleevless Dress Active Casual S,A0536,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$23.00 ,$4.60 ,$0.00 ,$18.40 ,$17.41 ,8/6/2020,20208,170
+Goodwill Bins S ATX,Zara Basic Purple Lavender Tank L,A0537,$0.91 ,$0.99 ,2/18/2020,20202,ThredUp,$7.99 ,$7.51 ,$0.00 ,$0.48 ,($0.51),9/5/2020,20209,200
+Goodwill Bins S ATX,Ann Taylor Petite Peplum Snake Print Top 6P,A0538,$0.91 ,$0.99 ,2/18/2020,20202,,,,,,,,,917
+Goodwill Bins S ATX,Vintage White Lace Jumpsuit Belt Chic Wedding Bridal 9/10,A0539,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$23.01 ,5/24/2020,20205,96
+Goodwill Bins S ATX,Anthropologie Maeve Polka Dot Bagatelle Button Down Blouse 6,A0540,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$19.29 ,5/26/2020,20205,98
+Goodwill Bins S ATX,Anthropologie Moulinette Soeurs Red Bird Silk Dress 10,A0541,$0.91 ,$0.99 ,2/18/2020,20202,Poshmark,$28.00 ,$5.60 ,$7.11 ,$15.29 ,$14.30 ,12/26/2020,202012,312
+Goodwill Bins S ATX,Kaktus Beaded Sheer Boho Long Sleeve Top S,A0543,$0.91 ,$0.99 ,2/18/2020,20202,ThredUp,$4.99 ,$4.84 ,$0.00 ,$0.15 ,($0.84),10/9/2020,202010,234
+Goodwill Bins S ATX,Crew Knitwear Dolman Sleeve Aztec Top L,A0544,$0.91 ,$0.99 ,2/24/2020,20202,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$1.71 ,8/18/2020,20208,176
+Goodwill Bins S ATX,Torrid Strappy Lace Up Ankle Tie Zip Up Heel Suede 8W,A0545,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.01 ,2/13/2020,20202,3
+Goodwill Bins S ATX,Italian Shoemakers Wedge Navy Canvas 6,A0546,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.06 ,5/7/2020,20205,87
+Goodwill Bins S ATX,Merrell Oak Brown Suede Ballet Flat 7,A0547,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$21.00 ,$4.20 ,$2.12 ,$14.68 ,$13.69 ,10/20/2020,202010,253
+Goodwill Bins S ATX,Sam Edelman Rasha Wedge Strappy Sandal 7.5,A0548,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$21.00 ,$4.20 ,$2.12 ,$14.68 ,$13.69 ,10/22/2020,202010,255
+Goodwill Bins S ATX,Bandalino Gold Floral Heel Pump Bow 7.5,A0549,$0.91 ,$0.99 ,2/10/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.99),10/25/2020,202010,258
+Goodwill Bins S ATX,BCBGeneration Truce Suede Slip On Wedge 8.5,A0550,$0.91 ,$0.99 ,2/10/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.99),10/25/2020,202010,258
+Goodwill Bins S ATX,Nine West Fair Game Slingback Suede Heel 8,A0551,$0.91 ,$0.99 ,2/10/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.99),10/25/2020,202010,258
+Goodwill NW Loop 410,Athleta Red Cap Sleeve Scoop Neck Top XS,A0552,$4.79 ,$5.19 ,2/24/2020,20202,,,,,,,,,911
+Goodwill Bins S ATX,Kate Spade Suede Loafer Bow Gold 8M,A0553,$0.91 ,$0.99 ,2/10/2020,20202,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$19.29 ,12/8/2020,202012,302
+Texas Thrift Store,Crocs Lina Wedge Floral Pump NWOT 6,A0554,$4.99 ,$5.40 ,2/10/2020,20202,Poshmark,$17.50 ,$3.50 ,$0.00 ,$14.00 ,$8.60 ,2/14/2020,20202,4
+Texas Thrift Store,Juicy Couture Quilted High Top Sneaker 6,A0555,$6.99 ,$7.56 ,2/10/2020,20202,,,,,,,,,925
+Texas Thrift Store,Sam Edelman Felicia Leather Red Ballet Flat 9,A0556,$5.98 ,$6.47 ,2/10/2020,20202,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$17.53 ,8/11/2020,20208,183
+Texas Thrift Store,Sam Edelman Trixie Gold Block Heel Sandal 6,A0557,$6.98 ,$7.56 ,2/10/2020,20202,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$10.04 ,9/3/2020,20209,206
+Texas Thrift Store,Qupid Low Heel Bootie Suede Cut Out Zip Up,A0558,$4.89 ,$5.29 ,2/10/2020,20202,,,,,,,,,925
+Texas Thrift Store,Lucky Brand Boho Hippie Tribal White T Shirt S,A0559,$3.49 ,$3.77 ,2/21/2020,20202,ThredUp,$14.99 ,$13.64 ,$0.00 ,$1.35 ,($2.42),10/31/2020,202010,253
+Texas Thrift Store,Lucky Brand Boho Hippie Gypsy T Shirt S,A0560,$2.49 ,$2.70 ,2/21/2020,20202,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.30 ,8/14/2020,20208,175
+Texas Thrift Store,GAP Color Block Knit Short Sleeve Top Oversize Classic XS,A0561,$2.99 ,$3.24 ,2/24/2020,20202,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$3.43 ,4/23/2020,20204,59
+Texas Thrift Store,AEO Chino Aztec Print Stretch 6,A0562,$0.99 ,$1.07 ,2/29/2020,20202,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.98 ,7/22/2020,20207,144
+Texas Thrift Store,Empire Abigail Distressed Lace Pocket Detail Shorts Juniors 9,A0563,$0.99 ,$1.07 ,3/1/2020,20203,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.59 ,9/11/2020,20209,194
+Texas Thrift Store,Kut from the Kloth Natalie High Rise Bootcut Jeans 10S,A0564,$3.49 ,$3.78 ,2/28/2020,20202,,,,,,,,,907
+Goodwill NW Loop 410,Disney NWOT Little Mermaid Ariel Leggings M,A0565,$4.79 ,$5.19 ,2/12/2020,20202,Poshmark,$28.00 ,$5.60 ,$0.00 ,$22.40 ,$17.21 ,2/19/2020,20202,7
+Goodwill NW Loop 410,$3/20 Coral Lace Infinity Scarf,A0566,$1.00 ,$1.08 ,2/12/2020,20202,,,,,,,,,923
+Goodwill NW Loop 410,$3/20 Rainbow Fringe Multi Color Metallic Scarf,A0567,$1.00 ,$1.08 ,2/12/2020,20202,,,,,,,,,923
+Goodwill NW Loop 410,"Madewell 10"" High Rise Skinny Skinny Jeans 27",A0568,$7.99 ,$8.65 ,2/11/2020,20202,Poshmark,$36.00 ,$7.20 ,$0.00 ,$28.80 ,$20.15 ,2/27/2020,20202,16
+Goodwill NW Loop 410,Zara Basic Floral Top Open Back Crew Neck Short Sleeve M,A0569,$4.79 ,$5.19 ,2/13/2020,20202,,,,,,,,,922
+Goodwill NW Loop 410,Zara Trafaluc Floral Sheer Top V Neck Short Sleeve Faux Wrap S,A0570,$4.79 ,$5.19 ,2/13/2020,20202,,,,,,,,,922
+Goodwill NW Loop 410,Kuhl Invoke Women's Hiking Button Down Charcoal M,A0571,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$30.00 ,$6.00 ,$2.12 ,$21.88 ,$16.69 ,2/28/2020,20202,17
+Goodwill NW Loop 410,Kuhl Invoke Women's Hiking Button Down Sand Dune M,A0572,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$14.81 ,2/18/2020,20202,7
+Goodwill NW Loop 410,Kuhl Trekr Pant Straight Leg Hiking Charcoal 8 Short,A0573,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$22.81 ,6/20/2020,20206,130
+Goodwill NW Loop 410,Kuhl Trekr Pant Straight Leg Hiking Pine 8 Short,A0574,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$45.00 ,$9.00 ,$0.00 ,$36.00 ,$30.81 ,7/26/2020,20207,166
+Goodwill NW Loop 410,Kuhl Trekr Pant Straight Leg Hiking Stone 8 Short,A0575,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$22.81 ,8/4/2020,20208,175
+Goodwill NW Loop 410,Kuhl Trekr Pant Straight Leg Hiking Stone 8R,A0576,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$26.81 ,2/16/2020,20202,5
+Goodwill NW Loop 410,Fabletics High-Waisted Statement 7/8 Legging M,A0577,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$21.00 ,$4.20 ,$0.00 ,$16.80 ,$11.61 ,2/22/2020,20202,11
+Goodwill NW Loop 410,Fabletics Mid-Rise UltraCool Pocket 7/8 Legging M,A0578,$4.79 ,$5.19 ,2/11/2020,20202,Poshmark,$27.00 ,$5.40 ,$2.12 ,$19.48 ,$14.29 ,2/16/2020,20202,5
+Goodwill NW Loop 410,Lulu's Say No More Black Peplum Top XS,A0579,$4.79 ,$5.19 ,2/21/2020,20202,,,,,,,,,914
+Goodwill NW Loop 410,Logo by Lori Goldstein Tunic Top Ruffle Tan M,A0580,$4.79 ,$5.19 ,2/19/2020,20202,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$7.09 ,8/20/2020,20208,183
+Goodwill NW Loop 410,Logo by Lori Goldstein Tunic Top Ruffle Pink M,A0581,$4.79 ,$5.19 ,2/19/2020,20202,,,,,,,,,916
+Goodwill NW Loop 410,Anthropologie Holding Horses Aztec Long Sleeve Dress 4,A0582,$2.40 ,$2.59 ,2/19/2020,20202,,,,,,,,,916
+Goodwill NW Loop 410,Vince Black Short Sleeve Tunic Dress M,A0583,$2.40 ,$2.59 ,2/24/2020,20202,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$29.41 ,9/18/2020,20209,207
+Goodwill NW Loop 410,Francesca's Boho Scoop Neck Dress S,A0584,$3.25 ,$3.51 ,2/19/2020,20202,,,,,,,,,916
+Goodwill NW Loop 410,Carlos Santana Black Bootie Criss Cross Bootie 6.5,A0585,$5.00 ,$5.41 ,2/27/2020,20202,Poshmark,$26.00 ,$5.20 ,$0.00 ,$20.80 ,$15.39 ,12/5/2020,202012,282
+Closet,GAP Italian Merino Wool Sweater V-Neck S,A0586,$0.00 ,$0.00 ,2/26/2020,20202,,,,,,,,,909
+Closet,Abercrombie & Fitch Knit Tunic Sweater S,A0587,$0.00 ,$0.00 ,2/24/2020,20202,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$8.00 ,7/4/2020,20207,131
+Closet,TORRID Emerald Green Cold Shoulder Sweater 1X,A0588,$0.00 ,$0.00 ,2/25/2020,20202,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$10.05 ,3/4/2020,20203,8
+Closet,Liz Claiborne Floral Crew Neck Blouse S,A0589,$0.00 ,$0.00 ,2/26/2020,20202,,,,,,,,,909
+Closet,Merona Grey Polka Dot Tank Scoop Neck XS,A0590,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,242
+Closet,Express Blouse V Neck Zipper Navy White Stripe XS,A0591,$0.00 ,$0.00 ,2/25/2020,20202,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,8/19/2020,20208,176
+Closet,Derek Heart Button Down Striped Roll Tab Sleeve S,A0592,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,242
+Closet,AEO Plaid Button Down Women's M,A0593,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$39.99 ,$29.99 ,$0.00 ,$10.00 ,$10.00 ,9/10/2020,20209,197
+Closet,Black & Red Vertical Striped Puplum Style Blouse ,A0594,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,8/14/2020,20208,170
+Closet,Maurices Tank Hippie Gyspy Boho Shark Bite M,A0595,$0.00 ,$0.00 ,2/25/2020,20202,Poshmark,$8.00 ,$1.60 ,$0.00 ,$6.40 ,$6.40 ,4/24/2020,20204,59
+Closet,All I Need is Mascara & Coffee Graphic Racer Back Tank L,A0596,$0.00 ,$0.00 ,2/26/2020,20202,Poshmark,$12.50 ,$2.50 ,$0.00 ,$10.00 ,$10.00 ,2/26/2020,20202,0
+Closet,Good Times and Tan Lines Graphic Muscle Tank ,A0597,$0.00 ,$0.00 ,2/26/2020,20202,Poshmark,$12.50 ,$2.50 ,$0.00 ,$10.00 ,$10.00 ,2/26/2020,20202,0
+Closet,Express Racer Back Gold Sequin Tank S,A0598,$0.00 ,$0.00 ,2/25/2020,20202,,,,,,,,,910
+Closet,Mossimo Racer Back Tank Aztec Print S,A0599,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$6.99 ,$6.62 ,$0.00 ,$0.37 ,$0.37 ,8/20/2020,20208,176
+Closet,Belle du jour Cap Sleeve Lace Tank High Low S,A0600,$0.00 ,$0.00 ,2/26/2020,20202,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$2.70 ,8/20/2020,20208,176
+Closet,Express racer Back White Sequin Tank XS,A0601,$0.00 ,$0.00 ,2/25/2020,20202,,,,,,,,,910
+Closet,H&M Black Tank Neck Lace Detailing Crew Neck XS,A0602,$0.00 ,$0.00 ,2/24/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,244
+Closet,Francesca's Miami Striped Lace Top M,A0603,$0.00 ,$0.00 ,2/24/2020,20202,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$2.70 ,8/18/2020,20208,176
+Closet,a new day Fitted V-Neck T-Shirt Hunter Green XS,A0604,$0.00 ,$0.00 ,2/24/2020,20202,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$8.00 ,7/4/2020,20207,131
+Closet,a new day Fitted V-Neck T-Shirt Grey XS,A0605,$0.00 ,$0.00 ,2/24/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,244
+Closet,QUAGGA Semi-Sheer Embroidered Blouse S/M,A0606,$0.00 ,$0.00 ,2/24/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,244
+Closet,Jeanne Pierre Wide Crew Neck Dolman Sleeve Sweater M,A0607,$0.00 ,$0.00 ,2/25/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,243
+Closet,H&M Aztec Print Long Sleeve Blouse S,A0608,$0.00 ,$0.00 ,2/25/2020,20202,ThredUp,$7.99 ,$7.84 ,$0.00 ,$0.15 ,$0.15 ,9/26/2020,20209,214
+Closet,Old Navy Plaid Women's Button Down XS,A0609,$0.00 ,$0.00 ,2/25/2020,20202,ThredUp,$27.99 ,$22.67 ,$0.00 ,$5.32 ,$5.32 ,9/8/2020,20209,196
+Closet,Nike FitDry Full Zip Jacket Men's M,A0610,$0.00 ,$0.00 ,2/25/2020,20202,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$12.00 ,3/22/2020,20203,26
+Closet,Arc'teryx Covert Hoody Fleece Zip Up M,A0611,$0.00 ,$0.00 ,2/25/2020,20202,Poshmark,$75.00 ,$15.00 ,$0.00 ,$60.00 ,$60.00 ,4/21/2020,20204,56
+Closet,Tall Compression Socks 2 Pair,A0612,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$5.05 ,2/28/2020,20202,1
+Closet,Victoria's Secret PINK Wear Everywhere Push-Up Bra 36A,A0613,$0.00 ,$0.00 ,3/1/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,4/9/2020,20204,39
+Closet,Victoria's Secret Push-Up Bra White 36A,A0614,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,3/7/2020,20203,9
+Closet,Cross Back Bralette Blue Lace,A0615,$0.00 ,$0.00 ,3/1/2020,20203,Poshmark,$9.00 ,$3.00 ,$0.00 ,$6.00 ,$6.00 ,4/13/2020,20204,43
+Closet,Aerie Maroon Lace Strapless / Multi-Way Bralette M,A0616,$0.00 ,$0.00 ,3/1/2020,20203,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$5.05 ,5/28/2020,20205,88
+Closet,Aerie White Floral Lace Cross Back Bralette M,A0617,$0.00 ,$0.00 ,3/1/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$6.67 ,4/24/2020,20204,54
+Closet,Madeline Stuart Black Caged Bedazzled Bootie 6.5,A0618,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$14.40 ,5/5/2020,20205,68
+Closet,Maurices Jessie Wedge Open Toe Platform Sandal 7,A0619,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,4/28/2020,20204,61
+Closet,Tory Burch Reva Watch Black Leather Strap ,A0620,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$120.00 ,$24.00 ,$0.00 ,$96.00 ,$96.00 ,6/15/2020,20206,109
+Closet,11 Watch Bundle Charming Charlie,A0621,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$50.00 ,$10.00 ,$7.11 ,$32.89 ,$32.89 ,8/11/2020,20208,166
+Closet,Women's Fossil Jacqueline Polka Dot Watch,A0622,$0.00 ,$0.00 ,2/27/2020,20202,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$32.00 ,3/5/2020,20203,7
+Goodwill Austin Hwy,Tory Burch Anya Gold Woven Leather Huarache Sandal 6,A0623,$17.99 ,$19.47 ,2/27/2020,20202,Poshmark,$69.00 ,$13.80 ,$0.00 ,$55.20 ,$35.73 ,4/13/2020,20204,46
+Goodwill Austin Hwy,Lucky Brand Bardon 2 Suede Black Bootie 7,A0624,$8.99 ,$9.73 ,2/27/2020,20202,Poshmark,$32.00 ,$6.40 ,$2.12 ,$23.48 ,$13.75 ,9/30/2020,20209,216
+Texas Thrift Store,Lucky Brand Embany Tan Quilted Ballet Flat 6,A0625,$3.49 ,$3.77 ,2/27/2020,20202,,,,,,,,,908
+Texas Thrift Store,Lucky Brand Emmie Black Leather Ballet Flat 6.5,A0626,$5.98 ,$6.47 ,2/27/2020,20202,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$11.13 ,8/8/2020,20208,163
+Texas Thrift Store,Lucky Brand Emmie Black Leather Ballet Flat 10W,A0627,$6.98 ,$7.56 ,2/27/2020,20202,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$16.44 ,3/6/2020,20203,8
+Texas Thrift Store,Dansko Plaid Clog Vegan 38 / 7.5,A0628,$9.98 ,$10.80 ,2/27/2020,20202,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$13.20 ,4/18/2020,20204,51
+Texas Thrift Store,Torrid NWOT Studded Bow Sandal 12W,A0629,$4.98 ,$5.39 ,2/27/2020,20202,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$6.89 ,2/29/2020,20202,2
+Texas Thrift Store,Sam Edelman Rae Flat Pointed Toe Leopard Print Calf Hair 7.5,A0630,$6.98 ,$7.56 ,2/27/2020,20202,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$6.84 ,5/27/2020,20205,90
+Texas Thrift Store,Halogen Ballet Flat Zipper Flower Rose Metallic 9,A0631,$2.49 ,$2.70 ,2/27/2020,20202,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$11.18 ,8/29/2020,20208,184
+Texas Thrift Store,Marc Jacobs Kitten Heeled Mule Black Liya Fur 38 / 7.5,A0632,$0.99 ,$1.07 ,2/27/2020,20202,Poshmark,$80.00 ,$16.00 ,$0.00 ,$64.00 ,$62.93 ,9/4/2020,20209,190
+Texas Thrift Store,Athleta Green Mesh Chi Racer Back Tank M,A0633,$3.98 ,$4.31 ,3/3/2020,20203,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$10.09 ,3/4/2020,20203,1
+Texas Thrift Store,Fabletics Heathered Pink Legging L,A0634,$4.98 ,$5.39 ,2/28/2020,20202,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$14.61 ,2/29/2020,20202,1
+Texas Thrift Store,Simply Vera Vera Wang Short Sleeve T Shirt L,A0635,$0.99 ,$1.07 ,3/3/2020,20203,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$1.63 ,8/18/2020,20208,168
+Texas Thrift Store,Vineyard Vines T-Shirt V-Neck S,A0636,$0.99 ,$1.07 ,3/3/2020,20203,Mercari,$9.00 ,$1.00 ,$3.05 ,$4.95 ,$3.88 ,7/27/2020,20207,146
+Texas Thrift Store,Hollister Boho Shark Bite Lace Top M,A0637,$0.99 ,$1.07 ,3/3/2020,20203,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.59 ,8/19/2020,20208,169
+Texas Thrift Store,Lani California Mint Dolman Sleeve Scoop Neck Top ,A0638,$0.99 ,$1.07 ,3/3/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$3.86 ,5/16/2020,20205,74
+Texas Thrift Store,Alternative Apparel Short Sleeve Sweatshirt Stripe L,A0639,$1.49 ,$1.61 ,3/3/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.39 ,3/4/2020,20203,1
+Texas Thrift Store,Umgee Aztec Knit Short Sleeve Blouse L,A0640,$1.99 ,$2.15 ,3/3/2020,20203,Poshmark,$13.33 ,$3.33 ,$0.00 ,$10.00 ,$7.85 ,6/24/2020,20206,113
+Texas Thrift Store,eri + ali Anthropologie ruffle cross back linen top S,A0641,$2.49 ,$2.70 ,3/3/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.30 ,3/29/2020,20203,26
+Texas Thrift Store,Athleta High Low Hem T Shirt Coral S,A0642,$0.99 ,$1.07 ,3/3/2020,20203,,,,,,,,,903
+Texas Thrift Store,Umgee Boho Hippie Paisley Sleeveless Tunic L,A0643,$3.49 ,$3.77 ,3/3/2020,20203,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$16.23 ,3/3/2020,20203,0
+Texas Thrift Store,Good Karma Free People Black Legging M,A0644,$4.19 ,$4.53 ,2/28/2020,20202,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$11.47 ,11/14/2020,202011,260
+Texas Thrift Store,We The Free People Burnout V-Neck T Shirt,A0645,$2.79 ,$3.02 ,3/3/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$3.65 ,4/26/2020,20204,54
+Closet,PARFOIS Goemetric Chic Watch,A0646,$0.00 ,$0.00 ,2/27/2020,20202,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,10/25/2020,202010,241
+Closet,Bally Total Fitness Crop Legging Mesh Cut Out M,A0647,$0.00 ,$0.00 ,2/29/2020,20202,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$5.66 ,8/27/2020,20208,180
+Closet,GAP Premium Super Skinny Black Jeans 2,A0648,$0.00 ,$0.00 ,2/29/2020,20202,,,,,,,,,906
+Closet,AEO Super Stretch Skinny Jeans 2 Long,A0649,$0.00 ,$0.00 ,2/29/2020,20202,,,,,,,,,906
+Closet,J. Jill White Linen Crop Pants XS Petite,A0650,$0.00 ,$0.00 ,2/29/2020,20202,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$7.05 ,7/23/2020,20207,145
+Goodwill Kyle,Fabletics Salar Capri Mid Rise Legging Teal XS,A0651,$5.99 ,$6.48 ,3/11/2020,20203,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$7.40 ,8/7/2020,20208,149
+Goodwill Kyle,Fabletics Black Medium Rise Full Length Mesh Legging XL,A0652,$5.99 ,$6.48 ,3/11/2020,20203,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$9.52 ,3/15/2020,20203,4
+Goodwill Kyle,Chaser Maroon Henley Thermal Long Sleeve S,A0653,$3.50 ,$3.78 ,3/4/2020,20203,,,,,,,,,902
+Goodwill Kyle,Harley Davidson Thermal Henley Embroidered Aztec Sleeve XS,A0654,$6.99 ,$7.57 ,3/4/2020,20203,,,,,,,,,902
+Goodwill Bins N ATX,J. Crew Cap Toe Ballet Flat Bow 6.5,A0655,$0.85 ,$0.92 ,3/30/2020,20203,,,,,,,,,876
+Goodwill Bins N ATX,Lucky Brand Brown/Cream Cantara d'Orsay Flat 9,A0656,$0.85 ,$0.92 ,3/30/2020,20203,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$11.36 ,5/22/2020,20205,53
+Goodwill Bins N ATX,Chinese Laundry Melanie Wedge Cognac 6.5,A0657,$0.85 ,$0.92 ,3/30/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.08 ,5/8/2020,20205,39
+Goodwill Bins N ATX,Altar'd State Espadrilles Platform Wedge 8.5,A0658,$0.85 ,$0.92 ,3/30/2020,20203,,,,,,,,,876
+Goodwill Bins N ATX,Alfani Ruffle Front Long Sleeve Top L,A0659,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.01 ,5/15/2020,20205,71
+Goodwill Bins N ATX,3/$20 Pink Floral Semi Sheer Scarf,A0660,$0.85 ,$0.92 ,3/11/2020,20203,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$4.13 ,5/8/2020,20205,58
+Goodwill Bins N ATX,MODA International Purple Lace Long Sleeve Top M,A0661,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.01 ,5/15/2020,20205,71
+Goodwill Bins N ATX,LuLaRoe Pastel Azure Midi Skirt Geometric Stripe L,A0662,$0.85 ,$0.92 ,3/13/2020,20203,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.13 ,6/3/2020,20206,82
+Goodwill Bins N ATX,Lucky Brand Stripe Dolman Sleeve Knit Top XL,A0663,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$13.34 ,$3.34 ,$0.00 ,$10.00 ,$9.08 ,6/24/2020,20206,111
+Goodwill Bins N ATX,Phil Love Cactus Cold Shoulder Knit Top L ,A0664,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$12.96 ,12/20/2020,202012,290
+Goodwill Bins N ATX,Forever21 Boho Bell Sleeve Tie Tassel Dress S,A0665,$0.85 ,$0.92 ,3/18/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$5.75 ,4/24/2020,20204,37
+Goodwill Bins N ATX,Lucky Brand Peacock Graphic Tee Short Sleeve M,A0667,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.01 ,5/15/2020,20205,71
+Goodwill Bins N ATX,Nike DriFit Pink V-Neck Short Sleeve T-Shirt XS,A0668,$0.85 ,$0.92 ,3/5/2020,20203,,,,,,,,,901
+Goodwill Bins N ATX,Threads 4 Thought Boho Aztec Print Scarf Tassel,A0669,$0.85 ,$0.92 ,3/11/2020,20203,Poshmark,$11.70 ,$2.95 ,$0.53 ,$8.22 ,$7.30 ,5/20/2020,20205,70
+Goodwill Bins N ATX,NASA Classic Graphic T Shirt Blue Unisex S,A0670,$0.85 ,$0.92 ,3/5/2020,20203,,,,,,,,,901
+Goodwill Bins N ATX,Fifth Sun NASA Burnout Distressed Graphic Tee S,A0671,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$9.00 ,$2.95 ,$2.12 ,$3.93 ,$3.01 ,7/7/2020,20207,124
+Goodwill Bins N ATX,Zara Grey Ribbed Cardigan S,A0672,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$16.68 ,4/15/2020,20204,41
+Goodwill Bins N ATX,Altar'd State Stitched Baseball T Burnout M,A0673,$0.85 ,$0.92 ,3/6/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.01 ,5/15/2020,20205,70
+Goodwill Bins N ATX,aerie Real Soft Tee Semi-Sheer V Neck Navy L,A0674,$0.85 ,$0.92 ,3/7/2020,20203,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$1.78 ,9/5/2020,20209,182
+Texas Thrift Store,Crocs Rio Pointed Toe Flats 9W,A0675,$4.99 ,$5.40 ,3/30/2020,20203,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$10.60 ,5/6/2020,20205,37
+Goodwill Bins N ATX,GB Boho Lace Peplum Long Sleeve Blouse M,A0677,$0.85 ,$0.92 ,3/6/2020,20203,,,,,,,,,900
+Goodwill Bins N ATX,Anthropologie Pleione Coral T Shirt L,A0678,$0.85 ,$0.92 ,3/6/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.13 ,5/23/2020,20205,78
+Goodwill Bins N ATX,Free People Reusable Cloth Bag,A0679,$0.85 ,$0.92 ,3/11/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$5.75 ,4/26/2020,20204,46
+Texas Thrift Store,DV Dolce Vita Archer Cobalt Blue Flat Sandal Gold Trim 5.5,A0680,$2.49 ,$2.70 ,3/30/2020,20203,Poshmark,$19.00 ,$3.80 ,$0.00 ,$15.20 ,$12.50 ,7/24/2020,20207,116
+Goodwill Bins N ATX,Zion Bob Marley One Love Choker Graphic Band Tee L,A0681,$0.85 ,$0.92 ,7/27/2020,20207,Poshmark,$17.00 ,$3.40 ,$7.11 ,$6.49 ,$5.57 ,12/26/2020,202012,152
+Goodwill Bins N ATX,Embroidered Floral V Neck T Shirt S,A0682,$0.85 ,$0.92 ,3/6/2020,20203,,,,,,,,,900
+Goodwill Bins N ATX,Papaya Boho Elephant Graphic Hoodie Hippie M,A0683,$0.85 ,$0.92 ,3/6/2020,20203,ThredUp,$14.99 ,$13.31 ,$0.00 ,$1.68 ,$0.76 ,10/5/2020,202010,213
+Goodwill Bins N ATX,Est. 1946 Boho Peasant Top L,A0684,$0.85 ,$0.92 ,3/6/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.92),10/25/2020,202010,233
+Goodwill Bins N ATX,Vintage College Town Light Blue Skirt 7/8,A0685,$0.85 ,$0.92 ,7/17/2020,20207,,,,,,,,,767
+Goodwill Bins N ATX,Daisy Fuentes Sleevless Top S,A0686,$0.85 ,$0.92 ,3/6/2020,20203,,,,,,,,,900
+Goodwill Bins N ATX,The Limited Houdstooth Plaid Tank L,A0687,$0.85 ,$0.92 ,3/3/2020,20203,Mercari,$14.00 ,$1.40 ,$2.93 ,$9.67 ,$8.75 ,7/28/2020,20207,147
+Goodwill Bins N ATX,Live and Let Live Aztec Southwest Hooded Poncho S,A0688,$0.85 ,$0.92 ,3/3/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.13 ,8/19/2020,20208,169
+Goodwill Bins N ATX,PureJill Open Front Tie Waist Cardigan M Petite,A0689,$0.85 ,$0.92 ,7/25/2020,20207,,,,,,,,,759
+Goodwill Bins N ATX,Talori Striped Draped Long Sleeve Blouse Wrap M,A0690,$0.85 ,$0.92 ,7/24/2020,20207,,,,,,,,,760
+Goodwill Bins N ATX,Umgee Boho Fringe Button Down Long Sleeve L,A0691,$0.85 ,$0.92 ,3/5/2020,20203,Poshmark,$16.00 ,$3.20 ,$1.06 ,$11.74 ,$10.82 ,4/12/2020,20204,38
+Goodwill Bins N ATX,Paper Crane Cowl Neck Waffle Knit Cross Front Top M,A0692,$0.85 ,$0.92 ,3/3/2020,20203,,,,,,,,,903
+Goodwill Bins N ATX,Melrose and Market Lace Burnout Sweatshirt XS,A0693,$0.85 ,$0.92 ,3/3/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.13 ,9/5/2020,20209,186
+Goodwill Bins N ATX,J. Crew Charcoal Crew Neck Sweatshirt S,A0694,$0.85 ,$0.92 ,3/3/2020,20203,,,,,,,,,903
+Goodwill Bins N ATX,aerie floral lace boho keyhole short sleeve top S,A0695,$0.85 ,$0.92 ,3/3/2020,20203,,,,,,,,,903
+Goodwill Bins N ATX,J. Jill Wearever Smooth Fit Black Maxi Skirt M,A0696,$0.85 ,$0.92 ,3/13/2020,20203,,,,,,,,,893
+Goodwill Bins N ATX,Champion quarter zip pullover XS,A0697,$0.85 ,$0.92 ,3/3/2020,20203,ThredUp,$29.99 ,$23.99 ,$0.00 ,$6.00 ,$5.08 ,9/2/2020,20209,183
+Goodwill Bins N ATX,Mott 50 Snakeskin Button Down Long Sleeve L,A0698,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$18.33 ,$3.67 ,$0.00 ,$14.67 ,$13.75 ,5/26/2020,20205,83
+Goodwill Bins N ATX,3/$20 NWT Boho Bright Color Infinity Scarf,A0699,$0.85 ,$0.92 ,3/11/2020,20203,Poshmark,$8.00 ,$2.95 ,$0.00 ,$5.05 ,$4.13 ,4/20/2020,20204,40
+Goodwill Bins N ATX,Leopard Print Semi Sheer Short Sleeve Kimono L,A0700,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.08 ,3/9/2020,20203,5
+Goodwill Bins N ATX,American Rag Cie Pink Polka Dot Shorts 11,A0701,$0.85 ,$0.92 ,3/11/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.92),10/25/2020,202010,228
+Goodwill Bins N ATX,THML Olive Green Long Sleeve Blouse Embroidered M,A0702,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$12.96 ,4/3/2020,20204,30
+Goodwill Bins N ATX,Banana Republic Striped Short Sleeve Tie Front Blouse L,A0703,$0.85 ,$0.92 ,3/4/2020,20203,,,,,,,,,902
+Goodwill Bins N ATX,Fabletics Yukon Sleeveless Sweater Dress Hooded S,A0704,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.08 ,6/23/2020,20206,111
+Texas Thrift Store,Sam Edelman Blue Gigi Thong Sandal 7.5,A0705,$2.49 ,$2.70 ,3/30/2020,20203,,,,,,,,,876
+Goodwill Bins N ATX,J Crew 100% Linen Je T'aime Tee S,A0706,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.13 ,5/4/2020,20205,61
+Goodwill Bins N ATX,LOFT Semi Sheer V Neck Dolman Sleeve Tee S,A0707,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$15.00 ,$3.00 ,$1.06 ,$10.94 ,$10.02 ,5/12/2020,20205,69
+Goodwill Bins N ATX,Joe Fresh Chino Short 80's Print 4,A0708,$0.85 ,$0.92 ,3/11/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.92),10/25/2020,202010,228
+Goodwill Bins N ATX,AEO Spaghetti Strap Boho Paisley Dress L,A0709,$0.85 ,$0.92 ,3/3/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.13 ,4/16/2020,20204,44
+Goodwill Bins N ATX,Angie Boho Paisley Hippie Gypsy Dress S,A0710,$0.85 ,$0.92 ,3/19/2020,20203,,,,,,,,,887
+Goodwill Bins N ATX,Express NWT Button Down Plaid Ruffle Roll Tab Sleeve L,A0711,$0.85 ,$0.92 ,3/3/2020,20203,Poshmark,$16.00 ,$3.20 ,($2.12),$14.92 ,$14.00 ,11/28/2020,202011,270
+Goodwill Bins N ATX,GAP Oversized Loose Fit Dolman Sleeve V Neck Tee L,A0712,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.08 ,3/4/2020,20203,0
+Goodwill Bins N ATX,Unisex California Bear Blue T-Shirt M,A0713,$0.85 ,$0.92 ,3/4/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.92),10/25/2020,202010,235
+Goodwill Bins N ATX,Zoe + Liv Target White NASA Burnout Graphic Tee XL,A0714,$0.85 ,$0.92 ,3/4/2020,20203,Poshmark,$10.00 ,$2.95 ,$2.12 ,$4.93 ,$4.01 ,5/16/2020,20205,73
+Goodwill Bins N ATX,LUSH Criss Cross Back Dolman Sleeve Blouse S,A0716,$0.85 ,$0.92 ,3/3/2020,20203,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.74 ,8/18/2020,20208,168
+Goodwill Bins N ATX,Knox Rose Waffle Tie Front Top XXL,A0718,$0.85 ,$0.92 ,3/3/2020,20203,Poshmark,$18.00 ,$3.60 ,$2.12 ,$12.28 ,$11.36 ,5/25/2020,20205,83
+Goodwill Bins N ATX,Market & Spruce Evella StitchFix Layer Striped Scoop Neck XS,A0719,$0.85 ,$0.92 ,8/23/2020,20208,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.85),($0.92),12/6/2020,202012,105
+Goodwill Bins N ATX,Encore Cut Off Purple Distressed Shorts Juniors 5,A0720,$0.85 ,$0.92 ,3/11/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$11.08 ,3/11/2020,20203,0
+Closet,You're The Bomb Lavender Bath Bombs,A0721,$0.00 ,$0.00 ,3/30/2020,20203,,,,,,,,,876
+Closet,Reebok Black Running Shorts Men's M,A0722,$0.00 ,$0.00 ,3/11/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,3/23/2020,20203,12
+Closet,Brooks Black Running Shorts Men's M,A0723,$0.00 ,$0.00 ,3/11/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,3/15/2020,20203,4
+Estate Sale,Modcloth NWOT Floral Embroidered Sleeveless Dress XL,A0724,$3.75 ,$4.06 ,3/3/2020,20203,Poshmark,$32.00 ,$6.40 ,$0.00 ,$25.60 ,$21.54 ,3/4/2020,20203,1
+Garage Sale,Express Strapless Striped Dress XS,A0725,$0.50 ,$0.50 ,3/7/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.50),10/25/2020,202010,232
+Garage Sale,Speed Central Criss Cross Aztec Geometric Dress S,A0726,$0.50 ,$0.50 ,3/7/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.50),10/25/2020,202010,232
+Texas Thrift Store,Lucky Brand Brettany NWOT Black Suede Loafer 9,A0727,$4.99 ,$5.40 ,3/31/2020,20203,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$14.88 ,4/6/2020,20204,6
+Garage Sale,Express Sexy Basic Sequin White Tank M,A0728,$0.50 ,$0.50 ,7/26/2020,20207,Mercari,$10.00 ,$1.00 ,$3.23 ,$5.77 ,$5.27 ,8/10/2020,20208,15
+Garage Sale,Express Sexy Basic Sequin Grey Tank M,A0729,$0.50 ,$0.50 ,3/7/2020,20203,,,,,,,,,899
+Garage Sale,Mudd Racer Back Fit & Flare Heather Grey Dress M,A0730,$0.50 ,$0.50 ,3/5/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.50),10/25/2020,202010,234
+Garage Sale,New York & Company Navy Tank S,A0731,$0.50 ,$0.50 ,3/7/2020,20203,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$5.16 ,9/9/2020,20209,186
+Garage Sale,Puma Mesh Athletic Shorts S,A0732,$0.50 ,$0.50 ,3/11/2020,20203,Poshmark,$7.50 ,$1.50 ,$0.00 ,$6.00 ,$5.50 ,7/20/2020,20207,131
+Garage Sale,BeBop Aztec Boho Dress M,A0733,$0.50 ,$0.50 ,3/7/2020,20203,ThredUp,$4.99 ,$4.84 ,$0.00 ,$0.15 ,($0.35),10/14/2020,202010,221
+Garage Sale,Maison Jules Knit Striped High / Low Sweater M,A0734,$0.50 ,$0.50 ,7/18/2020,20207,,,,,,,,,766
+Garage Sale,Cynthia Rowley Embellished Shift Dress M,A0736,$0.50 ,$0.50 ,3/8/2020,20203,,,,,,,,,898
+Garage Sale,Philosophy Embellished Black T Shirt Plus Size 2X,A0737,$3.00 ,$3.00 ,3/8/2020,20203,,,,,,,,,898
+Garage Sale,Tempted Hearts Paisley Blouse Plus Size Blouse 3X,A0738,$3.00 ,$3.00 ,3/5/2020,20203,,,,,,,,,901
+Garage Sale,Cynthia Rowley Abstract Printed Tank Plus Size 1X,A0739,$3.00 ,$3.00 ,3/8/2020,20203,,,,,,,,,898
+Garage Sale,Livi Active Ombre T Shirt V Neck High/Low Plus Size 18/20,A0740,$3.00 ,$3.00 ,3/8/2020,20203,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$9.80 ,5/4/2020,20205,57
+Garage Sale,Daniel Rainn Sheer White Boho Blouse,A0741,$3.00 ,$3.00 ,3/8/2020,20203,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$5.00 ,7/4/2020,20207,118
+Garage Sale,Olive & Oak T Shirt Leather Pocket Plus Size 3X,A0742,$3.00 ,$3.00 ,3/8/2020,20203,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$10.88 ,4/30/2020,20204,53
+Goodwill N Loop 1604,Stubbs & Wootton Black Velvet Maltese Cross 5.5,A0743,$6.99 ,$7.57 ,3/30/2020,20203,,,,,,,,,876
+Goodwill N Loop 1604,St. John Collection Brown Knit Pants Wide Leg 8,A0744,$4.79 ,$5.19 ,3/13/2020,20203,,,,,,,,,893
+Goodwill N Loop 1604,J. Jill 3/4 Sleeve Peasant Blouse L,A0745,$4.79 ,$5.19 ,3/8/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$6.81 ,3/17/2020,20203,9
+Goodwill N Loop 1604,J. Jill 3/4 Sleeve Paisley Print Blouse L,A0746,$4.79 ,$5.19 ,3/8/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$6.81 ,3/17/2020,20203,9
+Goodwill N Loop 1604,J. Jill Plaid Button Down L,A0747,$4.79 ,$5.19 ,3/6/2020,20203,,,,,,,,,900
+Goodwill N Loop 1604,Eileen Fisher Button Down 100% Irish Linen L,A0748,$4.79 ,$5.19 ,3/4/2020,20203,Poshmark,$22.00 ,$4.40 ,$2.12 ,$15.48 ,$10.29 ,4/8/2020,20204,35
+Texas Thrift Store,Halogen Courtney Two Tone Flat Pointed Toe Bow 9,A0749,$6.99 ,$7.56 ,3/31/2020,20203,,,,,,,,,875
+Texas Thrift Store,Lucky Brand Kyndra Espadrille Wedge Open Toe Sandal 8,A0750,$2.99 ,$3.24 ,3/31/2020,20203,,,,,,,,,875
+Texas Thrift Store,Call it Spring Vegan High Top Tan Ankle Bootie Aztec 9,A0751,$4.89 ,$5.29 ,3/31/2020,20203,,,,,,,,,875
+Texas Thrift Store,Blu Pepper Semi Sheer Boho Long Bell Sleeve Blouse M,A0752,$1.99 ,$2.15 ,3/19/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$4.51 ,4/23/2020,20204,35
+Texas Thrift Store,Express Button Down Striped Blouse M,A0753,$2.49 ,$2.70 ,3/19/2020,20203,ThredUp,$39.99 ,$29.99 ,$0.00 ,$10.00 ,$7.30 ,8/21/2020,20208,155
+Texas Thrift Store,Anthro Pins and Needles Boho Floral Peasant Top M,A0754,$2.49 ,$2.70 ,3/17/2020,20203,,,,,,,,,889
+Texas Thrift Store,Knox Rose Floral Paisley Ruffle Boho Peasant Top XS,A0755,$2.99 ,$3.24 ,3/18/2020,20203,,,,,,,,,888
+Texas Thrift Store,Lucky Brand NWT Floral Sleeveless Ruffle Blouse XS,A0756,$3.49 ,$3.77 ,3/18/2020,20203,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$20.23 ,9/4/2020,20209,170
+Texas Thrift Store,Lucky Brand Placed Scarf Top Paisley Boho Shirt V-Neck M,A0757,$2.79 ,$3.02 ,3/19/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$8.98 ,4/26/2020,20204,38
+Texas Thrift Store,CAbi Arabesque Cami Boho Tank S,A0758,$1.49 ,$1.61 ,3/17/2020,20203,,,,,,,,,889
+Texas Thrift Store,Anthro Fig and Flower Boho Floral Button Down Long Sleeve Semi Sheer High/Low M,A0759,$2.49 ,$2.70 ,3/17/2020,20203,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$21.30 ,9/5/2020,20209,172
+Texas Thrift Store,Ember Button Down Boho Print Tank Semi SheerV-Neck M,A0760,$2.09 ,$2.26 ,3/19/2020,20203,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$5.74 ,4/26/2020,20204,38
+Texas Thrift Store,Minkpink Floral Tank Mesh V-Neck XS,A0761,$0.99 ,$1.07 ,3/17/2020,20203,,,,,,,,,889
+Texas Thrift Store,Skies Are Blue StitchFix NWT Paisley Muller Ruffle Detail Blouse Sleeveless SP,A0763,$3.98 ,$4.31 ,3/13/2020,20203,,,,,,,,,893
+Texas Thrift Store,Athleta Knit Long Sleeve Tunic Sweater Salt & Pepper M,A0764,$3.98 ,$4.31 ,3/18/2020,20203,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$15.69 ,4/25/2020,20204,38
+Texas Thrift Store,LRL Floral Ruffle Wrap 3/4 Sleeve Tie Top XL,A0765,$4.98 ,$5.39 ,3/18/2020,20203,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$11.69 ,10/10/2020,202010,206
+Texas Thrift Store,CAbi Ruffle Semi-Sheer Sleeveless Tunic Tank XS,A0766,$3.98 ,$4.31 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,a new day Target NWOT Color Block Knit Sweater XXL,A0767,$2.49 ,$2.70 ,3/16/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.30 ,10/9/2020,202010,207
+Texas Thrift Store,WHBM Silk Stretch Leopard Print Tank 2,A0768,$1.49 ,$1.61 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,Pure Barre Racer Back Classic Logo Tank S,A0769,$0.99 ,$1.07 ,3/16/2020,20203,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$9.98 ,9/4/2020,20209,172
+Texas Thrift Store,Painted Threads Striped Knit Kimono Cardigan S,A0770,$2.49 ,$2.70 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,Madewell Wellspring Tunic Popover Shirt Julia Stripe L,A0771,$2.99 ,$3.24 ,3/16/2020,20203,Poshmark,$32.00 ,$6.40 ,$2.12 ,$23.48 ,$20.24 ,10/16/2020,202010,214
+Texas Thrift Store,ZARA Basic Collection Charcoal Tank S,A0772,$2.09 ,$2.26 ,WEARING,,,,,,,,,,
+Texas Thrift Store,Ginger G Tie Dye Muscle Tank L,A0773,$2.79 ,$3.02 ,3/16/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$8.98 ,3/20/2020,20203,4
+Texas Thrift Store,PINK Victoria's Secret Lace Long Sleeve Top Mint Green M,A0774,$3.49 ,$3.78 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,Lucky Brand Sleeveless Button Down Semi-Sheer S,A0775,$1.49 ,$1.61 ,3/16/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.61),10/25/2020,202010,223
+Texas Thrift Store,Umgee Plaid Button Down Lace Hem M,A0776,$2.49 ,$2.70 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,UO Silence + Noise NWT Hooded Muscle Tank S,A0777,$2.09 ,$2.26 ,WEARING,,,,,,,,,,
+Texas Thrift Store,Joie Eniko C Embroidered Tassel 100% Silk Tank Top XS,A0778,$2.49 ,$2.70 ,3/16/2020,20203,,,,,,,,,890
+Texas Thrift Store,Francesca's Pale Pink High Neck Fit & Flare Dress S,A0779,$4.99 ,$5.40 ,3/14/2020,20203,,,,,,,,,892
+Texas Thrift Store,Meraki Racer Back Tie Tunic Tank S,A0780,$1.99 ,$2.15 ,3/14/2020,20203,,,,,,,,,892
+Texas Thrift Store,Express Floral V-Neck Cuffed Sleeve Blouse S,A0781,$3.49 ,$3.77 ,3/14/2020,20203,,,,,,,,,892
+Texas Thrift Store,Express Split Back Striped Tank S,A0782,$2.49 ,$2.70 ,7/26/2020,20207,eBay,$19.99 ,$2.93 ,$3.05 ,$14.01 ,$11.31 ,8/4/2020,20208,9
+Texas Thrift Store,Free People Braided Green Swing Tank XS,A0783,$1.99 ,$2.15 ,3/14/2020,20203,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$8.90 ,5/19/2020,20205,66
+Texas Thrift Store,Altar'd State NWT Lace Ombre Tank S,A0784,$3.49 ,$3.77 ,3/14/2020,20203,,,,,,,,,892
+Texas Thrift Store,Crescent NWT Lace Back Button Down Tank S,A0785,$3.49 ,$3.77 ,3/14/2020,20203,,,,,,,,,892
+Texas Thrift Store,J. Crew Horizontal Stripe 3/4 Sleeve Top M,A0786,$1.49 ,$1.61 ,3/13/2020,20203,,,,,,,,,893
+Texas Thrift Store,Puma Junior's 10/12 Full Length Logo Legging,A0787,$4.98 ,$5.39 ,3/11/2020,20203,ThredUp,$15.99 ,$14.45 ,$0.00 ,$1.54 ,($3.85),9/30/2020,20209,203
+Texas Thrift Store,Athleta Kickbooty Yoga Pant Small TALL,A0788 A0789,$3.98 ,$4.31 ,3/11/2020,20203,Poshmark,$24.00 ,$3.75 ,$0.53 ,$19.72 ,$15.41 ,4/3/2020,20204,23
+Texas Thrift Store,Athleta Kickbooty Yoga Pant Small TALL,A0789,$4.98 ,$5.39 ,3/11/2020,20203,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$12.21 ,5/25/2020,20205,75
+Texas Thrift Store,Evolution and Creation Graphic Legging 7/8 High Waist S,A0790,$4.98 ,$5.39 ,3/11/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$6.61 ,4/8/2020,20204,28
+Texas Thrift Store,xhilaration NWT zebra striped swimsuit bottom L,A0791,$0.99 ,$1.07 ,3/11/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.07),10/25/2020,202010,228
+Texas Thrift Store,xhilaration NWT zebra striped strapless swimsuit top S,A0792,$1.99 ,$2.15 ,3/11/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.15),10/25/2020,202010,228
+Texas Thrift Store,xhilaration NWT chevron tie swimsuit bottom XS,A0793,$1.99 ,$2.15 ,3/12/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$4.51 ,4/23/2020,20204,42
+Texas Thrift Store,xhilaration NWT chevron swimsuit top XS,A0794,$1.99 ,$2.15 ,3/12/2020,20203,ThredUp,$9.99 ,$9.39 ,$0.00 ,$0.60 ,($1.55),9/18/2020,20209,190
+Texas Thrift Store,xhilaration NWT black swimsuit bottom XS,A0795,$1.99 ,$2.15 ,3/12/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$4.51 ,4/23/2020,20204,42
+Texas Thrift Store,xhilaration NWT colorblock strapless swimsuit top S,A0796,$1.49 ,$1.61 ,3/12/2020,20203,ThredUp,$9.99 ,$9.24 ,$0.00 ,$0.75 ,($0.86),9/4/2020,20209,176
+Texas Thrift Store,xhilaration NWT triangle swimsuit top XS ,A0797,$0.00 ,$0.00 ,3/12/2020,20203,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$9.05 ,6/3/2020,20206,83
+Texas Thrift Store,xhilaration NWT swimsuit bottom S,A0798,$1.99 ,$2.15 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.15),10/25/2020,202010,227
+Texas Thrift Store,xhilaration NWT swimsuit colorblock strapless top XS,A0799,$1.99 ,$2.15 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.15),10/25/2020,202010,227
+Texas Thrift Store,xhilaration NWT swimsuit southwestern print strapless top XS,A0800,$1.49 ,$1.61 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($1.61),10/25/2020,202010,227
+Texas Thrift Store,Mossimo NWT Pink swimsuit bottoms S,A0801,$1.99 ,$2.15 ,3/12/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$4.51 ,4/23/2020,20204,42
+Texas Thrift Store,xhilaration NWT triangle swimsuit top M,A0802,$1.99 ,$2.15 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,($1.99),($2.15),12/31/2020,202012,294
+Texas Thrift Store,xhilaration NWT strapless white lace ruffle swimsuit top M,A0803,$0.99 ,$1.07 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.99),($1.07),12/31/2020,202012,294
+Texas Thrift Store,Mossimo NWT knotted strapless white swimsuit top S,A0804,$0.99 ,$1.07 ,3/12/2020,20203,ThredUp,$0.00 ,$0.00 ,$0.00 ,($0.99),($1.07),12/31/2020,202012,294
+Texas Thrift Store,CAbi Clover Dots Cuffed Silk Button Down S,A0805,$1.99 ,$2.15 ,3/24/2020,20203,,,,,,,,,882
+Texas Thrift Store,Anthro Holding Horses Navy Light Weight Tunic S,A0806,$2.49 ,$2.70 ,3/24/2020,20203,,,,,,,,,882
+Texas Thrift Store,torrid lace peplum tank 1X,A0807,$1.49 ,$1.61 ,3/23/2020,20203,Poshmark,$16.00 ,$3.20 ,$2.12 ,$10.68 ,$9.07 ,8/27/2020,20208,157
+Texas Thrift Store,Fabletics Mesh Racerback Tank Abstract Print XL,A0808,$2.49 ,$2.70 ,3/24/2020,20203,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$13.30 ,4/20/2020,20204,27
+Texas Thrift Store,CAbi Tunic Tank Abstract Floral L,A0809,$2.49 ,$2.70 ,3/23/2020,20203,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$17.30 ,4/25/2020,20204,33
+Texas Thrift Store,Lucky Brand T Shirt Crew Neck S,A0810,$2.49 ,$2.70 ,3/23/2020,20203,,,,,,,,,883
+Texas Thrift Store,The North Face Women's Tunic Dress Shirt M,A0811,$3.49 ,$3.78 ,3/23/2020,20203,,,,,,,,,883
+Texas Thrift Store,Chloe K Semi Sheer Dolman Sleeve High / Low Hem L,A0812,$1.99 ,$2.15 ,3/23/2020,20203,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$10.65 ,8/5/2020,20208,135
+Texas Thrift Store,Philosophy semi-sheer plaid button down M,A0813,$2.49 ,$2.70 ,3/24/2020,20203,Poshmark,$8.33 ,$1.67 ,$0.00 ,$6.67 ,$3.97 ,4/23/2020,20204,30
+Texas Thrift Store,J. Crew Tank Top Crochet Floral Lace Front M,A0814,$2.49 ,$2.70 ,3/24/2020,20203,,,,,,,,,882
+Texas Thrift Store,Lucky Brand Paisley Semi-Sheer Button Down M,A0815,$3.49 ,$3.78 ,3/28/2020,20203,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$4.22 ,9/28/2020,20209,184
+Texas Thrift Store,Sanctuary Floral Sleeveless Button Down Blouse L,A0816,$1.99 ,$2.15 ,3/28/2020,20203,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$5.85 ,4/26/2020,20204,29
+Texas Thrift Store,Express Leopard Print Tank Knotted Front L,A0817,$1.49 ,$1.61 ,3/28/2020,20203,,,,,,,,,878
+Texas Thrift Store,Flying Tomato High Low Tank Aztec Southwestern M,A0818,$1.49 ,$1.61 ,3/28/2020,20203,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.39 ,4/22/2020,20204,25
+Texas Thrift Store,WHBM NWT Dahlia Tassel Top Black Floral M,A0819,$4.99 ,$5.40 ,3/28/2020,20203,,,,,,,,,878
+Texas Thrift Store,Everly Tank Abstract Coral M,A0820,$1.99 ,$2.15 ,3/28/2020,20203,,,,,,,,,878
+Texas Thrift Store,Ember Semi-Sheer Tank Bird Print L,A0821,$2.49 ,$2.70 ,3/28/2020,20203,Poshmark,$17.00 ,$3.40 ,$0.00 ,$13.60 ,$10.90 ,8/11/2020,20208,136
+Texas Thrift Store,Pure Barre 20 in 31 Tank L,A0822,$0.99 ,$1.07 ,3/28/2020,20203,,,,,,,,,878
+Texas Thrift Store,Tally Weijl Elephant Boho Festival Tank XS,A0823,$0.99 ,$1.07 ,WEARING,,,,,,,,,,
+Texas Thrift Store,Lululemon NWOT Racerback Tank Cut Out Back Size 2,A0824,$7.46 ,$8.07 ,3/28/2020,20203,Poshmark,$24.00 ,$4.80 ,$0.00 ,$19.20 ,$11.13 ,4/19/2020,20204,22
+Texas Thrift Store,Zara Basic Patchwork Sleeveless Romper M,A0825,$2.49 ,$2.70 ,4/4/2020,20204,,,,,,,,,871
+Texas Thrift Store,Patrons of Peace Boho Crop Tank S,A0826,$1.99 ,$2.15 ,4/4/2020,20204,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$10.65 ,4/29/2020,20204,25
+Garage Sale,Coach Purse - Champagne/Rose Gold,A0373,$20.00 ,$20.00 ,9/15/2019,20199,Poshmark,$35.00 ,$7.00 ,$2.12 ,$25.88 ,$5.88 ,4/29/2020,20204,227
+Texas Thrift Store,Crown & Ivy Chambray Sleeveless Cut Out Tank M,A0827,$1.49 ,$1.61 ,4/5/2020,20204,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$7.44 ,7/3/2020,20207,89
+Texas Thrift Store,Zella Mesh Capri Legging NWT Mid Rise XS,A0828,$3.49 ,$3.78 ,4/3/2020,20204,,,,,,,,,872
+Texas Thrift Store,Anthro Cloth & Stone White Sleeveless Button Down Semi Sheer M,A0829,$2.49 ,$2.70 ,4/6/2020,20204,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$7.35 ,5/13/2020,20205,37
+Texas Thrift Store,Harley Davidson Purple Tank Silver Graphic M,A0830,$0.99 ,$1.07 ,4/3/2020,20204,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$9.98 ,11/3/2020,202011,214
+Texas Thrift Store,ZARA Paisley Print Lace Sleeve Blouse ,A0831,$1.99 ,$2.15 ,4/3/2020,20204,,,,,,,,,872
+Texas Thrift Store,CAbi Flutter Camo Tank Top Green & Brown Stripe M,A0833,$1.99 ,$2.15 ,4/5/2020,20204,,,,,,,,,870
+Texas Thrift Store,LUSH Racer Back Green Floral Tank S,A0834,$1.99 ,$2.15 ,4/4/2020,20204,,,,,,,,,871
+Texas Thrift Store,Melrose and Market Sharkbite Floral Tank NWT XS,A0835,$2.99 ,$3.24 ,4/4/2020,20204,,,,,,,,,871
+Texas Thrift Store,Francesca's Alya Floral Boho Tank S,A0836,$1.99 ,$2.15 ,4/2/2020,20204,,,,,,,,,873
+Texas Thrift Store,Umgee Black Layering Tank Tulle Ruffle Hem S,A0837,$1.99 ,$2.15 ,4/9/2020,20204,Poshmark,$13.00 ,$2.50 ,$0.53 ,$9.97 ,$7.82 ,5/20/2020,20205,41
+Texas Thrift Store,AEO Beaded Southwestern Tribal Tank S,A0838,$1.49 ,$1.61 ,4/9/2020,20204,,,,,,,,,866
+Texas Thrift Store,Altar'd State Blue Lace Cut Out Dress XS,A0839,$2.99 ,$3.24 ,4/2/2020,20204,,,,,,,,,873
+Texas Thrift Store,Athleta Coral Swing Tank XS,A0840,$0.99 ,$1.07 ,4/2/2020,20204,,,,,,,,,873
+Texas Thrift Store,WHITE Company NWT Purple Burnout Muscle Tee Tank S,A0841,$3.98 ,$4.31 ,4/6/2020,20204,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$5.57 ,8/21/2020,20208,137
+Texas Thrift Store,Pleione High Low Hem Sleeveless Blouse Dot Pattern XS,A0842,$2.49 ,$2.70 ,4/6/2020,20204,,,,,,,,,869
+Texas Thrift Store,The Limited Chambray Sleeveless Button Down S,A0843,$1.49 ,$1.61 ,4/2/2020,20204,,,,,,,,,873
+Texas Thrift Store,Fabletics Hera Knot Tank Black M,A0844,$2.49 ,$2.70 ,4/3/2020,20204,Poshmark,$20.00 ,$3.75 ,$0.53 ,$15.72 ,$13.02 ,4/3/2020,20204,0
+Texas Thrift Store,J. Crew Ruffle Front Tank M,A0845,$2.49 ,$2.70 ,4/6/2020,20204,,,,,,,,,869
+Texas Thrift Store,Matilda Jane Polka Dot Lace Hem Tank S,A0846,$1.99 ,$2.15 ,4/3/2020,20204,,,,,,,,,872
+Texas Thrift Store,Riot Society Boho Elephant Graphic Tank M,A0847,$1.99 ,$2.15 ,4/4/2020,20204,Poshmark,$12.50 ,$2.50 ,$1.06 ,$8.94 ,$6.79 ,4/24/2020,20204,20
+Texas Thrift Store,Roxy Fall Doll Strapless Striped Dress S,A0848,$2.49 ,$2.70 ,4/20/2020,20204,Poshmark,$16.00 ,$3.20 ,$2.12 ,$10.68 ,$7.98 ,8/4/2020,20208,106
+Texas Thrift Store,torrid Bright Yellow Floral Tank 0 L 12,A0849,$1.49 ,$1.61 ,4/9/2020,20204,Poshmark,$16.00 ,$3.20 ,$2.12 ,$10.68 ,$9.07 ,5/5/2020,20205,26
+Texas Thrift Store,Golden Poppy Young Wild Free Feather Festival Graphic Crop Tank M,A0850,$0.99 ,$1.07 ,4/13/2020,20204,Poshmark,$14.00 ,$2.95 ,$0.00 ,$11.05 ,$9.98 ,7/22/2020,20207,100
+Texas Thrift Store,Silence + Noise UO Red Aztec Racerback Tank XS,A0851,$1.99 ,$2.15 ,4/13/2020,20204,,,,,,,,,862
+Texas Thrift Store,Zella All Day Waffle Knit Strappy Tank NWT S,A0852,$2.49 ,$2.70 ,4/13/2020,20204,,,,,,,,,862
+Texas Thrift Store,Crescent NWT Pineapple Graphic Tank S,A0853,$4.99 ,$5.40 ,4/20/2020,20204,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$1.65 ,12/26/2020,202012,250
+Texas Thrift Store,Melrose and Market NWT Boho Tank S,A0854,$2.99 ,$3.24 ,4/13/2020,20204,,,,,,,,,862
+Texas Thrift Store,Melrose and Market NWT Boho Tank XS,A0855,$2.99 ,$3.24 ,4/13/2020,20204,,,,,,,,,862
+Texas Thrift Store,AE Soft & Sexy Tank Braided Tie Dye S,A0856,$1.49 ,$1.61 ,4/19/2020,20204,Poshmark,$17.00 ,$3.40 ,$2.12 ,$11.48 ,$9.87 ,8/7/2020,20208,110
+Texas Thrift Store,Lucky Brand Basic Boho Print Tank S,A0857,$2.49 ,$2.70 ,4/19/2020,20204,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($2.70),11/7/2020,202011,202
+Texas Thrift Store,Skies Are Blue StitchFix NWT Floral Tank S,A0858,$1.99 ,$2.15 ,4/16/2020,20204,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.85 ,4/22/2020,20204,6
+Facebook Marketplace,Mystery Bundle of Boys Clothes Mixed Lot,A0859,$0.54 ,$0.54 ,4/20/2020,20204,Poshmark,$25.00 ,$5.00 ,$3.56 ,$16.45 ,$15.91 ,5/2/2020,20205,12
+Texas Thrift Store,BCBGMaxAzria Coral Sleeveless High / Low Hem Tank XS,A0860,$2.49 ,$2.70 ,4/18/2020,20204,,,,,,,,,857
+Texas Thrift Store,Adrianna Papell Icy Blue Embroidard V Neck Sharkbite Tank S,A0861,$4.99 ,$5.40 ,4/18/2020,20204,,,,,,,,,857
+Texas Thrift Store,Horny Toad Button Down Tank XS,A0862,$1.49 ,$1.61 ,4/17/2020,20204,,,,,,,,,858
+Texas Thrift Store,Olive & Oak Semi Sheer Blue White Stripe Tank S,A0863,$2.49 ,$2.70 ,4/17/2020,20204,,,,,,,,,858
+Texas Thrift Store,Market & Spruce Joney Lace Detail Knit Top NWT S,A0864,$2.99 ,$3.24 ,4/14/2020,20204,,,,,,,,,861
+Texas Thrift Store,Paper Crane Boho High Low Hem Tank S,A0865,$2.49 ,$2.70 ,4/16/2020,20204,Poshmark,$14.30 ,$2.50 ,$0.53 ,$11.27 ,$8.57 ,5/20/2020,20205,34
+Texas Thrift Store,The North Face Culture Touring Tank S,A0866,$2.99 ,$3.24 ,4/15/2020,20204,,,,,,,,,860
+Texas Thrift Store,UO Ecote Embroidered White Crop Tank S,A0867,$1.99 ,$2.15 ,4/15/2020,20204,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,$7.90 ,9/5/2020,20209,143
+Texas Thrift Store,Michael Stars White Tassel Semi Sheer Shift Dress S,A0868,$2.99 ,$3.24 ,4/14/2020,20204,,,,,,,,,861
+Facebook Marketplace,Mystery Bundle of Boys Clothes Mixed Lot,A0869,$0.54 ,$0.54 ,4/20/2020,20204,Poshmark,$25.00 ,$5.00 ,$3.55 ,$16.45 ,$15.91 ,5/2/2020,20205,12
+Facebook Marketplace,Mystery Bundle of Boys Clothes Mixed Lot,A0870,$0.54 ,$0.54 ,4/20/2020,20204,Poshmark,$25.00 ,$5.00 ,$7.11 ,$12.89 ,$12.35 ,5/11/2020,20205,21
+Closet,Nike Capri Dri Fit Crop High Waist M,A0871,$0.00 ,$0.00 ,,,,,,,,,,,
+Closet,Lululemon Strappy Sports Bra Black,A0872,$0.00 ,$0.00 ,12/23/2020,,,,,,,,,,608
+Facebook Marketplace,Gilligan & Malley Color Block Sleeveless Dress S,A0876,$0.54 ,$0.54 ,5/4/2020,20205,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$6.51 ,5/29/2020,20205,15
+Facebook Marketplace,Adidas Soccer Shorts Purple White Stripe S,A0877,$0.54 ,$0.54 ,4/22/2020,20204,Poshmark,$5.00 ,$2.95 ,$0.00 ,$2.05 ,$1.51 ,5/20/2020,20205,28
+Facebook Marketplace,Forever21 Plaid Skirt S,A0878,$0.54 ,$0.54 ,4/22/2020,20204,Poshmark,$12.00 ,$2.95 ,$0.00 ,$9.05 ,$8.51 ,4/23/2020,20204,1
+Facebook Marketplace,Hollister Skinny Jeans Size 7 Long,A0879,$0.54 ,$0.54 ,4/22/2020,20204,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$15.46 ,4/28/2020,20204,6
+Facebook Marketplace,Bar III Purple Romper Shorts V-Neck Pockets XL,A0880,$3.29 ,$3.29 ,5/11/2020,20205,,,,,,,,,834
+Facebook Marketplace,Free People Looking Back Long Sleeve Grey Shirt M,A0881,$3.29 ,$3.29 ,7/18/2020,20207,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$20.71 ,11/10/2020,202011,115
+Facebook Marketplace,Love Riche NWT Black Long Sleeve Tunic Blouse M,A0882,$3.29 ,$3.29 ,5/8/2020,20205,,,,,,,,,837
+Facebook Marketplace,Deletta Anthro Corinthian Beaded Shoulder Boho Top M,A0883,$3.29 ,$3.29 ,5/5/2020,20205,,,,,,,,,840
+Facebook Marketplace,Victoria's Secret Smocked Jumpsuit Strapless L,A0884,$3.29 ,$3.29 ,5/4/2020,20205,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$16.71 ,6/14/2020,20206,41
+Facebook Marketplace,BlankNYC Vegan Faux Leather Pants Skinny 28,A0885,$3.29 ,$3.29 ,5/4/2020,20205,,,,,,,,,841
+Facebook Marketplace,Calvin Klein Dress Pant Charcoal 10,A0886,$3.29 ,$3.29 ,5/4/2020,20205,,,,,,,,,841
+Facebook Marketplace,Abound Short Sleeve Knit Tunic T Pocket L,A0887,$3.29 ,$3.29 ,5/11/2020,20205,,,,,,,,,834
+Facebook Marketplace,Banana Republic Midi Pencil Skirt Linen Cream Stretch 4,A0888,$3.29 ,$3.29 ,6/3/2020,20206,,,,,,,,,811
+Facebook Marketplace,New York & Company Checkered Lace Blouse S,A0889,$3.29 ,$3.29 ,5/11/2020,20205,,,,,,,,,834
+Facebook Marketplace,Lucy Active Zip Up Jacket M,A0890,$3.29 ,$3.29 ,5/4/2020,20205,,,,,,,,,841
+Facebook Marketplace,LulaRoe Legging Cat Print T&C,A0891,$3.29 ,$3.29 ,5/4/2020,20205,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$10.59 ,10/21/2020,202010,170
+Facebook Marketplace,Old Navy NWT Low Rise Cotton Chino Short 8,A0892,$3.29 ,$3.29 ,5/4/2020,20205,,,,,,,,,841
+Facebook Marketplace,Old Navy Black Floral Flutter Sleeve Dress M Petite,A0893,$3.29 ,$3.29 ,WEARING,,,,,,,,,,
+Facebook Marketplace,Divided H&M Graphic Tank Size 4,A0894,$0.54 ,$0.54 ,5/5/2020,20205,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.54),10/25/2020,202010,173
+Facebook Marketplace,Bobeau Southwestern Aztec Print Sharkbite Hem Tunic Top M,A0895,$0.54 ,$0.54 ,5/5/2020,20205,ThredUp,$18.99 ,$16.29 ,$0.00 ,$2.70 ,$2.16 ,8/21/2020,20208,108
+Facebook Marketplace,Sunnydale Slayers Club Graphic Tee Size Small,A0896,$0.54 ,$0.54 ,5/5/2020,20205,Poshmark,$9.00 ,$2.95 ,$2.12 ,$3.93 ,$3.39 ,7/7/2020,20207,63
+Facebook Marketplace,Gears of War 3 Rare Graphic T Shirt S,A0897,$0.54 ,$0.54 ,5/5/2020,20205,,,,,,,,,840
+Facebook Marketplace,Rebel Saints Graphic Top Embellished S,A0898,$0.54 ,$0.54 ,5/5/2020,20205,Mercari,$8.00 ,$0.80 ,$3.05 ,$4.15 ,$3.61 ,6/5/2020,20206,31
+Facebook Marketplace,Curiouser and Curiouser Graphic Tee S,A0899,$0.54 ,$0.54 ,5/5/2020,20205,Mercari,$8.00 ,$0.80 ,$3.39 ,$3.81 ,$3.27 ,6/22/2020,20206,48
+Facebook Marketplace,Graphic Band Tee Size Small,A0900,$0.54 ,$0.54 ,5/5/2020,20205,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.54),8/14/2020,20208,101
+Facebook Marketplace,No Boundaries Lace Blouse Large,A0901,$0.54 ,$0.54 ,5/5/2020,20205,ThredUp,$4.99 ,$4.80 ,$0.00 ,$0.19 ,($0.35),11/21/2020,202011,200
+Facebook Marketplace,American Rag Cie Floral Dress Medium,A0902,$0.54 ,$0.54 ,5/5/2020,20205,Mercari,$9.00 ,$0.90 ,$4.08 ,$4.02 ,$3.48 ,6/21/2020,20206,47
+Clothes Mentor Selma,Patrons of Peace Boho Paisely Tank L,A0903,$2.46 ,$2.66 ,7/26/2020,20207,,,,,,,,,758
+Clothes Mentor Selma,Umgee Patchwork Boho Floral Lace Tunic Tank S,A0904,$2.46 ,$2.66 ,7/26/2020,20207,,,,,,,,,758
+Clothes Mentor Selma,Sanctuary Boho Sleeveless Button Down Blouse L,A0905,$4.56 ,$4.94 ,5/6/2020,20205,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$9.46 ,7/15/2020,20207,70
+Clothes Mentor Selma,Charming Charlie NWT Boho Paisely Seafoam Layered Tank L,A0906,$2.46 ,$2.66 ,5/6/2020,20205,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$9.34 ,6/17/2020,20206,42
+Clothes Mentor Selma,Modern Lux Cactus Southwestern Desert Graphic T L,A0907,$3.16 ,$3.42 ,5/6/2020,20205,,,,,,,,,839
+Clothes Mentor Selma,Pleione Floral Blouse Tie Waist Bell Sleeve L,A0908,$3.86 ,$4.18 ,5/11/2020,20205,Poshmark,$17.50 ,$3.50 ,$0.00 ,$14.00 ,$9.82 ,6/13/2020,20206,33
+Clothes Mentor Selma,Altar'd State Linen/Cotton Blend Striped Tie Tee S,A0909,$5.26 ,$5.69 ,WEARING,,,,,,,,,,
+Clothes Mentor Selma,J. Jill Double Layer Tunic Top / Mini Dress Paisley M,A0910,$6.67 ,$7.22 ,5/12/2020,20205,,,,,,,,,833
+Clothes Mentor Selma,Umgee Floral Boho Hippie Gypsy Dress S,A0911,$6.67 ,$7.22 ,5/6/2020,20205,Poshmark,$22.00 ,$4.40 ,$0.00 ,$17.60 ,$10.38 ,7/3/2020,20207,58
+Clothes Mentor Selma,Lilly Pulitzer Edna Dress Hanging with Fronds XS NWOT,A0912,$12.26 ,$13.27 ,5/6/2020,20205,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$18.73 ,9/17/2020,20209,134
+Clothes Mentor Selma,Lilly Pulitzer Edna Dress Tile Wave XS NWOT,A0913,$10.86 ,$11.76 ,5/6/2020,20205,,,,,,,,,839
+Clothes Mentor Selma,Zara Floral Lace Embroidered T-Shirt Blouse M,A0914,$5.26 ,$5.69 ,5/8/2020,20205,,,,,,,,,837
+Clothes Mentor Selma,Crescent StitchFix Scalloped Mauve Tank L Iridescent Rouge,A0915,$3.16 ,$3.42 ,5/8/2020,20205,Poshmark,$16.00 ,$3.20 ,$0.00 ,$12.80 ,$9.38 ,8/2/2020,20208,86
+Clothes Mentor Selma,Fifth Sun Making Pour Decisions Graphic Tank M,A0916,$1.06 ,$1.15 ,5/12/2020,20205,,,,,,,,,833
+Clothes Mentor Selma,Umgee Lace Boho Tassel Dress M,A0917,$1.76 ,$1.91 ,5/12/2020,20205,,,,,,,,,833
+Clothes Mentor Selma,Umgee Lace Mock Neck Coral Blouse M,A0918,$4.56 ,$4.94 ,5/13/2020,20205,,,,,,,,,832
+Clothes Mentor Selma,A'reve Anthro Lace Tulle Tunic Blouse Sleeveless M,A0919,$5.96 ,$6.45 ,5/11/2020,20205,,,,,,,,,834
+Clothes Mentor Selma,Patrons of Peace Boho Crop Tank M,A0920,$3.16 ,$3.42 ,5/13/2020,20205,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$12.58 ,6/30/2020,20206,48
+Clothes Mentor Selma,Umgee Dolman Sleeve Boho Oversize Blouse M,A0921,$5.26 ,$5.69 ,5/13/2020,20205,,,,,,,,,832
+Clothes Mentor Selma,Umgee Fringe Oversized Cotton Linen Blend Blouse M,A0922,$5.26 ,$5.69 ,5/11/2020,20205,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$6.31 ,6/25/2020,20206,45
+Clothes Mentor Online,Lilly Pulitzer Margate Dress Don't Leave Me Hanging S,A0923,$21.00 ,$21.00 ,5/15/2020,20205,Poshmark,$50.00 ,$10.00 ,$0.00 ,$40.00 ,$19.00 ,5/15/2020,20205,0
+Clothes Mentor Online,Lilly Pulitzer Alexandra Dress Pink Sands S,A0924,$21.00 ,$21.00 ,5/15/2020,20205,Poshmark,$50.00 ,$10.00 ,$0.00 ,$40.00 ,$19.00 ,5/15/2020,20205,0
+Clothes Mentor Online,Lilly Pulitzer Sophie Dress Tiger Palm UPF 50+ S,A0925,$21.00 ,$21.00 ,5/14/2020,20205,Poshmark,$60.00 ,$12.00 ,$2.12 ,$45.88 ,$24.88 ,5/16/2020,20205,2
+Clothes Mentor Online,Lilly Pulitzer Pearl Lace Blue First Impressions 8,A0926,$18.00 ,$18.00 ,5/14/2020,20205,,,,,,,,,831
+Clothes Mentor Online,Lilly Pulitzer Trudy Shift Dress Go Go Green 6,A0927,$30.00 ,$30.00 ,5/14/2020,20205,Poshmark,$95.00 ,$19.00 ,$0.00 ,$76.00 ,$46.00 ,6/26/2020,20206,43
+Clothes Mentor Online,Lilly Pulitzer Veranda Dress Blue Underwater Escape S,A0928,$21.00 ,$21.00 ,6/4/2020,20206,Mercari,$50.00 ,$5.00 ,$4.08 ,$40.92 ,$19.92 ,6/22/2020,20206,18
+Poshmark,AEO Straight Leg Stretch Dark Wash Jeans 0 Short,A0929,$6.49 ,$6.49 ,5/23/2020,20205,,,,,,,,,822
+Poshmark,WHBM Straight Leg Pants Button Detail 4,A0930,$6.49 ,$6.49 ,7/9/2020,20207,,,,,,,,,775
+Poshmark,Trotters Liz Basket Weave Loafers Leather Cream 12,A0932,$6.49 ,$6.49 ,6/27/2020,20206,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$9.51 ,1/25/2020,20201,-154
+Poshmark,ALDO Black Ankle Bootie Black Rhinestone 7.5,A0933,$6.49 ,$6.49 ,6/27/2020,20206,,,,,,,,,787
+ThredUp,Avon Abstract Floral Fitted Midi Dress S,A0934,$5.00 ,$5.41 ,5/17/2020,20205,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($5.41),10/25/2020,202010,161
+ThredUp,Pink Rose Boho Floral Blouse High/Low Hem XS,A0935,$5.40 ,$5.85 ,5/17/2020,20205,,,,,,,,,828
+ThredUp,42pops Sequin Sleeve Knit Pocket Tee M,A0936,$5.00 ,$5.41 ,6/2/2020,20206,,,,,,,,,812
+ThredUp,Boho Cream Crochet Slip Dress S,A0937,$5.00 ,$5.41 ,7/27/2020,20207,,,,,,,,,757
+ThredUp,Love Tree Boho Floral Sleeveless Dress S,A0938,$4.00 ,$4.33 ,5/17/2020,20205,,,,,,,,,828
+ThredUp,Jardin by Macris Feather Mocha Tunic Swing Dress Pockets S,A0939,$5.00 ,$5.41 ,6/2/2020,20206,Poshmark,$22.00 ,$4.40 ,$2.12 ,$15.48 ,$10.07 ,9/14/2020,20209,104
+ThredUp,Everly Boho Hippie Sleeveless Shift Dress S,A0940,$5.00 ,$5.41 ,5/23/2020,20205,,,,,,,,,822
+ThredUp,Boho Black Blouse with White Pattern S,A0941,$4.50 ,$4.87 ,6/2/2020,20206,,,,,,,,,812
+ThredUp,Boho Green Blouse with White Pattern L,A0942,$5.00 ,$5.41 ,6/2/2020,20206,,,,,,,,,812
+ThredUp,Bardot Gold Scarf Print Button Down Shirt S,A0944,$4.00 ,$4.33 ,6/9/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,($4.00),($4.33),12/6/2020,202012,180
+ThredUp,Mockneck Ruffle Semi-Sheer Flare Long Sleeve Blouse M,A0945,$3.00 ,$3.25 ,5/16/2020,20205,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$4.75 ,9/28/2020,20209,135
+ThredUp,Bohemian A-Line Dress 3/4 Sleeves S,A0946,$4.00 ,$4.33 ,6/3/2020,20206,Mercari,$15.00 ,$1.50 ,$3.31 ,$10.19 ,$5.86 ,6/25/2020,20206,22
+ThredUp,Collective Concepts Dress Bat Wing Sleeve Elastic Waist S,A0947,$4.20 ,$4.55 ,5/15/2020,20205,,,,,,,,,830
+ThredUp,Banana Republic Ruffle Neck Floral Blouse XS,A0948,$2.50 ,$2.71 ,6/3/2020,20206,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$5.29 ,9/28/2020,20209,117
+ThredUp,Flying Tomato Racer Back Tribal Crop Tank M,A0949,$6.00 ,$6.50 ,5/16/2020,20205,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$7.91 ,7/4/2020,20207,49
+ThredUp,Bohemian A-Line Dress 3/4 Sleeves S,A0950,$4.00 ,$4.33 ,5/16/2020,20205,,,,,,,,,829
+ThredUp,41Hawthorn Beckett V-Neck Sleeveless Blouse M,A0951,$4.80 ,$5.20 ,5/16/2020,20205,,,,,,,,,829
+Goodwill NW Loop 410,Joe's Floral Corduroy Skinny Ankle Pants 27,A0952,$9.99 ,$10.81 ,5/21/2020,20205,Poshmark,$24.00 ,$4.80 ,$7.11 ,$12.09 ,$1.28 ,12/26/2020,202012,219
+Goodwill NW Loop 410,Torrid Boyfriend Skinny Jeans 12R,A0953,$7.99 ,$8.65 ,5/21/2020,20205,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$11.35 ,9/24/2020,20209,126
+Goodwill NW Loop 410,COH Kelly #001 Stretch Low Waist Bootcut Jeans 28,A0954,$7.99 ,$8.65 ,5/19/2020,20205,Poshmark,$55.00 ,$11.00 ,$0.00 ,$44.00 ,$35.35 ,5/20/2020,20205,1
+Goodwill Austin Hwy,Anthro Pilcro & The Letterpress High Waist Jeans Silver Stripe Raw Hem Ankle Crop 28,A0955,$6.39 ,$6.92 ,5/21/2020,20205,Poshmark,$22.50 ,$4.50 ,$1.78 ,$16.22 ,$9.31 ,6/11/2020,20206,21
+Goodwill Austin Hwy,Joe's Jeans Straight Ankle Mid Rise 28,A0956,$6.39 ,$6.92 ,5/22/2020,20205,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$17.08 ,6/24/2020,20206,33
+Goodwill Austin Hwy,7FAM Dojo Flip Flop Dark Wash Flare White Stitch 25,A0957,$6.39 ,$6.92 ,5/19/2020,20205,Poshmark,$50.00 ,$10.00 ,$0.00 ,$40.00 ,$33.08 ,6/26/2020,20206,38
+Goodwill Austin Hwy,WHBM The Slim Jegging Mid Rise Dark Wash Distressed 4,A0958,$6.39 ,$6.92 ,5/21/2020,20205,,,,,,,,,824
+Goodwill Austin Hwy,WHBM The Skinny Crop Light Wash Distressed Mid Rise 2,A0959,$6.39 ,$6.92 ,5/23/2020,20205,,,,,,,,,822
+Goodwill Austin Hwy,Sam Edelman Circus Bomb Shell Striped Espadrilles 7,A0960,$3.99 ,$4.32 ,6/27/2020,20206,,,,,,,,,787
+Goodwill NW Loop 410,St. John Collection Sleeveless Top Silk Fall 2010 Size 10,A0961,$4.79 ,$5.19 ,5/23/2020,20205,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$22.81 ,6/19/2020,20206,27
+Goodwill NW Loop 410,Club Monaco NWOT Peplum Tank Metallic Silver Arrows S,A0962,$4.79 ,$5.19 ,6/3/2020,20206,,,,,,,,,811
+Goodwill NW Loop 410,Entro Boho Floral Button Down Dress 3/4 Sleeve L,A0963,$6.49 ,$7.03 ,8/26/2020,20208,ThredUp,$37.99 ,$28.87 ,$0.00 ,$9.12 ,$2.09 ,9/30/2020,20209,35
+Goodwill NW Loop 410,Lilly Pulitzer Captiva Tunic Resort White XS,A0964,$6.49 ,$7.03 ,7/27/2020,20207,,,,,,,,,757
+Goodwill NW Loop 410,COH Amber 263 Stretch High Rise Boot Cut Jeans 25,A0965,$7.99 ,$8.65 ,5/21/2020,20205,Poshmark,$24.00 ,$4.80 ,$7.11 ,$12.09 ,$3.44 ,12/26/2020,202012,219
+Goodwill NW Loop 410,Anthropologie Maeve Austen Collared Blouse 4,A0966,$4.79 ,$5.19 ,5/23/2020,20205,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$10.81 ,7/5/2020,20207,43
+Goodwill Austin Hwy,Zara Woman Poplin Top Striped Tie Front S,A0967,$4.79 ,$5.19 ,6/4/2020,20206,,,,,,,,,810
+Goodwill Austin Hwy,Brandy Melville Gabriella Long Sleeve Black Romper OS,A0968,$6.49 ,$7.03 ,WEARING,,,,,,,,,,
+Goodwill Austin Hwy,Maeve Anthro Selva Dropwaist Bird Tunic S,A0969,$4.79 ,$5.19 ,6/7/2020,20206,Poshmark,$30.00 ,$6.00 ,$2.12 ,$21.88 ,$16.69 ,8/7/2020,20208,61
+Goodwill Austin Hwy,Harley Davidson Unisex Museum T Shirt Black M,A0970,$2.99 ,$3.24 ,6/6/2020,20206,,,,,,,,,808
+Goodwill Austin Hwy,Harley Davidson Women's Graphic T Shirt Black V Neck L,A0971,$4.79 ,$5.19 ,6/6/2020,20206,,,,,,,,,808
+Goodwill Austin Hwy,Altar'd State Boho Knit Kimono L,A0972,$4.79 ,$5.19 ,6/8/2020,20206,Poshmark,$22.50 ,$4.50 ,$1.78 ,$16.22 ,$11.04 ,6/11/2020,20206,3
+Goodwill Austin Hwy,Fig and Flower Anthro Floral Blouse Plus Size 1X,A0974,$4.79 ,$5.19 ,6/9/2020,20206,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$14.81 ,6/24/2020,20206,15
+Goodwill Austin Hwy,Fame and Partners Rivera Polka Dot Long Sleeve Dress 6,A0975,$6.49 ,$7.03 ,6/8/2020,20206,,,,,,,,,806
+Goodwill Austin Hwy,St. John Collection Silk Floral Sleeveless Dress 8,A0976,$6.49 ,$7.03 ,6/7/2020,20206,,,,,,,,,807
+Goodwill Austin Hwy,Badgley Mischka Collection LBD Black Color Block Sleeveless Dress 8,A0977,$6.49 ,$7.03 ,6/4/2020,20206,,,,,,,,,810
+Goodwill Austin Hwy,ASOS Curve NWT White Lace Sweater Tunic Dress 18,A0978,$6.49 ,$7.03 ,6/8/2020,20206,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$13.25 ,7/8/2020,20207,30
+Goodwill Austin Hwy,Members Only Burgandy Bomber Jacket 42L,A0979,$4.79 ,$5.19 ,6/7/2020,20206,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$11.89 ,8/7/2020,20208,61
+Goodwill Cibolo,Anthropologie Floreat Avery Embroidered Dress Boho S,A0980,$12.99 ,$14.06 ,5/24/2020,20205,Poshmark,$48.00 ,$9.60 ,$0.00 ,$38.40 ,$24.34 ,7/10/2020,20207,47
+Goodwill Cibolo,Cabi French Jumpsuit Navy Blue Drawstring Sleeveless M,A0981,$6.49 ,$7.03 ,6/6/2020,20206,Poshmark,$45.00 ,$9.00 ,$0.00 ,$36.00 ,$28.97 ,7/21/2020,20207,45
+Goodwill Cibolo,Lulus NWT Angel in Disguise Lace Skater Dress Burgundy S,A0982,$6.49 ,$7.03 ,5/24/2020,20205,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$16.97 ,12/11/2020,202012,201
+Goodwill Cibolo,Lululemon Crop Capri Olive Green Mesh Stripe Front,A0983,$4.79 ,$5.19 ,7/9/2020,20207,Poshmark,$67.00 ,$13.40 ,$2.12 ,$51.48 ,$46.29 ,7/21/2020,20207,12
+Goodwill Cibolo,Nike Club Cropped Legging Capri Pink Black S,A0984,$4.79 ,$5.19 ,5/22/2020,20205,,,,,,,,,823
+Goodwill Cibolo,Rag & Bone Green Gables Coated Denim Legging Jeans 25,A0985,$4.79 ,$5.19 ,5/23/2020,20205,,,,,,,,,822
+Goodwill Cibolo,Roxy Oceanside Boho Black Drawstring Linen Pants M,A0986,$4.79 ,$5.19 ,7/9/2020,20207,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$10.81 ,7/21/2020,20207,12
+Goodwill Austin Hwy,Cable & Gauge Color Block Knit Top 3/4 Sleeve S,A0987,$4.79 ,$5.19 ,5/24/2020,20205,,,,,,,,,821
+Goodwill NW Loop 410,Forever 21 Black Dress Sleeveless Velvet Stripe Ribbed Bodycon S,A0988,$6.49 ,$7.03 ,WEARING,,,,,,,,,,
+Facebook Marketplace,Hollister Denim Shorts Cuffed Size 7/28,A0994,$0.85 ,$0.85 ,7/9/2020,20207,,,,,,,,,775
+Facebook Marketplace,American Rag Cie Boho Peasant Blouse,A0995,$0.85 ,$0.85 ,6/18/2020,20206,,,,,,,,,796
+Facebook Marketplace,Danksin Athletic T Shirt Juniors L 14/16,A0996,$0.85 ,$0.85 ,6/19/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),10/25/2020,202010,128
+Facebook Marketplace,Express Mock Neck Sleeveless Tunic Top S,A0997,$0.85 ,$0.85 ,6/11/2020,20206,ThredUp,$23.99 ,$19.91 ,$0.00 ,$4.08 ,$3.23 ,9/29/2020,20209,110
+Facebook Marketplace,Japna Striped Floral Blouse Ruffle Racer Back Tank M,A0998,$0.85 ,$0.85 ,6/18/2020,20206,,,,,,,,,796
+Facebook Marketplace,Xhilaration Sequin Shift Dress Floral S,A0999,$0.85 ,$0.85 ,6/12/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),10/25/2020,202010,135
+Facebook Marketplace,Kasper NWT Gold Shift Career Dress 6 Petite,A1000,$0.85 ,$0.85 ,6/11/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),10/25/2020,202010,136
+Facebook Marketplace,Prime Evil Metal Grommet Tank S,B0001,$0.85 ,$0.85 ,6/12/2020,20206,Poshmark,$9.00 ,$2.95 ,$0.00 ,$6.05 ,$5.20 ,7/26/2020,20207,44
+Facebook Marketplace,Disney Minnie Mouse Graphic Tank S,B0003,$0.85 ,$0.85 ,6/19/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),10/25/2020,202010,128
+Facebook Marketplace,Old Navy Semi Sheer Tank Plus Size XXL,B0004,$0.85 ,$0.85 ,6/12/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),8/14/2020,20208,63
+Facebook Marketplace,Nike Racer Back Logo Tank Pink S,B0006,$0.85 ,$0.85 ,6/16/2020,20206,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.81 ,9/5/2020,20209,81
+Facebook Marketplace,Marilyn Monroe Graphic T Juniors Small,B0007,$0.85 ,$0.85 ,6/16/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),8/14/2020,20208,59
+Facebook Marketplace,Style & Co Lace Black Cardigan M,B0008,$0.85 ,$0.85 ,6/16/2020,20206,ThredUp,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($0.85),12/5/2020,202012,172
+Facebook Marketplace,New Balance Sneakers Athletic Trainers Running 8.5,B0009,$0.85 ,$0.85 ,6/30/2020,20206,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$16.23 ,10/4/2020,202010,96
+Facebook Marketplace,Rialto Heeled Ankle Bootie 7.5,B0010,$0.85 ,$0.85 ,6/30/2020,20206,ThredUp,$14.99 ,$13.64 ,$0.00 ,$1.35 ,$0.50 ,10/29/2020,202010,121
+Facebook Marketplace,Victoria's Secret Striped Pajama Bottom M,B0039,$0.92 ,$0.92 ,7/24/2020,20207,,,,,,,,,760
+Goodwill Cibolo,Tory Burch Reva Tumbled Ballet Flats Royal Tan 6.5,B0040,$24.99 ,$27.05 ,6/28/2020,20206,Poshmark,$90.00 ,$18.00 ,$0.00 ,$72.00 ,$44.95 ,7/2/2020,20207,4
+Goodwill Cibolo,Vince Camuto Gray Kaylana Loafer Mule 6.5,B0041,$14.99 ,$16.23 ,6/27/2020,20206,Poshmark,$13.00 ,$2.95 ,$0.00 ,$10.05 ,($6.18),12/28/2020,202012,184
+Goodwill Cibolo,Peach Love California Striped Tie Front Bell Sleeve Blouse M,B0042,$4.79 ,$5.19 ,6/11/2020,20206,Poshmark,$28.00 ,$5.60 ,$0.00 ,$22.40 ,$17.21 ,6/13/2020,20206,2
+Goodwill Cibolo,Cabi Ginger Top 3070 Animal Print S,B0043,$4.79 ,$5.19 ,6/12/2020,20206,,,,,,,,,802
+Goodwill Cibolo,Fig and Flower Anthro Floral Blouse M,B0044,$4.79 ,$5.19 ,6/11/2020,20206,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$18.81 ,6/13/2020,20206,2
+Goodwill Cibolo,Lilly Pulitzer Island Polo Green S,B0045,$4.79 ,$5.19 ,8/13/2020,20208,,,,,,,,,740
+Goodwill N Loop 1604,Lucky Brand NWT Emi Border Print Peasant Blouse Black Multi L,B0046,$4.79 ,$5.19 ,7/18/2020,20207,Poshmark,$31.00 ,$6.20 ,$2.12 ,$22.68 ,$17.49 ,11/1/2020,202011,106
+Goodwill N Loop 1604,Express Lace Metallic Cut Out Tank S,B0047,$4.79 ,$5.19 ,7/24/2020,20207,,,,,,,,,760
+Goodwill N Loop 1604,Halogen Classic Blazer Graph Check 4,B0048,$3.25 ,$3.51 ,7/24/2020,20207,,,,,,,,,760
+Garage Sale,Vintage America Peasant Blouse Floral M,B0049,$2.00 ,$2.00 ,7/24/2020,20207,Poshmark,$24.00 ,$4.80 ,$2.12 ,$17.08 ,$15.08 ,12/25/2020,202012,154
+Garage Sale,AEO Boho Bell Sleeve Ruffle Stripe Blouse XL,B0050,$2.00 ,$2.00 ,7/25/2020,20207,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.00 ,9/16/2020,20209,53
+Garage Sale,Ann Taylor LOFT Floral Embellished Purple Cardigan Short Sleeve M,B0051,$2.00 ,$2.00 ,6/23/2020,20206,,,,,,,,,791
+Garage Sale,AEO Boho Bell Sleeve Peasant Blouse Paisley XL,B0053,$2.00 ,$2.00 ,6/22/2020,20206,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.00 ,6/28/2020,20206,6
+Garage Sale,Dansko Clog Brown Reptile Snake Scale Print 38,B0054,$10.00 ,$10.00 ,6/29/2020,20206,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$10.00 ,11/6/2020,202011,130
+Garage Sale,Chelsea & Violet Boho Chevron Blouse S,B0055,$1.00 ,$1.00 ,7/24/2020,20207,,,,,,,,,760
+Garage Sale,Paper Crane Boho Racer Back Tank S,B0056,$1.00 ,$1.00 ,7/24/2020,20207,,,,,,,,,760
+Garage Sale,Nine West Jeans Plaid Long Sleeve Tunic Top S,B0057,$1.00 ,$1.00 ,7/24/2020,20207,,,,,,,,,760
+Garage Sale,Banana Republic V-Neck Sleeveless Blouse XS,B0058,$2.00 ,$2.00 ,7/24/2020,20207,,,,,,,,,760
+Garage Sale,Express The Portofino Shirt Coral Button Up Blouse S,B0059,$2.00 ,$2.00 ,7/25/2020,20207,,,,,,,,,759
+Garage Sale,LOFT Floral Sleeveless Blouse M,B0060,$2.00 ,$2.00 ,6/22/2020,20206,ThredUp,$43.99 ,$32.11 ,$0.00 ,$11.88 ,$9.88 ,8/20/2020,20208,59
+Garage Sale,Pleione Red Short Sleeve Blouse M,B0061,$2.00 ,$2.00 ,7/25/2020,20207,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$14.00 ,8/5/2020,20208,11
+Garage Sale,LC Lauren Conrad Blush Pink Blouse Lace Trim L,B0062,$2.00 ,$2.00 ,7/25/2020,20207,Mercari,$15.00 ,$1.50 ,$3.39 ,$10.11 ,$8.11 ,8/8/2020,20208,14
+Garage Sale,Charlotte Russe Floral Kimono Duster Sleeveless M,B0063,$2.00 ,$2.00 ,7/18/2020,20207,,,,,,,,,766
+Garage Sale,apana Floral Mesh High Waisted Capri Legging XS,B0064,$3.00 ,$3.00 ,7/9/2020,20207,,,,,,,,,775
+Garage Sale,AEO Purple Long Sleeve Sweater Dress S,B0065,$3.00 ,$3.00 ,6/23/2020,20206,,,,,,,,,791
+Goodwill Austin Hwy,Tory Burch Bag Large Travel Nylon Messenger Diaper Bag,B0066,$14.99 ,$16.23 ,6/28/2020,20206,,,,,,,,,786
+Goodwill Austin Hwy,Harley-Davidson Pullover Sweatshirt 1/4 Zip S,B0067,$4.79 ,$5.19 ,7/24/2020,20207,,,,,,,,,760
+Goodwill Austin Hwy,Lucky Brand Aztec Waterfall Cardigan M Southwestern,B0068,$4.79 ,$5.19 ,7/26/2020,20207,,,,,,,,,758
+Goodwill Austin Hwy,Madewell Striped Button Down S,B0069,$4.79 ,$5.19 ,7/27/2020,20207,,,,,,,,,757
+Goodwill Austin Hwy,Top Shop Animal Print Top Button Down 6,B0070,$4.79 ,$5.19 ,7/27/2020,20207,,,,,,,,,757
+Goodwill Austin Hwy,Ann Taylor LOFT Maxi Dress 0,B0071,$6.49 ,$7.03 ,WEARING,,,,,,,,,,
+ThredUp,"Floral Top - Not mine, Thredup listed in my box by error",B0072,$0.00 ,$0.00 ,8/23/2020,20208,ThredUp,$19.99 ,$16.99 ,$0.00 ,$3.00 ,$3.00 ,11/16/2020,202011,85
+Goodwill Austin Hwy,Lulu's Multitask Queen Shift Dress XS,B0073,$6.49 ,$7.03 ,8/13/2020,20208,,,,,,,,,740
+Goodwill Austin Hwy,Prana Quinn Top NWT Tank Yoga L,B0074,$4.79 ,$5.19 ,7/17/2020,20207,eBay,$29.99 ,$4.23 ,$4.18 ,$21.58 ,$16.39 ,7/21/2020,20207,4
+Goodwill Austin Hwy,Moral Fiber Top Plus Size NWT 2X,B0075,$4.79 ,$5.19 ,8/13/2020,20208,,,,,,,,,740
+Goodwill Austin Hwy,J. Crew Lace Sweater M,B0076,$2.40 ,$2.59 ,8/13/2020,20208,,,,,,,,,740
+Goodwill Austin Hwy,Isla Fitness Threads Seashell Tank S,B0077,$4.79 ,$5.19 ,8/13/2020,20208,,,,,,,,,740
+Goodwill Austin Hwy,Anthropologie Maeve Whitewick Manor Corduroy Dress 4,B0078,$6.49 ,$7.03 ,7/17/2020,20207,,,,,,,,,767
+Goodwill Austin Hwy,miami Boho Paisley T Shirt Dress V Neck Sheath S,B0079,$6.49 ,$7.03 ,7/17/2020,20207,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$8.97 ,9/26/2020,20209,71
+Goodwill Austin Hwy,Soludos Pineapple Espadrilles Shoes 9,B0080,$9.99 ,$10.81 ,6/29/2020,20206,,,,,,,,,785
+Goodwill Austin Hwy,Merrell Women's Hiking Castle Rock Shoe 8,B0081,$6.99 ,$7.57 ,7/1/2020,20207,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$8.43 ,8/12/2020,20208,42
+Goodwill Cibolo,Umgee Pink Long Sleeve Wrap Top Blouse S,B0082,$2.40 ,$2.59 ,8/5/2020,20208,,,,,,,,,
+Goodwill NW Loop 410,Love Riche Lavender Lilac Dress Long Bell Sleeve L,B0083,$6.49 ,$7.03 ,8/12/2020,20208,Mercari,$25.00 ,$2.50 ,$5.27 ,$17.23 ,$10.20 ,8/19/2020,20208,7
+Goodwill NW Loop 410,Lumiere Tiered Hem Dress Houndstooth High Low L,B0084,$6.49 ,$7.03 ,7/17/2020,20207,,,,,,,,,767
+Goodwill NW Loop 410,Monteau Floral Boho Bell Sleeve Blouse M,B0085,$4.79 ,$5.19 ,7/18/2020,20207,,,,,,,,,766
+Goodwill NW Loop 410,asos NWT Red Midi Long Sleeve Dress 2,B0086,$6.49 ,$7.03 ,7/25/2020,20207,,,,,,,,,759
+Goodwill Cibolo,Crocs Red Diamond Prism Studded Flats 7,B0087,$6.99 ,$7.57 ,9/29/2020,20209,Poshmark,$21.00 ,$4.20 ,$7.11 ,$9.69 ,$2.12 ,12/26/2020,202012,88
+Goodwill Cibolo,Kate Spade NWOT Lilly Suede Ruffle Slip On Sneaker 8,B0088,$24.99 ,$27.05 ,8/17/2020,20208,Poshmark,$60.00 ,$12.00 ,$0.00 ,$48.00 ,$20.95 ,8/18/2020,20208,1
+Goodwill Cibolo,DV Target Perforated Ankle Bootie Faux Suede Tan 6.5,B0089,$6.99 ,$7.57 ,8/17/2020,20208,,,,,,,,,736
+Goodwill Cibolo,Band of Gypsies NWT Floral Wrap Dress M,B0090,$12.99 ,$14.06 ,7/28/2020,20207,,,,,,,,,756
+Goodwill Cibolo,AEO Favorite T Purple Tie Dye M,B0091,$2.99 ,$3.24 ,8/5/2020,20208,Poshmark,$20.00 ,$4.00 ,$0.71 ,$15.29 ,$12.06 ,12/9/2020,202012,126
+Handmade,Handmade Tassel Earrings in Lilac Purple,B0092,$0.00 ,$0.00 ,8/3/2019,20198,Poshmark,$16.37 ,$4.58 ,$1.30 ,$10.49 ,$10.49 ,8/29/2020,20208,26
+Goodwill Cibolo,LUSH Oversize Utility Blouse M,B0093,$4.79 ,$5.19 ,8/5/2020,20208,,,,,,,,,748
+Goodwill Cibolo,Eden & Olivia Anthro Bird Print 100% Cotton Blouse L,B0094,$4.79 ,$5.19 ,8/6/2020,20208,,,,,,,,,747
+Goodwill N Loop 1604,Kate Spade NWT iPhone X Case Wallet Wristlet Scalloped Olive Green,B0095,$3.50 ,$3.78 ,8/17/2020,20208,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$28.22 ,8/18/2020,20208,1
+Goodwill N Loop 1604,Gypsy Warrior Black Maxi Dress Sleeveless Cut Out S,B0096,$3.25 ,$3.51 ,8/13/2020,20208,Poshmark,$17.00 ,$3.40 ,$2.12 ,$11.48 ,$7.97 ,9/5/2020,20209,23
+Goodwill N Loop 1604,AEO Knit Cardigan Duster Salt & Pepper M,B0097,$2.40 ,$2.59 ,7/30/2020,20207,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$21.41 ,9/13/2020,20209,45
+Goodwill N Loop 1604,Zara Trafaluc Long Sleeve T Shirt M,B0098,$2.40 ,$2.59 ,8/3/2020,20208,,,,,,,,,750
+Goodwill N Loop 1604,Express The Portofino Shirt Floral Button Down S,B0099,$4.79 ,$5.19 ,7/31/2020,20207,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$9.21 ,8/21/2020,20208,21
+Goodwill N Loop 1604,White Birch Striped Blouse Long Sleeve Open Back M,B0100,$4.79 ,$5.19 ,8/3/2020,20208,,,,,,,,,750
+Goodwill N Loop 1604,Lucky Brand Floral Short Sleeve Blouse Ruffle XS,B0101,$4.79 ,$5.19 ,8/5/2020,20208,,,,,,,,,748
+Goodwill N Loop 1604,Know Your Worth Graphic T Shirt Burnout S,B0102,$2.99 ,$3.24 ,8/13/2020,20208,,,,,,,,,740
+Goodwill N Loop 1604,CEJON Boho Fringe Kimono One Size,B0103,$4.79 ,$5.19 ,7/31/2020,20207,,,,,,,,,753
+Goodwill N Loop 1604,41 Hawthorn Stitch Fix Floral Blouse M,B0104,$4.79 ,$5.19 ,8/6/2020,20208,,,,,,,,,747
+Goodwill N Loop 1604,Lily White Floral Boho Blouse L,B0105,$4.79 ,$5.19 ,7/31/2020,20207,Poshmark,$17.00 ,$3.40 ,$0.00 ,$13.60 ,$8.41 ,8/16/2020,20208,16
+Goodwill N Loop 1604,Soludos Espadrilles Yucatan Ocean Blue 8.5,B0106,$3.99 ,$4.32 ,8/17/2020,20208,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$15.96 ,10/12/2020,202010,56
+Goodwill N Loop 1604,Topshop Peplum Scuba Dress Royal Blue 2,B0107,$6.49 ,$7.03 ,9/18/2020,20209,,,,,,,,,704
+Goodwill N Loop 1604,Monteau Floral Dress Ruffle Cap Sleeve M,B0108,$6.49 ,$7.03 ,7/31/2020,20207,,,,,,,,,753
+Goodwill N Loop 1604,Postage Stamp Anthro Blouse S,B0109,$4.79 ,$5.19 ,8/13/2020,20208,,,,,,,,,740
+Goodwill N Loop 1604,Fig and Flower Boho Gypsy Blouse S,B0110,$4.79 ,$5.19 ,8/6/2020,20208,,,,,,,,,747
+Goodwill N Loop 1604,Skies Are Blue Stitch Fix Knit Blazer S,B0111,$6.49 ,$7.03 ,7/31/2020,20207,Poshmark,$40.00 ,$8.00 ,$2.12 ,$29.88 ,$22.85 ,9/4/2020,20209,35
+Goodwill N Loop 1604,MTV Graphic Logo T Shirt M,B0112,$2.99 ,$3.24 ,8/3/2020,20208,Mercari,$18.00 ,$1.80 ,$3.39 ,$12.81 ,$9.57 ,8/20/2020,20208,17
+Goodwill N Loop 1604,Meraki Paisley Boho Cardigan S,B0113,$4.79 ,$5.19 ,8/3/2020,20208,Poshmark,$20.00 ,$4.00 ,$2.12 ,$13.88 ,$8.69 ,8/5/2020,20208,2
+Goodwill N Loop 1604,Fabletics Black High Waist Legging 7/8,B0114,$4.79 ,$5.19 ,WEARING,,,,,,,,,,
+Goodwill N Loop 1604,Lulu's Flutter Sleeve Chiffon Gown NWT XL,B0115,$6.49 ,$7.03 ,8/12/2020,20208,,,,,,,,,741
+ThredUp,"Banana Republic Pants - Not mine, Thredup listed in my box by error",B0116,$0.00 ,$0.00 ,8/23/2020,20208,ThredUp,$21.99 ,$18.47 ,$0.00 ,$3.52 ,$3.52 ,12/3/2020,202012,102
+Goodwill N Loop 1604,Free People Moonlight Mile Print Penny Georgette S,B0117,$4.79 ,$5.19 ,7/30/2020,20207,,,,,,,,,754
+Texas Thrift Store,Victoria's Secret Plaid Button Down M,B0118,$2.49 ,$2.70 ,8/10/2020,20208,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$5.30 ,9/28/2020,20209,49
+Texas Thrift Store,Lux LA Floral Boho Long Sleeve Blouse S,B0119,$1.99 ,$2.15 ,7/28/2020,20207,,,,,,,,,756
+Texas Thrift Store,Pink Rose Floral Boho Tassel Tank M,B0120,$1.49 ,$1.61 ,7/28/2020,20207,,,,,,,,,756
+Texas Thrift Store,Zella High Waist Legging Cut Out Ankle XS,B0121,$4.98 ,$5.39 ,8/18/2020,20208,,,,,,,,,735
+Texas Thrift Store,Modern Lux It's All Good Graphic Tank Sun M,B0123,$2.98 ,$3.23 ,7/28/2020,20207,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$11.17 ,8/6/2020,20208,9
+Texas Thrift Store,Fabletics Colorblock Heather Pink Gray Legging Small Salar Statement 7/8 Cherry/Charcoal/Rosebloom Heather,B0124,$5.98 ,$6.47 ,8/18/2020,20208,,,,,,,,,735
+Texas Thrift Store,AEO Floral Crop Boho Blouse M,B0125,$4.98 ,$5.39 ,8/2/2020,20208,,,,,,,,,751
+Texas Thrift Store,Cupcakes and Cashmere Anthro Jantel Floral Blouse Bell Sleeve Boho S,B0126,$4.98 ,$5.39 ,8/12/2020,20208,,,,,,,,,741
+Texas Thrift Store,Meraki Floral Wrap Peplum Blouse L,B0127,$4.98 ,$5.39 ,8/1/2020,20208,,,,,,,,,752
+Texas Thrift Store,Lucky Brand Popover Blouse S,B0128,$4.98 ,$5.39 ,8/13/2020,20208,,,,,,,,,740
+Texas Thrift Store,Southern Stitch Aztec Southwestern Kimono Duster L/XL,B0129,$4.98 ,$5.39 ,8/8/2020,20208,,,,,,,,,745
+Texas Thrift Store,Altar'd State Tiered Floral Boho Kimono Cardigan S,B0130,$3.49 ,$3.77 ,8/8/2020,20208,Poshmark,$28.00 ,$5.60 ,$0.00 ,$22.40 ,$18.63 ,8/8/2020,20208,0
+Texas Thrift Store,Maurice's Floral Boho Blouse L,B0131,$3.49 ,$3.77 ,8/1/2020,20208,,,,,,,,,752
+Texas Thrift Store,Topshop Yellow Bell Sleeve Crop Top Tie Front 8,B0132,$4.19 ,$4.53 ,8/12/2020,20208,Poshmark,$21.67 ,$4.34 ,$2.37 ,$14.96 ,$10.43 ,8/13/2020,20208,1
+Texas Thrift Store,Skies Are Blue Stitch Fix Long Sleeve Blouse M,B0133,$3.49 ,$3.77 ,7/28/2020,20207,,,,,,,,,756
+Texas Thrift Store,Zara Woman NWT Lace Pin Stripe Bell Sleeve Blouse S,B0134,$6.99 ,$7.56 ,8/12/2020,20208,Poshmark,$21.67 ,$4.33 ,$2.37 ,$14.96 ,$7.40 ,8/13/2020,20208,1
+Texas Thrift Store,Neon Rainbow Burnout Semi Sheer Graphic Muscle Tank M,B0135,$2.09 ,$2.26 ,7/29/2020,20207,,,,,,,,,755
+Texas Thrift Store,Kut from the Kloth Floral Button Down Sheer S,B0136,$3.49 ,$3.77 ,8/13/2020,20208,,,,,,,,,740
+Texas Thrift Store,Express Split Back Solid Tank Semi Sheer M,B0137,$2.79 ,$3.02 ,8/12/2020,20208,,,,,,,,,741
+Texas Thrift Store,The Limited Striped Tank Blouse M,B0138,$2.09 ,$2.26 ,8/8/2020,20208,,,,,,,,,745
+Texas Thrift Store,Meraki Animal Print Blouse S,B0139,$4.19 ,$4.53 ,7/29/2020,20207,,,,,,,,,755
+Texas Thrift Store,Spiritual Gangster Maya Floral Kimono Robe OS,B0140,$4.98 ,$5.39 ,8/12/2020,20208,,,,,,,,,741
+Texas Thrift Store,Kut from the Kloth Floral Button Down Sheer M,B0141,$4.98 ,$5.39 ,7/29/2020,20207,,,,,,,,,755
+Texas Thrift Store,Ann Taylor LOFT Striped Tank XS,B0142,$3.98 ,$4.31 ,8/8/2020,20208,,,,,,,,,745
+Texas Thrift Store,Umgee Patchwork Boho Floral Blouse S,B0143,$6.98 ,$7.56 ,7/29/2020,20207,,,,,,,,,755
+Texas Thrift Store,Cabi Purple Eva Peplum Blouse 731 M,B0144,$4.98 ,$5.39 ,7/29/2020,20207,,,,,,,,,755
+Texas Thrift Store,Lavender Fields Striped Tie Front Crop Boho Top S,B0145,$4.98 ,$5.39 ,7/30/2020,20207,,,,,,,,,754
+Texas Thrift Store,Zara Basic Peplum Bell Sleeve Polka Dot Top XS,B0146,$4.98 ,$5.39 ,7/30/2020,20207,,,,,,,,,754
+Texas Thrift Store,Cabi Flaunt Wrap Blouse 3077 M,B0147,$4.98 ,$5.39 ,7/30/2020,20207,,,,,,,,,754
+Texas Thrift Store,Alo Yoga Space Dye Teal Air Brush Capri Crop Legging,B0148,$4.98 ,$5.39 ,8/18/2020,20208,,,,,,,,,735
+Texas Thrift Store,Zara Woman White Bell Sleeve Blouse M,B0149,$5.98 ,$6.47 ,8/13/2020,20208,,,,,,,,,740
+Texas Thrift Store,Cloth & Stone Anthropologie Split Back Fray Chambray Top M,B0150,$4.98 ,$5.39 ,8/10/2020,20208,,,,,,,,,743
+Texas Thrift Store,Meraki Floral Boho Blouse S,B0151,$3.98 ,$4.31 ,8/13/2020,20208,,,,,,,,,740
+Texas Thrift Store,Meraki Floral Kimono Cardigan M,B0152,$5.98 ,$6.47 ,8/13/2020,20208,,,,,,,,,740
+Texas Thrift Store,Bravado Rolling Stones Graphic Tank M,B0153,$2.98 ,$3.23 ,8/13/2020,20208,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$16.77 ,8/15/2020,20208,2
+Texas Thrift Store,Do Everything in Love Anthro Kimono Cardigan Shawl OS,B0154,$4.98 ,$5.39 ,8/12/2020,20208,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$18.61 ,11/6/2020,202011,86
+Texas Thrift Store,Pleione NWT Surplice Roll Sleeve High/Low Blouse S,B0155,$3.98 ,$4.31 ,8/12/2020,20208,,,,,,,,,741
+Goodwill Austin Hwy,Lucky Brand Suede Leather Moccasins Loafers 7.5,B0156,$6.99 ,$7.57 ,8/17/2020,20208,,,,,,,,,736
+Goodwill Austin Hwy,Kuhl Plaid Long Sleeve Button Down Top L,B0157,$2.40 ,$2.60 ,8/10/2020,20208,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$17.68 ,9/20/2020,20209,41
+Goodwill Austin Hwy,Pleione Short Sleeve V-Neck Blouse M,B0158,$0.00 ,$0.00 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Austin Hwy,Anthropologie Pins & Needles Polka Dot Floral Dress S,B0159,$7.99 ,$8.65 ,8/10/2020,20208,,,,,,,,,743
+Goodwill Austin Hwy,Zara Pleated Flowing Polka Dot Dress S,B0160,$7.99 ,$8.65 ,8/1/2020,20208,,,,,,,,,752
+Goodwill Austin Hwy,346 Brooks Brothers Black Sheath Dress 10,B0161,$7.99 ,$8.65 ,8/5/2020,20208,,,,,,,,,748
+Goodwill Austin Hwy,HD in Paris Anthro Plaid Andaz Empire Lined Midi Dress 2P,B0162,$7.99 ,$8.65 ,8/1/2020,20208,,,,,,,,,752
+Goodwill Austin Hwy,Men's Figs Marine Chisec Scrub Top Medium,B0163,$4.79 ,$5.19 ,8/10/2020,20208,Mercari,$30.00 ,$3.00 ,$4.18 ,$22.82 ,$17.63 ,8/28/2020,20208,18
+Goodwill Austin Hwy,Elie Tahari NWT Anetta Jacket Blazer Lovely in Pink Small,B0164,$7.99 ,$8.65 ,8/12/2020,20208,,,,,,,,,741
+Goodwill Austin Hwy,Uncle Frank Anthro Boho Aztec Dress M,B0165,$7.99 ,$8.65 ,8/2/2020,20208,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$15.35 ,9/5/2020,20209,34
+Goodwill Austin Hwy,Zara Plaid Square Textured Dress S,B0166,$7.99 ,$8.65 ,8/6/2020,20208,,,,,,,,,747
+Goodwill Austin Hwy,Fig & Flower Anthro Boho Hippie Dress Large,B0167,$4.79 ,$5.19 ,8/2/2020,20208,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$18.81 ,9/5/2020,20209,34
+Goodwill Austin Hwy,Floreat Manor Gates Anthropologie Dress 6,B0168,$7.99 ,$8.65 ,8/8/2020,20208,,,,,,,,,745
+Facebook Marketplace,Disney Zip Up Hoodie Kids,B0169,$0.00 ,$0.00 ,8/15/2020,,ThredUp,$13.99 ,$12.85 ,$0.00 ,$1.14 ,$1.14 ,10/25/2020,202010,
+Goodwill N Loop 1604,Betsey Johnson Floral Crossbody Purse,B0170,$5.00 ,$5.41 ,8/17/2020,20208,,,,,,,,,736
+Goodwill N Loop 1604,Nike Coral Pink Dri Fit Racer Back Tank S,B0171,$4.79 ,$5.19 ,8/18/2020,20208,Poshmark,$10.00 ,$2.00 ,$0.00 ,$8.00 ,$2.81 ,9/28/2020,20209,41
+Goodwill N Loop 1604,AEO Semi Sheer Floral Blouse S,B0172,$2.40 ,$2.60 ,9/18/2020,20209,,,,,,,,,704
+Goodwill N Loop 1604,Zara Short Sleeve Mustard Gold Knit Top M,B0173,$2.40 ,$2.60 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Cibolo,Zumba Legging Ruched L,B0174,$4.79 ,$5.19 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Cibolo,Livi Active Crop Legging Plus Size 18/20,B0175,$4.79 ,$5.19 ,8/18/2020,20208,Mercari,$24.00 ,$2.40 ,$5.27 ,$16.33 ,$11.14 ,8/20/2020,20208,2
+Goodwill Cibolo,J. Crew Pleated Front Boho Blouse 2,B0176,$4.79 ,$5.19 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Cibolo,Almost Famous Shortall Distressed Overall Shorts 1,B0177,$7.99 ,$8.65 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Cibolo,C&C California NWT Hoodie Top Long Sleeve Stripe M,B0178,$4.79 ,$5.19 ,9/18/2020,20209,Poshmark,$18.00 ,$3.60 ,$0.00 ,$14.40 ,$9.21 ,9/18/2020,20209,0
+Goodwill Cibolo,One Clothing NWT Tie Dye Romper V-Neck M,B0179,$7.99 ,$8.65 ,9/18/2020,20209,Poshmark,$22.00 ,$4.40 ,$2.12 ,$15.48 ,$6.83 ,10/10/2020,202010,22
+Goodwill Cibolo,Fig & Flower Anthro Boho Hippie Floral Tunic Top L,B0180,$7.99 ,$8.65 ,8/18/2020,20208,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$15.35 ,9/5/2020,20209,18
+Goodwill Cibolo,Fig & Flower Anthro Boho Hippie Floral Tunic Top L,B0181,$7.99 ,$8.65 ,8/18/2020,20208,Mercari,$27.00 ,$2.70 ,$3.52 ,$20.78 ,$12.13 ,8/20/2020,20208,2
+Goodwill Cibolo,Express Black Open Back Top XS,B0182,$4.79 ,$5.19 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Cibolo,Eden & Olivia Anthro Arrow 100% Cotton Blouse M,B0183,$2.40 ,$2.60 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Cibolo,Karl Lagerfeld White Sleeveless Dot Sheath Dress 6,B0184,$6.50 ,$7.04 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Cibolo,Pleione Anthro Paisley Blouse L,B0185,$2.40 ,$2.60 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Cibolo,Umbro Coral Pink Logo Hoodie S,B0186,$2.40 ,$2.60 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Cibolo,Ann Taylor Sleeveless Blouse Floral 6,B0188,$2.40 ,$2.60 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Cibolo,Lily White NWT Sheer Lace Floral Blouse XL,B0189,$2.40 ,$2.60 ,8/18/2020,20208,,,,,,,,,735
+Goodwill Bins S ATX,Steve Madden Lace Up Combat Boots,B0190,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$22.73 ,12/28/2020,202012,90
+Goodwill Bins S ATX,Dolce Vita Payce Demi Wedge Slide Sandal 7,B0191,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Facebook Marketplace,Boys Clothes Bundle,B0192,$2.70 ,$2.70 ,8/23/2020,20208,Thredup,$19.27 ,$0.00 ,$0.00 ,$19.27 ,$16.57 ,12/5/2020,202012,104
+Goodwill Bins S ATX,Lucky Brand Emmie Metallic Bronze Flats 7.5,B0193,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,American Rag Audrey Suede Platform Wedge 7,B0194,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,Viscata Sagaro Canvas Wedges Espadrilles 36 /5.5-6,B0195,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,Chaco Flip Flop 7,B0196,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$21.00 ,$4.20 ,$7.11 ,$9.69 ,$8.42 ,12/26/2020,202012,88
+Goodwill Bins S ATX,Lucky Brand Slip On Leather Flats Loafers,B0197,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$28.00 ,$5.60 ,$2.12 ,$20.28 ,$19.01 ,10/1/2020,202010,2
+Goodwill Bins S ATX,Jeffrey Campbell Cap Toe Suede Color Block Pump 7.5,B0198,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,Lucky Brand Brenon Leather Ankle Bootie Tan 6.5,B0199,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$25.00 ,$5.00 ,$0.00 ,$20.00 ,$18.73 ,10/11/2020,202010,12
+Goodwill Bins S ATX,Dansko Fallon Black Burnished Nubuck 39 8.5/9,B0200,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$20.00 ,$4.00 ,$0.71 ,$15.29 ,$14.02 ,12/9/2020,202012,71
+Goodwill Bins S ATX,TOMS Sienna Cork Wedge Sandal 7.5 Black,B0201,$1.17 ,$1.27 ,9/29/2020,20209,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$26.73 ,12/31/2020,202012,93
+Goodwill Bins S ATX,Crocs Cap Toe Tortoise Flat 10,B0202,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,DV by Dolce Vita Kaden Silver Sandals 6,B0203,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,AEO Strappy Leather Slide Sandal 10,B0204,$1.17 ,$1.27 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Bins S ATX,Kids Harper Canyon Grey Vest,B0208,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$18.99 ,$16.83 ,$0.00 ,$2.16 ,$0.89 ,11/19/2020,202011,
+Goodwill Bins S ATX,Ann Taylor LOFT Size 4 Black Pencil Skirt,B0209,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,BCBGMaxAzria Dress 02,B0210,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Banana Republic Stretch Pencil Skirt 6,B0211,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Ann Taylor Green Blouse M,B0212,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Lucky Brand Top Semi Sheer S,B0213,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Kids Under Armour Cold Gear Long Sleeve T YXS,B0214,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$20.99 ,$18.38 ,$0.00 ,$2.61 ,$1.34 ,10/28/2020,202010,
+Goodwill Bins S ATX,Kids Green North Face Zip Up S,B0215,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$0.00 ,$0.00 ,$0.00 ,($1.17),($1.27),12/6/2020,202012,
+Goodwill Bins S ATX,Victoria's Secret Racer Back XL,B0216,$1.17 ,$1.27 ,12/11/2020,,,,,,,,,,
+Goodwill Bins S ATX,BCBGMaxAzria Black Cardigan Wrap XS,B0217,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Cat & Jack Kids DUDE Graphic Tank XL,B0218,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$7.99 ,$7.51 ,$0.00 ,$0.48 ,($0.79),10/1/2020,202010,
+Goodwill Bins S ATX,Ann Taylor Black Long Sleeve Cardigan S,B0219,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$28.99 ,$23.33 ,$0.00 ,$5.66 ,$4.39 ,12/11/2020,202012,
+Goodwill Bins S ATX,Banana Republic Blazer 0,B0220,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Billabong Dress S,B0221,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Altar'd State Purple Shirt Dress Tunic S,B0222,$1.17 ,$1.27 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Bins S ATX,Topshop Pink Blouse 6,B0223,$1.17 ,$1.27 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Bins S ATX,DAY Rolling Stones Graphic Crop T S,B0224,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Michael Stars Wrap Top OS,B0225,$1.17 ,$1.27 ,10/26/2020,202010,,,,,,,,,666
+Goodwill Bins S ATX,Fabletics Black Aviana Top Long Sleeve Knotted Twist Back,B0226,$1.17 ,$1.27 ,12/11/2020,202012,Poshmark,$15.00 ,$3.00 ,$0.00 ,$12.00 ,$10.73 ,12/26/2020,202012,15
+Goodwill Bins S ATX,Inc Sleeveless Lace Top,B0227,$1.17 ,$1.27 ,8/27/2020,,ThredUp,$0.00 ,$0.00 ,$0.00 ,($1.27),($1.27),12/31/2020,202012,
+Goodwill Bins S ATX,Pretty Fit Graphic Bulk Gear Crop T M,B0228,$1.17 ,$1.27 ,10/26/2020,202010,,,,,,,,,666
+Goodwill Bins S ATX,Eileen Fisher Long Sleeve Top XS,B0229,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Mondetta Eggplant Purple Athletic Tank Top,B0230,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Banana Republic Long Cardigan Tunic XS,B0231,$1.17 ,$1.27 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Bins S ATX,Vince Double Layer Men's Full Zip Waffle Hoodie L,B0232,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Bershka Vintage Denim High Waist Cut Off Shorts 2,B0233,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Banana Republic White Shift Dress 4,B0234,$1.17 ,$1.27 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Bins S ATX,GAP Boho Blouse XS,B0235,$1.17 ,$1.27 ,10/26/2020,202010,,,,,,,,,666
+Goodwill Bins S ATX,Nordstrom Treasure & Bond Men's Distressed T Shirt L,B0236,$1.17 ,$1.27 ,9/18/2020,20209,,,,,,,,,704
+Goodwill Bins S ATX,Old Navy XXL Plus Size Striped Swing Dress,B0238,$1.17 ,$1.27 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Bins S ATX,Banana Republic Striped Cardigan S,B0239,$1.17 ,$1.27 ,12/11/2020,,,,,,,,,,
+Goodwill Bins S ATX,Levi's Extra High Waist Mom Jeans Cut off Distress Shorts ,B0240,$1.17 ,$1.27 ,,,,,,,,,,,
+Goodwill Bins S ATX,89th & Madison Stitch Fix Black Straight Leg Stretch Pants M,B0241,$1.17 ,$1.27 ,8/27/2020,,,,,,,,,,
+Goodwill Bins S ATX,Madewell Bedtime Pajama Shirt Ivory Rainbow Stripe M,B0242,$1.17 ,$1.27 ,12/11/2020,,,,,,,,,,
+Goodwill Bins S ATX,Pilcro and the Letterpress Anthro Slim Boyfriend Cuff Shorts 25,B0244,$0.00 ,$0.00 ,,,,,,,,,,,
+Nordstrom Rack,Soludos Alma Espadrille Mule Black 7.5 NWT,B0245,$17.04 ,$22.04 ,8/20/2020,20208,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$1.96 ,10/13/2020,202010,54
+Nordstrom Rack,Soludos Alma Espadrille Mule Pink 7.5 NWT,B0246,$8.74 ,$9.46 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Alma Espadrille Mule Pink 6.5 NWT,B0247,$8.74 ,$9.46 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Alma Espadrille Mule Pink 6.5 NWT,B0248,$8.74 ,$9.46 ,8/20/2020,20208,Poshmark,$34.00 ,$6.80 ,$7.11 ,$20.09 ,$10.63 ,12/26/2020,202012,128
+Nordstrom Rack,Soludos Alma Espadrille Mule Pink 9 NWT,B0249,$8.74 ,$9.46 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Alma Espadrille Mule Marigold 8.5 NWT,B0250,$8.74 ,$9.46 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Free People Ref Cherokee Moccasin 36 / 6 NWT,B0251,$14.99 ,$16.23 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Free People Ref Cherokee Moccasin 38 / 8 NWT,B0252,$14.99 ,$16.23 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Free People Ref Cherokee Moccasin 39 / 9 NWT,B0253,$14.99 ,$16.23 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Pride Smoking Slipper Espadrille 6 NWT,B0254,$7.87 ,$8.52 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Pride Smoking Slipper Espadrille 7 NWT,B0255,$7.87 ,$8.52 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Soludos Pride Smoking Slipper Espadrille 8 NWT,B0256,$7.87 ,$8.52 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Free People Royal Pointed Toe Flat Black 37.5 / 7.5 NWT,B0257,$29.99 ,$32.46 ,8/20/2020,20208,Poshmark,$111.00 ,$22.20 ,$2.12 ,$86.68 ,$54.22 ,9/21/2020,20209,32
+Nordstrom Rack,Sorel Ella Slingback Waterproof Sandal Metallic 6 NWT,B0258,$9.62 ,$10.41 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Eileen Fisher Wallis Wedge Espadrille 6 NWT,B0259,$17.49 ,$18.93 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Madewell The Remi Mule Suede English Saddle 8.5 NWT,B0260,$10.50 ,$11.37 ,8/20/2020,20208,Poshmark,$40.00 ,$8.00 ,$0.00 ,$32.00 ,$20.63 ,9/13/2020,20209,24
+Nordstrom Rack,Madewell The Remi Mule Suede English Saddle 6.5 NWT,B0261,$10.50 ,$11.37 ,8/20/2020,20208,Poshmark,$47.00 ,$9.40 ,$2.12 ,$35.48 ,$24.11 ,9/5/2020,20209,16
+Nordstrom Rack,Madewell The Remi Mule Suede True Black 8.5 NWT,B0262,$10.50 ,$11.37 ,8/20/2020,20208,Poshmark,$42.00 ,$8.40 ,$0.00 ,$33.60 ,$22.23 ,10/20/2020,202010,61
+Nordstrom Rack,Sam Edelman Everie Suede Flats 7 NWT,B0263,$8.74 ,$9.46 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Sam Edelman Clara Flat Mule Leather Black NWT 7,B0264,$10.49 ,$11.36 ,8/20/2020,20208,Poshmark,$35.00 ,$7.00 ,$0.00 ,$28.00 ,$16.64 ,9/5/2020,20209,16
+Nordstrom Rack,Sam Edelman Clara Flat Mule Leather Black NWT 10,B0265,$10.49 ,$11.36 ,8/20/2020,20208,Poshmark,,,,,,,,733
+Nordstrom Rack,Sam Edelman Clara Flat Mule Leather Silver Pewter NWT 6.5,B0266,$10.50 ,$11.37 ,8/20/2020,20208,Poshmark,$49.00 ,$9.80 ,$0.00 ,$39.20 ,$27.83 ,10/22/2020,202010,63
+Nordstrom Rack,Madewell The Boardwalk Ankle-Strap Black Sandal NWT 6.5,B0267,$11.24 ,$12.17 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Madewell The Boardwalk Woven Strap Sandal Leather True Black NWT 6,B0268,$11.24 ,$12.17 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Madewell The Boardwalk Woven Strap Sandal Leather True Black NWT 8.5,B0269,$11.24 ,$12.17 ,8/20/2020,20208,Mercari,$38.00 ,$3.80 ,$10.54 ,$23.66 ,$11.49 ,9/2/2020,20209,13
+Nordstrom Rack,Madewell The Boardwalk Woven Strap Sandal Leather Silver NWT 7.5,B0270,$11.24 ,$12.17 ,8/20/2020,20208,,,,,,,,,733
+Nordstrom Rack,Madewell Cory Mule Flats Snake Embossed Leather Forgotten Petal Multi 8,B0271,$16.11 ,$17.44 ,8/20/2020,20208,Poshmark,$39.00 ,$7.80 ,$2.12 ,$29.08 ,$11.64 ,8/26/2020,20208,6
+Thrift City,Lucky Brand Dot Circle Racer Back Tank S,B0272,$4.00 ,$4.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,LOFT Outlet Long Sleeve Maroon Blouse M,B0273,$5.00 ,$5.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,LRL Green Label Black and Gold Stripe Sweater L,B0274,$5.00 ,$5.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,Old Navy Active Legging Color Block High Waist S,B0275,$2.00 ,$2.00 ,,,,,,,,,,,
+Thrift City,COH Ava Low Rise Straight Leg 24,B0276,$7.39 ,$8.39 ,,,,,,,,,,,
+Thrift City,Ann Taylor LOFT Pink Ruffle Sweater XS,B0277,$4.00 ,$4.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,Banana Republic Coral Stretch Cotton Cardigan NWT M,B0278,$6.50 ,$6.50 ,12/11/2020,202012,Poshmark,$20.00 ,$4.00 ,$0.00 ,$16.00 ,$9.51 ,12/25/2020,202012,14
+Thrift City,Cabi Blouse 3597 L,B0279,$5.00 ,$5.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,J. Crew Sequin Stripe Tank NWT S,B0280,$5.00 ,$5.00 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,Lucky Brand Racer Back Tank S,B0281,$3.00 ,$3.00 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,Cabi Sweet Talk Red Striped Peplum Top 3631 S,B0282,$4.00 ,$4.00 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,Carhartt Pink Long Sleeve T Shirt XL,B0283,$1.50 ,$1.50 ,9/18/2020,20209,Poshmark,$10.00 ,$2.95 ,$0.00 ,$7.05 ,$5.56 ,9/27/2020,20209,9
+Thrift City,Gypsies & Moondust Floral Hoodie M,B0284,$1.50 ,$1.50 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,Talbots Striped tres chic embroidered Top SP,B0285,$4.00 ,$4.00 ,12/11/2020,,,,,,,,,,
+Thrift City,Ann Taylor Shift Dress Brown SP,B0286,$7.50 ,$7.50 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,LRL Green Label Bodycon Dress 6,B0287,$7.50 ,$7.50 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,J. Crew Collector Tees Frenchie Graphic T NWOT XS,B0288,$4.00 ,$4.00 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,J. Crew Paisley Sleeveless Blouse NWOT 8,B0289,$4.00 ,$4.00 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,Alya Franchesca's Collections Tunic Fringe Blouse L,B0290,$1.50 ,$1.50 ,12/11/2020,202012,,,,,,,,,620
+Thrift City,J. Crew NWT Charcoal Sequin Cardigan S,B0291,$5.00 ,$5.00 ,10/26/2020,202010,,,,,,,,,666
+Thrift City,J. Crew Beige Sequin Cardigan S,B0292,$4.00 ,$4.00 ,9/18/2020,20209,,,,,,,,,704
+Thrift City,Halogen Sleeveless Blouse Ruffle Neckline L,B0293,$4.00 ,$4.00 ,9/18/2020,20209,,,,,,,,,704
+Texas Thrift Store,Eden & Olivia Floral Blouse L,B0294,$3.49 ,$3.49 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Lucky Brand Floral Long Sleeve Blouse Semi Sheer M,B0295,$4.89 ,$4.89 ,12/11/2020,202012,,,,,,,,,620
+Texas Thrift Store,Eden & Olivia Floral Blouse XL,B0296,$2.79 ,$2.79 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,BCBGMaxazria Long Sleeve Button Down Blouse PXL,B0297,$2.09 ,$2.09 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Love Riche Long Bell Sleeve Avery Wine Color Blouse NWT L,B0298,$2.99 ,$2.99 ,,,,,,,,,,,
+Texas Thrift Store,LRL Green Label Ruffle Floral Blouse PM,B0299,$2.49 ,$2.49 ,10/26/2020,202010,,,,,,,,,666
+Texas Thrift Store,Ann Taylor Green Dot Blouse M,B0300,$2.49 ,$2.49 ,10/26/2020,202010,,,,,,,,,666
+Texas Thrift Store,Blu Pepper Vintage Embroidered Bell Sleeve Boho Blouse M,B0301,$2.49 ,$2.49 ,,,,,,,,,,,
+Texas Thrift Store,Eden & Olivia Floral Semi Sheer Blouse M,B0302,$2.49 ,$2.49 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Umgee Green Boho Lace Blouse,B0303,$1.99 ,$1.99 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,The Limited Bow Blouse L,B0304,$3.49 ,$3.49 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Altar'd State Boho Embroidered Long Sleeve Blouse L,B0305,$2.49 ,$2.49 ,,,,,,,,,,,
+Texas Thrift Store,AEO Semi Sheer Floral Ruffle Tank M,B0306,$1.99 ,$1.99 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Meraki Paisley Boho Blouse M,B0307,$1.99 ,$1.99 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Ann Taylor Black Sleeveless Ruffle Tank M,B0308,$2.09 ,$2.09 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Altar'd State Wrap Dress Boho L,B0309,$4.89 ,$4.89 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,RO&DE Embroidered Tunic Blouse L,B0310,$3.49 ,$3.49 ,,,,,,,,,,,
+Texas Thrift Store,Lush Ruffle Blouse Tank Black L,B0311,$2.09 ,$2.09 ,12/11/2020,202012,,,,,,,,,620
+Texas Thrift Store,Gaze Graphic Eye Tank M,B0312,$1.39 ,$1.39 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,LRL Green Label Silk Paisley Blouse PL,B0313,$3.49 ,$3.49 ,12/23/2020,202012,,,,,,,,,608
+Texas Thrift Store,Pins and Needles UO Polka Dot Tie Blouse M,B0314,$4.19 ,$4.19 ,10/26/2020,202010,,,,,,,,,666
+Texas Thrift Store,Lulus Trinidad Suede Lace Up Pink Heel 7.5,B0315,$4.19 ,$4.19 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,WHBM Vanessa Black Almond Toe Ankle Booties Heeled 7,B0316,$6.99 ,$6.99 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,Seychelles Pointed Toe Flat Cello 8,B0317,$3.49 ,$3.49 ,9/29/2020,20209,Poshmark,$15.00 ,$3.00 ,$2.12 ,$9.88 ,$6.39 ,10/1/2020,202010,2
+Texas Thrift Store,Seychelles Topaz Suede Wedge 7,B0318,$4.19 ,$4.19 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,Altar'd State Beaded Sandal 6,B0319,$3.49 ,$3.49 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,Neiman Marcus Corck Cap Toe Flat 8,B0320,$4.19 ,$4.19 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,LRL Striped Peep Toe Wedge Cecilia-es-csl 7.5,B0321,$4.19 ,$4.19 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,Lucky Brand Mindra Wedge 9,B0322,$3.49 ,$3.49 ,9/29/2020,20209,,,,,,,,,693
+Texas Thrift Store,Sam Edelman Black Heel Okala 7.5,B0323,$7.21 ,$7.21 ,9/29/2020,20209,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$16.79 ,10/1/2020,202010,2
+Texas Thrift Store,Sam Edelman White Heel Okala 7.5,B0324,$7.21 ,$7.21 ,9/29/2020,20209,Poshmark,$30.00 ,$6.00 ,$0.00 ,$24.00 ,$16.79 ,9/30/2020,20209,1
+Goodwill Derby KS,LC Lauren Conrad Bow Print Top S,B0325,$3.99 ,$4.31 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Derby KS,Express Columnist Grey Dress Pants 8S,B0326,$3.99 ,$4.31 ,,,,,,,,,,,
+Goodwill Derby KS,Kut from the Kloth Lauren Crop Straight Leg Jeans 2,B0327,$3.99 ,$4.31 ,,,,,,,,,,,
+Goodwill Derby KS,Kuhl Hiking Skirt Black Maroon Fleece S,B0328,$3.49 ,$3.77 ,,,,,,,,,,,
+Goodwill Derby KS,Express NWT Tan Ultimate Chino Straight Mid Rise Dress Pants 4R,B0329,$3.99 ,$4.31 ,,,,,,,,,,,
+Goodwill Derby KS,Ann Taylor LOFT Animal Leopard Print Top L Petite,B0330,$3.99 ,$4.31 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Derby KS,Ann Taylor LOFT Ruffle Front Top M Petite,B0331,$2.99 ,$3.23 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Derby KS,Hollister Racer Back Tank Boho S,B0332,$2.99 ,$3.23 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Derby KS,Maurice's NWT Boho Tunic Top S,B0333,$2.99 ,$3.23 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Derby KS,None - Charged 2x by Retailer,B0334,$2.99 ,$3.23 ,9/24/2020,20209,None,$0.00 ,$0.00 ,$0.00 ,($3.23),($3.23),9/24/2020,20209,0
+Goodwill Cibolo,Dansko XP Silver Ornate Flower Design Clog 41 (10.5-11),B0335,$5.00 ,$5.41 ,9/29/2020,20209,,,,,,,,,693
+Goodwill Cibolo,You're the Best Procelian Mug,B0336,$1.09 ,$1.18 ,,,,,,,,,,,
+Goodwill Cibolo,Adrianna Papell Striped Blouse 1X,B0337,$5.00 ,$5.41 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Columbia Omni Wick Long Sleeve Thermal M,B0338,$2.40 ,$2.59 ,12/11/2020,202012,,,,,,,,,620
+Goodwill Cibolo,GAP The Modern Tee Wide Neck Top M,B0339,$4.79 ,$5.19 ,WEARING,,,,,,,,,,
+Goodwill Cibolo,WHBM NWT The Ponte Slim Boot White Dress Pants 0R,B0340,$4.79 ,$5.19 ,,,,,,,,,,,
+Garage Sale,Lagaci NWT Boho Gypsy Cream Dress L,B0341,$1.00 ,$1.00 ,,,,,,,,,,,
+Garage Sale,Max Studio Lace Dress S,B0342,$1.00 ,$1.00 ,12/23/2020,202012,,,,,,,,,608
+Garage Sale,Sheer Lace Top,B0343,$1.00 ,$1.00 ,12/23/2020,202012,,,,,,,,,608
+Garage Sale,Gimmicks BKE lace boho top XS,B0344,$1.00 ,$1.00 ,12/23/2020,202012,,,,,,,,,608
+Garage Sale,BKE Lace Racerback Coral Tank S,B0345,$1.00 ,$1.00 ,,,,,,,,,,,
+Garage Sale,Express The Portofino Shirt Red Roll Tab Blouse S,B0346,$1.00 ,$1.00 ,12/23/2020,202012,,,,,,,,,608
+Garage Sale,Levi's 524 Too Superlow Dark Wash Denim Jeans 5M,B0347,$1.00 ,$1.00 ,,,,,,,,,,,
+Goodwill Cibolo,BCBGMaxAzria NWT Black Sequin Swing Mini Dress 02,B0348,$12.99 ,$14.06 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Umgee Floral Boho Long Sleeve Blouse XL,B0349,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Umgee Red Blouse Cold Shoulder Lace Plus Size1XL,B0350,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Umgee Orange Grey Blouse Semi Sheer XL,B0351,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Band of Gypsies Strapless Boho Dress S,B0352,$4.00 ,$4.33 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Umgee Open Back Geometric Print Blouse Semi Sheer L,B0353,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Power Hold Fabletics High Waist Crop Legging S,B0354,$4.79 ,$5.19 ,,,,,,,,,,,
+Goodwill Cibolo,Umgee Chevron Rainbow Geometric Blouse Plus Size 1XL,B0355,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Fig and Flower Anthro Paisley Semi-Sheer Boho Blouse S,B0356,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,entro boho Bell Sleeve Long Sleeve Strappy Blouse L,B0357,$4.79 ,$5.19 ,,,,,,,,,,,
+Goodwill Cibolo,Lucky Brand White Scoop Neck Henley Thermal Lace L,B0358,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Umgee Kimono Wrap Embroidered S/M,B0359,$4.79 ,$5.19 ,,,,,,,,,,,
+Goodwill Cibolo,aerie NWT black long sleeve shirt hoodie L,B0360,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Express Split Back Tank White Black S,B0361,$4.00 ,$4.33 ,,,,,,,,,,,
+Goodwill Cibolo,nanette lepore Orange Bingo Midi Dress Floral 4,B0362,$7.99 ,$8.65 ,12/23/2020,202012,,,,,,,,,608
+Goodwill Cibolo,Coach Haven Stacked Heel Studded Ankle Bootie 7.5,B0363,$14.99 ,$16.23 ,,,,,,,,,,,
+Goodwill Cibolo,Sam Edelman Gael Strappy Leather Sandal 6.5,B0364,$3.99 ,$4.32 ,,,,,,,,,,,
+Goodwill Cibolo,Torrid Maroon Suede Loafer Flat Shoe Size Unknown,B0365,$6.99 ,$7.57 ,,,,,,,,,,,
+Goodwill N Loop 1604,Lucky Brand Candy Cork Platform Wedges 6.5,B0366,$6.99 ,$7.57 ,,,,,,,,,,,
+Goodwill N Loop 1604,Lucky Brand Pickla Stacked Heel Suede Bootie 8.5,B0367,$9.99 ,$10.81 ,,,,,,,,,,,
+Goodwill N Loop 1604,Sparrow Anthro Wool Cashmere Cardigan Duster M,B0368,$4.79 ,$2.40 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Vintage Nanette Lepore Little Black Dress 4,B0369,$4.00 ,$4.33 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Madewell Tulip Sleeve Floral Velvet Ruffle Top XS,B0370,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Fig and Flower Boho Paisley Tunic Dress Plus Size 3x,B0371,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Lucky Brand Sleeveless Boho Top Snap Front XL,B0372,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Ann Taylor LOFT Button Up Blouse Peacock Feather Graphic M,B0373,$4.79 ,$5.19 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Vintage nanette lepore Little Black Bodycon Dress 4,B0374,$4.00 ,$4.33 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Vintage nanette lepore Black Fit & Flare Dress 4,B0375,$7.99 ,$8.65 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,Altar'd State Boho Embroidered Blouse M,B0376,$7.99 ,$8.65 ,,,,,,,,,,,
+Goodwill N Loop 1604,Umgee Mint Green Semi Sheer Blouse M,B0377,$7.99 ,$8.65 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,ZARA Trafaluc Floral Geometric Dress S,B0378,$7.99 ,$8.65 ,12/23/2020,202012,,,,,,,,,608
+Goodwill N Loop 1604,NWT Altar'd State Black Dress Lace Back M,B0379,$7.99 ,$8.65 ,12/23/2020,202012,,,,,,,,,608
