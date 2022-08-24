@@ -86,13 +86,6 @@ AMAZON (Coming Soon)<br />
 2. Connect to applicable server.
 3. Select 'New Query' from the ribbon.
 4. Copy/Paste code from repository.
+5. Execute.
+6. Right-click anywhere on the query results and select 'Save Results As,' select your destination and 'Save.'
 
-### Import to Tableau & Create New Dashboard
-1. 
-2. 
-3. 
-
-### Import to Tableau & Update Existing Dashboard
-1. 
-2. 
-3. 
